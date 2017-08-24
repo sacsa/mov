@@ -27,15 +27,15 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", CALLE 13
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Oda7wGH.png", CALLE 13
 http://cdn.opencable.es/hls/live/calle13/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", LOCOMOTION
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_app/stream.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", ACS Network TV 
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/7pra6ii.png", ACS Network TV 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", PANDA
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/gUPHcIi.png", PANDA
 http://cdn.opencable.es/hls/live/panda/index.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS SIMPSON
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
