@@ -1,0 +1,51 @@
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", MEGA CHILE
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", TVN
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2LBs5VU.png", CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", UCV
+http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", LA RED
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", MEGA ESPAÑA
+http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-b.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", 8Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", ANTENA 3  
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/0Asjy1P.png", NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lqVO3QU.png", La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", CALLE 13
+http://cdn.opencable.es/hls/live/calle13/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime Tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", Locomotion | SD
+http://locomotiontv.com/envivo/loco_app/stream.m3u8
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", ACS Network TV 
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", Panda
+http://cdn.opencable.es/hls/live/panda/index.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS SIMPSON
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
+http://200.75.19.171:80/uoct/84/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", F.Aguirre/Balmaceda
+http://200.75.19.171:80/uoct/87/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", F.Aguirre/Ruta 5
+http://200.75.19.171:80/uoct/88/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Amunategui/Balmaceda
+http://200.75.19.171:80/uoct/86/playlist.m3u8
+
+
