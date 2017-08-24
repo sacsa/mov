@@ -23,7 +23,7 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/0Asjy1P.png", NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lqVO3QU.png", La Sexta
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lqVO3QU.png", LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -31,11 +31,11 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://cdn.opencable.es/hls/live/calle13/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", Locomotion | SD
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", LOCOMOTION
 http://locomotiontv.com/envivo/loco_app/stream.m3u8
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", ACS Network TV 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", Panda
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="", PANDA
 http://cdn.opencable.es/hls/live/panda/index.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS SIMPSON
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
