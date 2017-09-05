@@ -19,6 +19,8 @@ http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-b.m3u8?
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", ATRESERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", ATRESERIES  2
+https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8   
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", ANTENA 3  
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/0Asjy1P.png", NOVA
@@ -35,6 +37,18 @@ http://locomotiontv.com/envivo/loco_app/stream.m3u8
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS SIMPSON
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca Cinema 
+https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca Corazón 
+https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca Clic 
+https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Mexico Travel
+http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8   
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
 http://200.75.19.171:80/uoct/84/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", F.Aguirre/Balmaceda
