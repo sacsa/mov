@@ -37,17 +37,17 @@ http://locomotiontv.com/envivo/loco_app/stream.m3u8
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS SIMPSON
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca Cinema 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3rOyMZ.png", AZTECA CINEMA 
 https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca Corazón 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", AZTECA CORAZON 
 https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca 13 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", AZTECA 13 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Azteca Clic 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4YXJGsM.png", AZTECA CLIC
 https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Mexico Travel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/isVPDle.png", MEXICO TRAVEL
 http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", DW
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2WyzIaK.png", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8   
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
 http://200.75.19.171:80/uoct/84/playlist.m3u8
