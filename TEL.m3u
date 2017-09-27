@@ -29,6 +29,8 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 101 TV
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
@@ -37,6 +39,8 @@ http://locomotiontv.com/envivo/loco_app/stream.m3u8
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS SIMPSON
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", SIPSE TV
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3rOyMZ.png", AZTECA CINEMA 
 https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", AZTECA CORAZON 
