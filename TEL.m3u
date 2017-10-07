@@ -29,6 +29,10 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", LA OTRA
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 101 TV
 http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime Tv
@@ -49,10 +53,22 @@ https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4YXJGsM.png", AZTECA CLIC
 https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/isVPDle.png", MEXICO TRAVEL
 http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2WyzIaK.png", DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8   
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", NiuMedia
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", CANAL 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", Hola TV 
+https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
 http://200.75.19.171:80/uoct/84/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", F.Aguirre/Balmaceda
