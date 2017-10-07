@@ -13,7 +13,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA ESPAÑA[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
@@ -47,17 +47,17 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3rOyMZ.png", [COLOR lime][B]AZTECA  CINEMA[/B][/COLOR] 
 https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", [COLOR green][B]AZTECA  CORAZON[/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", [COLOR lime][B]AZTECA  CORAZON[/B][/COLOR] 
 https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR orange][B]AZTECA  13[/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  13[/B][/COLOR] 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4YXJGsM.png", [COLOR orange][B]AZTECA  CLIC[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4YXJGsM.png", [COLOR lime][B]AZTECA  CLIC[/B][/COLOR]
 https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orange][B]LAS  ESTRELLAS[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orange][B]CANAL  22[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CANAL  22[/B][/COLOR]
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/isVPDle.png", [COLOR orange][B]MEXICO  TRAVEL[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/isVPDle.png", [COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]
 http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2WyzIaK.png", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
