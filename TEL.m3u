@@ -1,39 +1,39 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", MEGA  CHILE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA  CHILE[/B]
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", TVN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2LBs5VU.png", CHV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2LBs5VU.png", [B]CHV[/B]
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8  
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", 13
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", UCV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", [B]UCV[/B]
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", LA  RED
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR lime][B]MEGA ESPAÑA[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA ESPAÑA[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-b.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR lime][B]8Tv[/B][/COLOR]  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [COLOR lime][B]ATRESERIES[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [COLOR orange][B]ATRESERIES[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [COLOR lime][B]ATRESERIES  2[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [COLOR orange][B]ATRESERIES  2[/B][/COLOR]
 https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8   
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [COLOR lime][B]ANTENA  3[/B][/COLOR]  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [COLOR orange][B]ANTENA  3[/B][/COLOR]  
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/0Asjy1P.png", [COLOR lime][B]NOVA[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/0Asjy1P.png", [COLOR orange][B]NOVA[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lqVO3QU.png", [COLOR lime][B]LA  SEXTA[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lqVO3QU.png", [COLOR orange][B]LA  SEXTA[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", [COLOR lime][B]NEOX[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", [COLOR orange][B]NEOX[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", [COLOR lime][B]TELEMADRID[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", [COLOR orange][B]TELEMADRID[/B][/COLOR]
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR lime][B]LA  OTRA[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]101 TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR orange][B]101 TV[/B][/COLOR]
 http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
@@ -45,9 +45,9 @@ http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR orange][B]SIPSE TV[/B][/COLOR]
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3rOyMZ.png", [COLOR orange][B]AZTECA  CINEMA[/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3rOyMZ.png", [COLOR lime][B]AZTECA  CINEMA[/B][/COLOR] 
 https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", [COLOR orange][B]AZTECA  CORAZON[/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", [COLOR green][B]AZTECA  CORAZON[/B][/COLOR] 
 https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR orange][B]AZTECA  13[/B][/COLOR] 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
