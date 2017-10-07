@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png",[COLOR lime] MEGA CHILE[/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png",[COLOR lime][B] MEGA CHILE[/B][/COLOR]
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", TVN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [COLOR blue][B]TVN[/B][/COLOR]
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2LBs5VU.png", CHV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2LBs5VU.png", [COLOR orange][B]CHV[/B][/COLOR]
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8  
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", 13
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [COLOR purple][B]13[/B][/COLOR]
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", UCV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", [COLOR red][B]UCV[/B][/COLOR]
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", LA RED
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
