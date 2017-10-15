@@ -69,6 +69,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSdJCxT.png", TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", DC
+http://tepo7.telesport.pw/live/dcine/57475.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
 http://200.75.19.171:80/uoct/84/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", F.Aguirre/Balmaceda
