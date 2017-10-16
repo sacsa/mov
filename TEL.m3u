@@ -33,43 +33,34 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orange][B]A1 FILM[/B][/COLOR]
+http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oW2eQ1n.png", [COLOR orange][B]101 TV[/B][/COLOR]
 http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime  Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_app/stream.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/7pra6ii.png", ACS  Network  TV 
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9JQeyGx.png", LOS  SIMPSON
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dunWRHw.png", [COLOR lime][B]SIPSE TV[/B][/COLOR]
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3rOyMZ.png", [COLOR lime][B]AZTECA  CINEMA[/B][/COLOR] 
-https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t0UjR8d.png", [COLOR lime][B]AZTECA  CORAZON[/B][/COLOR] 
-https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  13[/B][/COLOR] 
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4YXJGsM.png", [COLOR lime][B]AZTECA  CLIC[/B][/COLOR]
-https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIejZJi.png", [COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WPGsSCW.png", [COLOR lime][B]CANAL  22[/B][/COLOR]
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/isVPDle.png", [COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]
 http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", DW
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lzKHOnQ.png", NIU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lzKHOnQ.png", [COLOR blue][B]NIU[/B][/COLOR]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", WOW TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zF7AhkY.png", HOLA TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zF7AhkY.png", [COLOR blue][B]HOLA TV[/B][/COLOR] 
 https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSdJCxT.png", TLX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSdJCxT.png", [COLOR blue][B]TLX[/B][/COLOR]
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
 http://200.75.19.171:80/uoct/84/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", F.Aguirre/Balmaceda
