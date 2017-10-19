@@ -47,7 +47,7 @@
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
              <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>	
 		
 		<item>
@@ -55,15 +55,15 @@
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
              <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>
 		
 		<item>
              <title>[COLOR blue][B]TELECINCO[/B][/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
-             <thumbnail>http://i.imgur.com/0Asjy1P.png</thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             <thumbnail></thumbnail>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>
 			 
 		<item>
@@ -71,7 +71,7 @@
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
              <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>
 	 
 	
@@ -93,7 +93,7 @@
 
         <item>
              <title>[COLOR blue][B]ESTRENOS[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
+             <sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos2.html</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
              <thumbnail></thumbnail>
 			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
