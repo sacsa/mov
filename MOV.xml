@@ -34,11 +34,86 @@
         <utube>gEQwptYPRF0</utube>
         </item>
 		
+	<item>
+             <title>[COLOR blue][B]ENERGY[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/energy.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+			 
 		<item>
-        <title>[COLOR light blue][B]TV Publica Argentina[/B][/COLOR]</title> 
-        <utube>LxzMFcs6ODg</utube>
-        </item>
+             <title>[COLOR blue][B]CUATRO[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>	
 		
+		<item>
+             <title>[COLOR blue][B]DIVINITY[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+		
+		<item>
+             <title>[COLOR blue][B]TELECINCO[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail>http://i.imgur.com/0Asjy1P.png</thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+			 
+		<item>
+             <title>[COLOR blue][B]FDF[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+	 
+	
+		<item>
+             <title>[COLOR blue][B]COCINA[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+
+		<item>
+             <title>[COLOR blue][B]ACCION[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>	 
+
+        <item>
+             <title>[COLOR blue][B]ESTRENOS[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+			 
+		<item>
+             <title>[COLOR blue][B]HISTORIA[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/documentales/historia.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+
+		<item>
+             <title>[COLOR blue][B]NATIONAL GEOGRAPHIC[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>	 
 		
 		
 		
