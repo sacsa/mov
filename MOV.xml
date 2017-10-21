@@ -20,37 +20,28 @@
         </item>
 		
 		<item>
-        <title>[COLOR orange][B]La Niñera 2[/B][/COLOR]</title>
-        <utube>EqEcZheLprA</utube>
-        </item>
-		
-		<item>
-        <title>[COLOR orange][B]La Niñera 3[/B][/COLOR]</title>
-        <utube>t6g800082TE</utube>
-        </item>
-		
-		<item>
-        <title>[COLOR light blue][B]Granada Channel TV[/B][/COLOR]</title> 
+        <title>[COLOR light blue][B]GRANADA CHANNEL TV[/B][/COLOR]</title> 
         <utube>7pVE_9x3DFI</utube>
         </item>
 		
-	<item>
-             <title>[COLOR blue][B]ENERGY[/B][/COLOR][COLOR lightblue]• Canales Azul esperar 10 segundos • [/COLOR]</title>
+		
+	     <item>
+             <title>[COLOR blue][B]ENERGY[/B][/COLOR] [COLOR lightblue]  *• Canales Azul esperar 15 segundos • * [/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/energy.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             <thumbnail>https://i.imgur.com/b4OWVNf.png</thumbnail>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>
 			 
-		<item>
+	     <item>
              <title>[COLOR blue][B]CUATRO[/B][/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
+             <thumbnail>https://i.imgur.com/OtqCBJX.png</thumbnail>
 	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>	
 		
-		<item>
+	     <item>
              <title>[COLOR blue][B]DIVINITY[/B][/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
@@ -58,67 +49,203 @@
 	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>
 		
-		<item>
+             <item>
              <title>[COLOR blue][B]TELECINCO[/B][/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
+             <thumbnail>https://i.imgur.com/XoLgCLD.png</thumbnail>
 	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>
-			 
-		<item>
-             <title>[COLOR blue][B]FDF[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</sportsdevil>
-             <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
+		
+             <item>
+             <title>[COLOR blue][B]BE MAD[/B][/COLOR]</title>
+             <sportsdevil>http://www.verdirectotv.com/ver-bemad-en-directo-y-online-canal-documental/</sportsdevil>
+             <referer>http://verdirectotv.net/</referer>
+             <thumbnail>https://i.imgur.com/jbO2OqE.png</thumbnail>
 	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>
-	 
-	
-		<item>
-             <title>[COLOR blue][B]COCINA[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil>
-             <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>
-
-		<item>
-             <title>[COLOR blue][B]ACCION[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil>
-             <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>	 
-
-        <item>
-             <title>[COLOR blue][B]ESTRENOS[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
-             <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>
+             </item>			 
 			 
-		<item>
+	     <item>
              <title>[COLOR blue][B]HISTORIA[/B][/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/documentales/historia.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>
-
-		<item>
-             <title>[COLOR blue][B]NATIONAL GEOGRAPHIC[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</sportsdevil>
-             <referer>http://cinestrenostv.tv</referer>
-             <thumbnail></thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             <thumbnail>https://i.imgur.com/9MmBdBk.png</thumbnail>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
              </item>	 
-		
-		
-		
-	
-			 
+				
+				
+				
+<item>
+<title>[COLOR white][B]MEGA  CHILE[/B][/COLOR]</title>
+<link>https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8</link>
+<thumbnail>http://i.imgur.com/txTIVp8.png</thumbnail> 
+</item>
 
-    
+<item>
+<title> [COLOR white][B]TVN[/B][/COLOR]</title>
+<link>https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8</link>
+<thumbnail>http://i.imgur.com/lkAAary.png</thumbnail> 
+</item>
+
+<item>
+<title> [COLOR white][B]CHV[/B][/COLOR]</title>
+<link>http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8</link>  
+<thumbnail>http://i.imgur.com/2LBs5VU.png</thumbnail> 
+</item>
+
+<item>
+<title> [COLOR white][B]13[/B][/COLOR]</title>
+<link>http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8</link> 
+<thumbnail>http://i.imgur.com/A9rJ5rq.png</thumbnail> 
+</item>
+
+<item>
+<title> [COLOR white][B]UCV[/B][/COLOR]</title>
+<link>http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Cbc1YzS.png</thumbnail> 
+</item>
+
+<item>
+<title> [COLOR white][B]LA  RED[/B][/COLOR]</title>
+<link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone</link>
+<thumbnail>http://i.imgur.com/X02NeYZ.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-b.m3u8?</link>
+<thumbnail>http://i.imgur.com/H44qJa0.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]8Tv[/B][/COLOR]</title>  
+<link>http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8</link>
+<thumbnail>http://i.imgur.com/ouPLH7p.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]ATRESERIES  HD[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>http://i.imgur.com/TNnbojw.png</thumbnail> 
+</item>
+
+
+<item>
+<title>[COLOR orange][B]ATRESERIES[/B][/COLOR]</title>
+<link>https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8</link>   
+<thumbnail>http://i.imgur.com/TNnbojw.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]ANTENA  3[/B][/COLOR]</title>  
+<link>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8</link>
+<thumbnail>http://i.imgur.com/tjTpfaN.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]NOVA[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/0Asjy1P.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]LA  SEXTA[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?</link>
+<thumbnail>http://i.imgur.com/lqVO3QU.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]NEOX[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail>http://i.imgur.com/s8Zu8Mm.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]TELEMADRID[/B][/COLOR]</title>
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
+<thumbnail>http://i.imgur.com/fp23JTm.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]LA  OTRA[/B][/COLOR]</title>
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
+<thumbnail>http://i.imgur.com/a80LLYs.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR orange][B]A1 FILM[/B][/COLOR]</title>
+<link>http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/VQgDvMA.png</thumbnail> 
+</item>
+
+<item>
+<title>[B]Anime  Tv[/B]</title>
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>?monclovacaliente.m3u8</link> 
+<thumbnail>http://i.imgur.com/5p36YSf.png</thumbnail> 
+</item>
+
+<item>
+<title>[B]LOCOMOTION[/B]</title>
+<link>http://locomotiontv.com/envivo/loco_app/stream.m3u8</link>
+<thumbnail>http://i.imgur.com/DRDppOi.png</thumbnail> 
+</item>
+
+<item>
+<title>[B]LOS  SIMPSON[/B]</title>
+<link>http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/9JQeyGx.png</thumbnail> 
+</item>
+
+
+<item>
+<title>[COLOR lime][B]SIPSE TV[/B][/COLOR]</title>
+<link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8</link>
+<thumbnail>https://i.imgur.com/dunWRHw.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
+<thumbnail>https://i.imgur.com/wIejZJi.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR lime][B]CANAL  22[/B][/COLOR]</title>
+<link>http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?</link>
+<thumbnail>https://i.imgur.com/WPGsSCW.png</thumbnail> 
+</item>
+
+
+<item>
+<title>[COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]</title>
+<link>http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8</link>
+<thumbnail>https://i.imgur.com/isVPDle.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR gold][B]DW[/B][/COLOR]</title>
+<link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8</link>  
+<thumbnail>https://i.imgur.com/AGadXCc.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR gold][B]NIU[/B][/COLOR]</title>
+<link>http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/lzKHOnQ.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR gold][B]WOW TV[/B][/COLOR]</title>
+<link>http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?</link>
+<thumbnail>https://i.imgur.com/CyiiXhJ.png</thumbnail> 
+</item>
+
+
+
+
+	
+			
+		
+		
+		
     </items>
