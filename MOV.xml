@@ -71,7 +71,15 @@
              <referer>http://cinestrenostv.tv</referer>
              <thumbnail>https://i.imgur.com/9MmBdBk.png</thumbnail>
 	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>	 
+             </item>
+		
+	     <item>
+             <title>[COLOR blue][B]SERIES[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail></thumbnail>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
 				
 				
 				
