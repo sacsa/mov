@@ -78,6 +78,14 @@
              </item>
 		
 	     <item>
+             <title>[COLOR blue][B]D CINE[/B][/COLOR]</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail>https://i.imgur.com/abfEa6b.png</thumbnail>
+	     <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+             </item>
+		
+	     <item>
              <title>[COLOR blue][B]SERIES[/B][/COLOR]</title>
              <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
              <referer>http://cinestrenostv.tv</referer>
