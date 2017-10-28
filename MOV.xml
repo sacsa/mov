@@ -19,7 +19,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 			 </item>
 			
 			<item>
-			 <title>[COLOR red][B]•   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •  [/B][/COLOR]</title>
+			 <title>[COLOR red][B]•   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   • [/B][/COLOR]</title>
 			 <link>NA</link>
 			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 			 </item>
@@ -209,6 +209,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	</item>
 
 	<item>
+	<title>[COLOR blue][B]AMC[/B][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>videoUrl = '(.*?)'</expres>
+	<page>http://livesports.pw/embedn.php?file=amcesptele&amp;width=650&amp;height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail>https://i.imgur.com/gfevbJn.png</thumbnail> 
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>   
+	</item>
+		
+	<item>
 	<title>[COLOR blue][B]AXN[/B][/COLOR] </title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
@@ -232,7 +245,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
 	</regex>
 	<thumbnail>https://i.imgur.com/CmLSkn9.png</thumbnail> 
-    <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>	
+        <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>	
 	</item>
 	
 	<item>
@@ -262,6 +275,20 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
 	
+			
+	<item>
+	<title>[COLOR blue][B]CRIMEN + INVESTIGACION[/B][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>videoUrl = '(.*?)'</expres>
+	<page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>   
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>	
+		
 	<item>
 	<title>[COLOR blue][B]HISTORIA[/B][/COLOR] </title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
