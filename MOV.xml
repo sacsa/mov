@@ -28,7 +28,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	
 	
 <item>
-<title>[COLOR lime][B]»»»[/B][/COLOR]   [COLOR orangered][B]PROGRAMACION   EPG [/B] [/COLOR][COLOR lime][B]««« [/B][/COLOR]</title>
+<title>[COLOR lime][B]»»»[/B][/COLOR]   [COLOR orangered][B]PROGRAMACION   EPG[/B][/COLOR][COLOR lime][B]««« [/B][/COLOR]</title>
  <link>$doregex[makelist]</link>
 
 <regex>
@@ -41,7 +41,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
 <page>http://www.formulatv.com/programacion/</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/9yRBGCO.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 <info></info>
  </item>	
@@ -353,7 +353,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <item>
 <title>[COLOR orange][B]ATRESERIES  HD[/B][/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
-<thumbnail>http://i.imgur.com/TNnbojw.png</thumbnail> 
+<thumbnail>https://i.imgur.com/7CNArTW.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
