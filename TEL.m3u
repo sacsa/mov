@@ -17,7 +17,7 @@ http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-ag
 http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7CNArTW.png", [COLOR orange][B]ATRESERIES HD[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7CNArTW.png", [COLOR orange][B]ATRESERIES  HD[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [COLOR orange][B]ANTENA  3[/B][/COLOR]  
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
@@ -34,7 +34,7 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [COLOR orange][B]A1 FILM[/B][/COLOR]
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [COLOR orange][B]PARAMOUNT CHANNEL[/B][/COLOR]
-https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8 
+http://paramount.live.flumotion.com/live/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime  Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
