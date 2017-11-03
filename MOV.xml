@@ -79,17 +79,18 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 		
 		
 		<item>
-		<title>[COLOR blue][B]ENERGY[/B][/COLOR] [COLOR lightblue]  * • Canales Azul esperar 15 segundos • * [/COLOR]</title>
-		 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+		<title>[COLOR blue][B]ENERGY 2[/B][/COLOR] [COLOR lightblue]  * • Canales Azul esperar 15 segundos • * [/COLOR]</title>
+		<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 		<regex>
-		<name>GetPageUrl</name>
-		<expres>videoUrl = '(.*?)'</expres>
-		<page>http://livesports.pw/embedn.php?file=energy&amp;width=650&amp;height=397</page>
-		<cookieJar></cookieJar>
+		<name>get-id</name>
+		<expres>source: '(.*?)'</expres>
+		<page>http://vergol.com/live/energy.php</page>
+		<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+		<agent>iPad</agent>
 		</regex>
-		<thumbnail>https://i.imgur.com/b4OWVNf.png</thumbnail> 
-		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>		
-		</item>
+		<thumbnail>https://i.imgur.com/b4OWVNf.png</thumbnail>   
+		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+		</item>	
 			
 		<item>
 		<title>[COLOR blue][B]CUATRO[/B][/COLOR] </title>
@@ -282,19 +283,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
 	
-			
 	<item>
 	<title>[COLOR blue][B]CRIMEN + INVESTIGACION[/B][/COLOR] </title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
-	<expres>videoUrl = '(.*?)'</expres>
-	<page>http://livesports.pw/embedn.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
-	<cookieJar></cookieJar>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live/canalcrimen.php</page>
+	<referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+	<agent>iPad</agent>
 	</regex>
-	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>   
+	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>  
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>	
+	</item>
 		
 	<item>
 	<title>[COLOR blue][B]HISTORIA[/B][/COLOR] </title>
