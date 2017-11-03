@@ -107,13 +107,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 		</item>
 		
 
-			 <item>
-             <title>[COLOR blue][B]DIVINITY[/B][/COLOR]</title>
-             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
-             <referer>http://cinestrenostv.tv</referer>
-             <thumbnail>https://i.imgur.com/icQ1FQz.png</thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>
+		<item>
+		<title>[COLOR blue][B]DIVINITY[/B][/COLOR]</title>
+		<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+		<regex>
+		<name>get-id</name>
+		<expres>source: '(.*?)'</expres>
+		<page>http://vergol.com/live/divinity.php</page>
+		<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+		<agent>iPad</agent>
+		</regex>
+		<thumbnail>https://i.imgur.com/icQ1FQz.png</thumbnail>   
+		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+		</item>	
 		
 
 		<item>
@@ -144,13 +150,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 		</item>	 
 		
-			 <item>
-             <title>[COLOR blue][B]BE MAD[/B][/COLOR]</title>
-             <sportsdevil>http://www.verdirectotv.com/ver-bemad-en-directo-y-online-canal-documental/</sportsdevil>
-             <referer>http://verdirectotv.net/</referer>
-             <thumbnail>https://i.imgur.com/jbO2OqE.png</thumbnail>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-             </item>			
+		<item>
+		<title>[COLOR blue][B]BE  MAD[/B][/COLOR]</title>
+		<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+		<regex>
+		<name>get-id</name>
+		<expres>source: '(.*?)'</expres>
+		<page>http://vergol.com/live/bemad.php</page>
+		<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+		<agent>iPad</agent>
+		</regex>
+		<thumbnail>https://i.imgur.com/jbO2OqE.png</thumbnail>   
+		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+		</item>				
 			 
 	
 	
@@ -210,18 +222,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	</item>
 
 	<item>
-	<title>[COLOR blue][B]AMC[/B][/COLOR] </title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]AMC[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
-	<expres>videoUrl = '(.*?)'</expres>
-	<page>http://livesports.pw/embedn.php?file=amcesptele&amp;width=650&amp;height=397</page>
-	<cookieJar></cookieJar>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live/amc.php</page>
+	<referer>http://vertelevisor.com/tv/nacionales/amc.html</referer>
+	<agent>iPad</agent>
 	</regex>
-	<thumbnail>https://i.imgur.com/gfevbJn.png</thumbnail> 
-	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>   
+	<thumbnail>https://i.imgur.com/gfevbJn.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
-		
+
 	<item>
 	<title>[COLOR blue][B]AXN[/B][/COLOR] </title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
