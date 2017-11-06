@@ -79,7 +79,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 		
 		
 		<item>
-		<title>[COLOR blue][B]ENERGY 2[/B][/COLOR] [COLOR lightblue]  * • Canales Azul esperar 15 segundos • * [/COLOR]</title>
+		<title>[COLOR blue][B]ENERGY[/B][/COLOR] [COLOR lightblue]  * • Canales Azul esperar 15 segundos • * [/COLOR]</title>
 		<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
 		<regex>
 		<name>get-id</name>
