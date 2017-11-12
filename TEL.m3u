@@ -70,5 +70,15 @@ http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
 http://195.154.167.62:9314/;*.aac
 
+#EXTINF:0, radio="true" tvg-logo="https://i.imgur.com/pUjYhA6.png", FM  DOS 
+http://18913.live.streamtheworld.com/FMDOSAAC.aac
+#EXTINF:0, radio="true" tvg-logo="https://i.imgur.com/FCuukS6.png", ROMANTICA
+http://unlimited3-cl.digitalproserver.com/romantica/aac/icecast.audio
+#EXTINF:0, radio="true" tvg-logo="https://i.imgur.com/lXHqekn.png", PUDAHUEL
+http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
+#EXTINF:0, radio="true" tvg-logo="https://i.imgur.com/NPXOnsQ.png", EL  CONQUISTADOR
+http://195.154.167.62:9314/;*.aac
+
+
 
 
