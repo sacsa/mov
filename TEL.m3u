@@ -61,17 +61,17 @@ http://200.75.19.171:80/uoct/87/playlist.m3u8
 http://200.75.19.171:80/uoct/88/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Amunategui/Balmaceda
 http://200.75.19.171:80/uoct/86/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VjwZz7e.png", FM  DOS 
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
 http://18913.live.streamtheworld.com/FMDOSAAC.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="", ROMANTICA
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCuukS6.png", [COLOR orangered][B]ROMANTICA[/B][/COLOR]
 http://unlimited3-cl.digitalproserver.com/romantica/aac/icecast.audio
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="uudoKgZ.png", PUDAHUEL
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXHqekn.png", [COLOR orangered][B]PUDAHUEL[/B][/COLOR]
 http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="SUh388e.jpg", IMAGINA
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7vMLhfU.png", [COLOR orangered][B]IMAGINA[/B][/COLOR]
 http://14073.live.streamtheworld.com/IMAGINAAAC.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zXCwshZ.png", EL  CONQUISTADOR
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
 http://195.154.167.62:9314/;*.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="", ADN
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hhDOoqq.png", [COLOR orangered][B]ADN[/B][/COLOR]
 http://19263.live.streamtheworld.com:80/ADNAAC_SC
 
 
