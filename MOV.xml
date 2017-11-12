@@ -456,6 +456,20 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 </item>
 
 <item>
+<title>[B][COLOR orange]La  1[/B][/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tve1.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://i.imgur.com/KZE9aRf.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</item>
+
+<item>
 <title>[B]Anime  Tv[/B]</title>
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>?monclovacaliente.m3u8</link> 
 <thumbnail>http://i.imgur.com/5p36YSf.png</thumbnail> 
