@@ -61,5 +61,17 @@ http://200.75.19.171:80/uoct/87/playlist.m3u8
 http://200.75.19.171:80/uoct/88/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Amunategui/Balmaceda
 http://200.75.19.171:80/uoct/86/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VjwZz7e.png", FM  DOS 
+http://18913.live.streamtheworld.com/FMDOSAAC.aac
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="", ROMANTICA
+http://unlimited3-cl.digitalproserver.com/romantica/aac/icecast.audio
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="uudoKgZ.png", PUDAHUEL
+http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="SUh388e.jpg", IMAGINA
+http://14073.live.streamtheworld.com/IMAGINAAAC.aac
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zXCwshZ.png", EL  CONQUISTADOR
+http://195.154.167.62:9314/;*.aac
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="", ADN
+http://19263.live.streamtheworld.com:80/ADNAAC_SC
 
 
