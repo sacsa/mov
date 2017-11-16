@@ -278,6 +278,20 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	</item>
 	
 	<item>
+	<title>[COLOR blue][B]FOX  LATINO[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/foxlatino.php</link>
+	<regex>
+	<name>get-id</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://vergol.com/live1/foxlatino.php</page>
+	<referer>http://vercanalestv.com/tv/latino/fox.html</referer>
+	<agent>iPad</agent>
+	</regex>
+	<thumbnail></thumbnail>   
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>	 
+	
+	<item>
 	<title>[COLOR blue][B]PARAMOUNT  CHANNEL[/B][/COLOR]</title>
 	<link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>  
 	<thumbnail>https://i.imgur.com/VbX9FkJ.png</thumbnail> 
