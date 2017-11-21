@@ -367,7 +367,33 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
 
-
+	<item>
+	<title>[COLOR blue][B]VENUS[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
+	<regex>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live/venus.php</page>
+	<referer>http://vertelevisor.com/tv/nacionales/venus.html</referer>
+	<agent>iPad</agent>
+	</regex>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>		
+	
+	<item>
+	<title>[COLOR blue][B]HUSTLER[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
+	<regex>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live/hustler.php</page>
+	<referer>http://vertelevisor.com/tv/nacionales/hustler-tv.html</referer>
+	<agent>iPad</agent>
+	</regex>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>	
 			 
 
 			 
