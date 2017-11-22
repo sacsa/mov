@@ -298,7 +298,7 @@
 	<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
 	<cookieJar></cookieJar>
 	</regex>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.imgur.com/O05X6lo.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
 		
@@ -311,7 +311,7 @@
 	<page>http://livesports.pw/embed2.php?file=tcmesp</page>
 	<cookieJar></cookieJar>
 	</regex>
-	<thumbnail>https://i.imgur.com/ps9wRnz.png</thumbnail>
+	<thumbnail>https://i.imgur.com/HjHgIec.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>		
 		
