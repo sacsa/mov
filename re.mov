@@ -62,12 +62,12 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
         </item>
 		
 	<item>
-        <title>[COLOR orange][B]La Niñera[/B][/COLOR]</title>
+        <title>[COLOR orange][B]LA  NIÑERA[/B][/COLOR]</title>
         <utube>c0KVAO9y13g</utube>
 	<thumbnail>https://i.imgur.com/lurEDuM.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
         </item>
-	
+		
 	<item>
         <title>[COLOR light blue][B]GRANADA CHANNEL TV[/B][/COLOR]</title> 
         <utube>o2rViDSaRZE</utube>
@@ -105,7 +105,6 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 		<thumbnail>https://i.imgur.com/OtqCBJX.png</thumbnail>
 		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>		
 		</item>
-		
 
 		<item>
 		<title>[COLOR blue][B]DIVINITY[/B][/COLOR]</title>
@@ -119,8 +118,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 		</regex>
 		<thumbnail>https://i.imgur.com/icQ1FQz.png</thumbnail>   
 		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-		</item>	
-		
+		</item>		
 
 		<item>
 		<title>[COLOR blue][B]TELECINCO[/B][/COLOR] </title>
@@ -249,6 +247,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<thumbnail>https://i.imgur.com/NIEPTGi.png</thumbnail>  
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
+		
+	<item>
+	<title>[COLOR blue][B]CALLE  13[/B][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embedn.php?file=calltrees&amp;width=650&amp;height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail>https://i.imgur.com/rjgrCL7.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>	
 			
 	<item>
 	<title>[COLOR blue][B]CINEMAX[/B][/COLOR] </title>
@@ -273,7 +284,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
 	<agent>iPad</agent>
 	</regex>
-	<thumbnail>https://i.imgur.com/JLqRV7G.png</thumbnail>
+	<thumbnail>https://i.imgur.com/qZ2U4jO.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
 	
@@ -287,16 +298,55 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<referer>http://vercanalestv.com/tv/latino/fox.html</referer>
 	<agent>iPad</agent>
 	</regex>
-	<thumbnail></thumbnail>   
+	<thumbnail>https://i.imgur.com/bMImJpN.png</thumbnail>   
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>	 
-	
+	</item>	
+		
+	<item>
+	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embed2.php?file=hollywesp&amp;width=650&amp;height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail>https://i.imgur.com/1trqq2r.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>	
+
 	<item>
 	<title>[COLOR blue][B]PARAMOUNT  CHANNEL[/B][/COLOR]</title>
 	<link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>  
 	<thumbnail>https://i.imgur.com/VbX9FkJ.png</thumbnail> 
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
+		
+	<item>
+	<title>[COLOR blue][B]SYFY[/B][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>	
+		
+	<item>
+	<title>[COLOR blue][B]TCM[/B][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embed2.php?file=tcmesp</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail>https://i.imgur.com/ps9wRnz.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>		
 		
 	<item>
 	<title>[COLOR blue][B]TNT[/B][/COLOR] </title>
@@ -310,10 +360,10 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<thumbnail>https://i.imgur.com/QUK2daT.png</thumbnail>  
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
-	
+		
 	<item>
-	<title>[COLOR blue][B]TNT  LATINO[/B][/COLOR]</title>
-	<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/tntlatino.php</link>
+        <title>[COLOR blue][B]TNT  LATINO[/B][/COLOR]</title>
+        <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/tntlatino.php</link>
 	<regex>
 	<name>get-id</name>
 	<expres>source: '(.*?)'</expres>
@@ -366,7 +416,7 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<thumbnail>https://i.imgur.com/taKwC3c.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
-
+	
 	<item>
 	<title>[COLOR blue][B]VENUS[/B][/COLOR]</title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
@@ -394,6 +444,8 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<thumbnail></thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
+
+
 			 
 
 			 
@@ -522,6 +574,19 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <thumbnail>https://i.imgur.com/KZE9aRf.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
+		
+<item>
+<title>[COLOR orange][B]LA  2[/B][/COLOR] </title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/067rC0j.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
 
 <item>
 <title>[B]Anime  Tv[/B]</title>
@@ -536,6 +601,13 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <thumbnail>http://i.imgur.com/DRDppOi.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
+
+<item>
+<title>[B]ACS NETWORK[/B]</title>
+<link>http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8</link>
+<thumbnail>http://i.imgur.com/7pra6ii.png</thumbnail> 
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</item>			
 
 <item>
 <title>[COLOR lime][B]SIPSE TV[/B][/COLOR]</title>
@@ -558,6 +630,12 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
 
 <item>
 <title>[COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]</title>
@@ -581,6 +659,27 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 </item>
 
 <item>
+<title>[COLOR gold][B]CINEAR[/B][/COLOR]</title> 
+<link>http://us.watcha.live/ch17/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>https://i.imgur.com/DJrmoZf.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+			 
+<item>
+<title>[COLOR gold][B]TELEFE[/B][/COLOR]</title> 
+<link>http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
+<thumbnail>https://i.imgur.com/b3nREsh.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+			
+<item>
+<title>[COLOR gold][B]EL  NUEVE[/B][/COLOR]</title> 
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8</link> 
+<thumbnail>https://i.imgur.com/3G3asQO.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
 <title>[COLOR gold][B]WOW TV[/B][/COLOR]</title>
 <link>http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?</link>
 <thumbnail>https://i.imgur.com/CyiiXhJ.png</thumbnail> 
@@ -601,3 +700,8 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
  
  
 </items>
+
+		
+	
+	
+			 
