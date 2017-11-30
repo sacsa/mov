@@ -53,11 +53,10 @@ http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lzKHOnQ.png", [COLOR blue][B]NIU[/B][/COLOR]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", EL  NUEVE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/COLOR]
 http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEFE[/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nREsh.png", [COLOR blue][B]TELEFE[/COLOR]
 http://us.watcha.live/ch6/hi.m3u8|User-agent=iPhone
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
