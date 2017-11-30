@@ -34,7 +34,7 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [COLOR orange][B]A1 FILM[/B][/COLOR]
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [COLOR orange][B]PARAMOUNT  CHANNEL[/B][/COLOR]
-http://xx.cast3d.info/live/paramount_1bcp7u7/chunklist.m3u8?st=Dv5iHSF47ccEOjsvmAUFBw&e=1512159451
+http://xx.cast3d.info/live/paramount_1bcp7u7/chunklist.m3u8?st=Dv5iHSF47ccEOjsvmAUFBw&e=1512159451|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime  Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
@@ -53,9 +53,9 @@ http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lzKHOnQ.png", [COLOR blue][B]NIU[/B][/COLOR]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/B][/COLOR]
 http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nREsh.png", [COLOR blue][B]TELEFE[/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nREsh.png", [COLOR blue][B]TELEFE[/B][/COLOR]
 http://us.watcha.live/ch6/hi.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
