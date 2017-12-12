@@ -77,6 +77,8 @@ http://unlimited3-cl.digitalproserver.com/romantica/aac/icecast.audio
 http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
 http://195.154.167.62:9314/;*.aac
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]SAN  BARTOLOME[/B][/COLOR]
+http://stream5.eltelon.com/san-bartolome.aac
 
 
 
