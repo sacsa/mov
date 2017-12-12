@@ -2,27 +2,7 @@
 
      
         <items>                
-		
 
-		
-			 <item>
-			 <title>[COLOR red]Lista creada con informacion encontrada en internet. Puedes ayudar con tu donacion a: [/COLOR]</title>
-			 <link>NA</link>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-			 </item>
-		
-			 <item>
-			 <title>[COLOR aquamarine]paypal.me/adryanlist   »»»Creador de Adryanlist 
-paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
-			 <link>NA</link>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-			 </item>
-			
-			<item>
-			 <title>[COLOR red][B]•   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   • [/B][/COLOR]</title>
-			 <link>NA</link>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-			 </item>
 	
 		
 	
@@ -44,7 +24,13 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <thumbnail>https://i.imgur.com/9yRBGCO.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 <info></info>
- </item>	
+ </item>
+ 
+ <item>
+			 <title>[COLOR red][B]•   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   • [/B][/COLOR]</title>
+			 <link>NA</link>
+			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+			 </item>
 	
 		
 	<item>
@@ -458,7 +444,15 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
 
-
+	<item>
+	<title>[COLOR blue][B]DORCEL TV[/B][/UPPERCASE][/COLOR] </title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embed2.php?file=darkes&amp;width=650&amp;height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
 			 
 
 			 
@@ -689,6 +683,13 @@ paypal.me/josuearisty »»»Creador del canal Locomotion[/COLOR]</title>
 <title>[COLOR gold][B]EL  NUEVE[/B][/COLOR]</title> 
 <link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8</link> 
 <thumbnail>https://i.imgur.com/3G3asQO.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR gold]EL  TRECE[/COLOR]</title> 
+<link>http://us.watcha.live/ch7/hi.m3u8|User-agent=iPhone</link> 
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
