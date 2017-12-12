@@ -623,7 +623,7 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
-<itm>
+<item>
 <title>[COLOR gold][B]CINEAR[/B][/COLOR]</title> 
 <link>http://us.watcha.live/ch17/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>https://i.imgur.com/DJrmoZf.png</thumbnail>
@@ -641,6 +641,13 @@
 <title>[COLOR gold][B]EL  NUEVE[/B][/COLOR]</title> 
 <link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8</link> 
 <thumbnail>https://i.imgur.com/3G3asQO.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR gold]EL  TRECE[/COLOR]</title> 
+<link>http://us.watcha.live/ch7/hi.m3u8|User-agent=iPhone</link> 
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
