@@ -316,9 +316,16 @@
 
 	<item>
 	<title>[COLOR blue][B]PARAMOUNT  CHANNEL[/B][/COLOR]</title>
-	<link>http://xx.cast3d.info/live/paramount_1bcp7u7/chunklist.m3u8?st=Dv5iHSF47ccEOjsvmAUFBw&e=1512159451</link>  
+	<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/paramountchannel.php</link>
+	<regex>
+	<name>get-id</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://vergol.com/live/paramountchannel.php</page>
+	<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+	<agent>iPad</agent>
+	</regex>
 	<thumbnail>https://i.imgur.com/VbX9FkJ.png</thumbnail> 
-	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
 		
 	<item>
