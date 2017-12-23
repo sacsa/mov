@@ -27,21 +27,21 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", [COLOR orange][B]NEOX[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", [COLOR orange][B]TELEMADRID[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", [COLOR orange][B]TELEMADRID[/B][/COLOR]
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [COLOR orange][B]A1 FILM[/B][/COLOR]
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", Anime  Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/7pra6ii.png", ACS NETWORK TV 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dunWRHw.png", [COLOR lime][B]SIPSE TV[/B][/COLOR]
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIejZJi.png", [COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIejZJi.png", [COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  TRECE[/B][/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8|User-Agent=iPad
@@ -51,7 +51,7 @@ http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lzKHOnQ.png", [COLOR blue][B]NIU[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lzKHOnQ.png", [COLOR blue][B]NIU[/B][/COLOR]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DJrmoZf.png", [COLOR blue][B]CINEAR[/B][/COLOR]
 http://us.watcha.live/ch17/hi.m3u8|User-agent=iPhone
@@ -59,9 +59,9 @@ http://us.watcha.live/ch17/hi.m3u8|User-agent=iPhone
 http://us.watcha.live/ch6/hi.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/B][/COLOR]
 http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]EL  TRECE[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jDOq1t5.png", [COLOR blue][B]EL  TRECE[/B][/COLOR]
 http://us.watcha.live/ch7/hi.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Esmeralda/Colo Colo
 http://200.75.19.171:80/uoct/84/playlist.m3u8
@@ -71,18 +71,20 @@ http://200.75.19.171:80/uoct/87/playlist.m3u8
 http://200.75.19.171:80/uoct/88/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", Amunategui/Balmaceda
 http://200.75.19.171:80/uoct/86/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
 http://18913.live.streamtheworld.com/FMDOSAAC.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCuukS6.png", [COLOR orangered][B]ROMANTICA[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCuukS6.png", [COLOR orangered][B]ROMANTICA[/B][/COLOR]
 http://unlimited3-cl.digitalproserver.com/romantica/aac/icecast.audio
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXHqekn.png", [COLOR orangered][B]PUDAHUEL[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXHqekn.png", [COLOR orangered][B]PUDAHUEL[/B][/COLOR]
 http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
 http://195.154.167.62:9314/;*.aac
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]SAN  BARTOLOME[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X1NMKA9.png", [COLOR orangered][B]SAN  BARTOLOME[/B][/COLOR]
 http://stream5.eltelon.com/san-bartolome.aac
-
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [COLOR orangered][B]BIO  BIO[/B][/COLOR]
+http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [COLOR orangered][B]COOPERATIVA[/B][/COLOR]
+http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
 
 
