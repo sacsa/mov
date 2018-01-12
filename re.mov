@@ -35,7 +35,7 @@
 		
 	<item>
         <title>[COLOR lime][B]KBS WORLD[/B][/COLOR]</title>
-        <utube>19WZ2QE8wqQ</utube>
+        <utube>NCLQN16Lyb4</utube>
 	<thumbnail>https://i.imgur.com/o1X2m8v.png</thumbnail>
         <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
@@ -501,6 +501,13 @@
 <title> [COLOR white][B]LA  RED[/B][/COLOR]</title>
 <link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone</link>
 <thumbnail>http://i.imgur.com/X02NeYZ.png</thumbnail> 
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CONTIVISION[/B][/COLOR]</title>
+<link>http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/IVxrFsd.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
