@@ -13,6 +13,8 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
@@ -73,6 +75,8 @@ http://us.watcha.live/ch6/hi.m3u8|User-agent=iPhone
 http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jDOq1t5.png", [COLOR blue][B]EL  TRECE[/B][/COLOR]
 http://us.watcha.live/ch7/hi.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
+http://coninfo.net:1935/13max/live/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]Food Network[/B][/COLOR]
