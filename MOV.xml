@@ -538,6 +538,13 @@
 <thumbnail>https://i.imgur.com/VQgDvMA.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
+		
+<item>
+<title>[COLOR orange][B]7  TV[/B][/COLOR]</title>
+<link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
+<thumbnail>https://i.imgur.com/FCI0zWS.png</thumbnail> 
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</item>
 
 <item>
 <title>[B][COLOR orange]La  1[/B][/COLOR] </title>
@@ -610,14 +617,14 @@
 
 <item>
 <title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
-<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8|User-Agent=iPad</link>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8</link>
 <thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
 <item>
 <title>[COLOR lime][B]TELEVISA  MONTERREY[/B][/COLOR]</title> 
-<utube>_ODhwFIh2hI</utube>
+<utube>n4bDObJoNPM</utube>
 <thumbnail>https://i.imgur.com/nGOnJ0T.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
