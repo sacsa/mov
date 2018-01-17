@@ -35,6 +35,8 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [COLOR orange][B]A1 FILM[/B][/COLOR]
 http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCI0zWS.png", [COLOR orange][B]7TV[/B][/COLOR]
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [COLOR orange][B]ENERGY[/B][/COLOR]
 http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [COLOR orange][B]CUATRO[/B][/COLOR] 
@@ -58,7 +60,7 @@ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIejZJi.png", [COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  TRECE[/B][/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8|User-Agent=iPad
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WPGsSCW.png", [COLOR lime][B]CANAL  22[/B][/COLOR]
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/isVPDle.png", [COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]
