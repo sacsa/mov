@@ -581,12 +581,12 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
-<item>
+<itm>
 <title>[COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
 <thumbnail>https://i.imgur.com/wIejZJi.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-</item>
+</itm>
 
 <item>
 <title>[COLOR lime][B]CANAL  22[/B][/COLOR]</title>
@@ -597,8 +597,15 @@
 
 <item>
 <title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
-<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8</link>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8</link>
 <thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR lime][B]TELEMUNDO[/B][/COLOR]</title>
+<link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
@@ -609,12 +616,12 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
-<item>
+<itm>
 <title>[COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]</title>
 <link>http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8</link>
 <thumbnail>https://i.imgur.com/isVPDle.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-</item>
+</itm>
 
 <item>
 <title>[COLOR gold][B]DW[/B][/COLOR]</title>
