@@ -74,7 +74,7 @@ http://us.watcha.live/ch17/hi.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nREsh.png", [COLOR blue][B]TELEFE[/B][/COLOR]
 http://us.watcha.live/ch6/hi.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/B][/COLOR]
-http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1122794635_b796000.m3u8
+http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b946000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jDOq1t5.png", [COLOR blue][B]EL  TRECE[/B][/COLOR]
 http://us.watcha.live/ch7/hi.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
