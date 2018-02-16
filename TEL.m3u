@@ -29,6 +29,8 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", [COLOR orange][B]NEOX[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [COLOR orange][B]LA  1[/B][/COLOR]
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", [COLOR orange][B]TELEMADRID[/B][/COLOR]
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
