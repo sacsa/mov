@@ -206,7 +206,7 @@
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=mxtra&amp;width=650&amp;height=397</page>
+	<page>http://livesports.pw/embedna.php?file=mxtra&width=650&height=397</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/jfQZRDV.png</thumbnail>  
