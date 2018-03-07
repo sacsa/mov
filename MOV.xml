@@ -242,12 +242,12 @@
 	</item>
 		
 	<item>
-	<title>[COLOR blue][B]CALLE  13[/B][/COLOR] </title>
+	<title>[COLOR blue][B]CALLE 13[/B][/COLOR]</title>
 	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embedn.php?file=calltrees&amp;width=650&amp;height=397</page>
+	<page>http://livesports.pw/embedna.php?file=calle13&width=650&height=400</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/rjgrCL7.png</thumbnail>
@@ -323,7 +323,7 @@
 	</item>
 		
 	<item>
-	<title>[COLOR skyblue]SYFY[/COLOR] </title>
+	<title>[COLOR blue][B]SYFY[/B][/COLOR]</title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
 	<name>get-id</name>
