@@ -323,30 +323,31 @@
 	</item>
 		
 	<item>
-	<title>[COLOR blue][B]SYFY[/B][/COLOR] </title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR skyblue]SYFY[/COLOR] </title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
+	<name>get-id</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
-	<cookieJar></cookieJar>
+	<page>http://vergol.com/live/syfy.php</page>
+	<referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
+	<agent>iPad</agent>
 	</regex>
 	<thumbnail>https://i.imgur.com/O05X6lo.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
 		
 	<item>
-	<title>[COLOR blue][B]TCM[/B][/COLOR] </title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]TCM[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
+	<name>get-id</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=tcmesp</page>
-	<cookieJar></cookieJar>
+	<page>http://vergol.com/live/tcm.php</page>
+	<referer>http://vercanalestv.com/tv/nacionales/tcm.html</referer>
+	<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 	</regex>
-	<thumbnail>https://i.imgur.com/HjHgIec.png</thumbnail>
-	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>		
+        <thumbnail>https://i.imgur.com/HjHgIec.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 	
 		
 	<item>
 	<title>[COLOR blue][B]TNT[/B][/COLOR] </title>
@@ -381,12 +382,12 @@
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=crimenyinvestigacion&width=650&height=400</page>
+	<page>http://livesports.pw/embedna.php?file=crimenyinvestigacion&amp;width=650&amp;height=400</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>	
+	</item>		
 		
 	<item>
 	<title>[COLOR blue][B]HISTORIA[/B][/COLOR] </title>
