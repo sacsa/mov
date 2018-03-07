@@ -567,7 +567,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embedna.php?file=la2&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://i.imgur.com/067rC0j.png</thumbnail>
