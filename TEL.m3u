@@ -67,8 +67,6 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WPGsSCW.png", [COLOR lime][B]CANAL  22[/B][/COLOR]
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]5  HD[/B][/COLOR]
-http://k4.usastreams.com/superC/superC_1/chunklist_w2131926885.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gpt4vY0.png", [COLOR lime][B]TELEMUNDO[/B][/COLOR]
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
@@ -101,6 +99,8 @@ http://198.1.117.5:1935/live/livestream/chunklist_w2007905850.m3u8
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR blue][B]SUPER  5  HD[/B][/COLOR]
+http://k4.usastreams.com/superC/superC_1/chunklist_w2131926885.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ttJuZXt.png", [COLOR blue][B]TELE  AZUL[/B][/COLOR]
 http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v7D0yaa.png", [COLOR blue][B]TELECOSTA[/B][/COLOR]
