@@ -309,7 +309,7 @@
 	</item>	
 		
 	<item>
-	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR] </title>
+	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR]</title>
 	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 	<regex>
 	<name>GetPageUrl</name>
@@ -319,7 +319,7 @@
 	</regex>
 	<thumbnail>https://i.imgur.com/1trqq2r.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>	
+	</item>
 
 	<item>
 	<title>[COLOR blue][B]PARAMOUNT  CHANNEL[/B][/COLOR]</title>
