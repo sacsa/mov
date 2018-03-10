@@ -2,9 +2,7 @@
 
      
         <items>                
-
-	
-		
+			
 	
 	
 <item>
@@ -24,13 +22,7 @@
 <thumbnail>https://i.imgur.com/9yRBGCO.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 <info></info>
- </item>
- 
- <item>
-			 <title>[COLOR red][B]•   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   • [/B][/COLOR]</title>
-			 <link>NA</link>
-			 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-			 </item>
+ </item>	
 	
 		
 	<item>
@@ -48,7 +40,7 @@
         </item>
 		
 	<item>
-        <title>[COLOR orange][B]LA  NIÑERA[/B][/COLOR]</title>
+        <title>[COLOR orange][B]La Niñera[/B][/COLOR]</title>
         <utube>zBV6wFwSw5g</utube>
 	<thumbnail>https://i.imgur.com/lurEDuM.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
@@ -91,6 +83,7 @@
 		<thumbnail>https://i.imgur.com/OtqCBJX.png</thumbnail>
 		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>		
 		</item>
+		
 
 		<item>
 		<title>[COLOR blue][B]DIVINITY[/B][/COLOR]</title>
@@ -104,7 +97,8 @@
 		</regex>
 		<thumbnail>https://i.imgur.com/icQ1FQz.png</thumbnail>   
 		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-		</item>		
+		</item>	
+		
 
 		<item>
 		<title>[COLOR blue][B]TELECINCO[/B][/COLOR] </title>
@@ -205,21 +199,21 @@
 	<thumbnail>https://i.imgur.com/JCgrO82.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
-	
+       
 	<item>
 	<title>[COLOR blue][B]XTRA[/B][/COLOR] </title>
 	<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=mxtra&amp;width=650&amp;height=397</page>
+	<page>http://livesports.pw/embedna.php?file=mxtra&width=650&height=397</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/jfQZRDV.png</thumbnail>  
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>
-
-	<item>
+		
+	<item>	
 	<title>[COLOR blue][B]AMC[/B][/COLOR]</title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
@@ -248,12 +242,12 @@
 	</item>
 		
 	<item>
-	<title>[COLOR blue][B]CALLE  13[/B][/COLOR] </title>
+	<title>[COLOR blue][B]CALLE 13[/B][/COLOR]</title>
 	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embedn.php?file=calltrees&amp;width=650&amp;height=397</page>
+	<page>http://livesports.pw/embedna.php?file=calle13&width=650&height=400</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/rjgrCL7.png</thumbnail>
@@ -300,6 +294,19 @@
 	<thumbnail>https://i.imgur.com/bMImJpN.png</thumbnail>   
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
+	
+	<item>
+	<title>[COLOR blue][B]HBO[/B][/COLOR]</title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embedna.php?file=hbolat&width=650&height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>
 		
 	<item>
 	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR] </title>
@@ -307,7 +314,7 @@
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=hollywesp&amp;width=650&amp;height=397</page>
+	<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/1trqq2r.png</thumbnail>
@@ -329,30 +336,31 @@
 	</item>
 		
 	<item>
-	<title>[COLOR blue][B]SYFY[/B][/COLOR] </title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]SYFY[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
+	<name>get-id</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
-	<cookieJar></cookieJar>
+	<page>http://vergol.com/live/syfy.php</page>
+	<referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
+	<agent>iPad</agent>
 	</regex>
 	<thumbnail>https://i.imgur.com/O05X6lo.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
 		
 	<item>
-	<title>[COLOR blue][B]TCM[/B][/COLOR] </title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]TCM[/B][/COLOR]</title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
+	<name>get-id</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=tcmesp</page>
-	<cookieJar></cookieJar>
+	<page>http://vergol.com/live/tcm.php</page>
+	<referer>http://vercanalestv.com/tv/nacionales/tcm.html</referer>
+	<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 	</regex>
-	<thumbnail>https://i.imgur.com/HjHgIec.png</thumbnail>
-	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>		
+        <thumbnail>https://i.imgur.com/HjHgIec.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 	
 		
 	<item>
 	<title>[COLOR blue][B]TNT[/B][/COLOR] </title>
@@ -387,15 +395,15 @@
 	<regex>
 	<name>GetPageUrl</name>
 	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embed2.php?file=crimenyinvestigacion&width=650&height=400</page>
+	<page>http://livesports.pw/embedna.php?file=crimenyinvestigacion&amp;width=650&amp;height=400</page>
 	<cookieJar></cookieJar>
 	</regex>
 	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>
+	</item>		
 		
 	<item>
-	<title>[COLOR blue][B]HISTORIA[/B][/COLOR]</title>
+	<title>[COLOR blue][B]HISTORIA[/B][/COLOR] </title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
 	<name>get-id</name>
@@ -421,7 +429,7 @@
 	<thumbnail>https://i.imgur.com/taKwC3c.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
-	
+
 	<item>
 	<title>[COLOR blue][B]VENUS[/B][/COLOR]</title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
@@ -505,6 +513,13 @@
 </item>
 
 <item>
+<title>[COLOR white][B]ITV[/B][/COLOR]</title>
+<link>http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b428000.m3u8</link>
+<thumbnail>https://i.imgur.com/IYwuBFB.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item> 
+		
+<item>
 <title>[COLOR white][B]CONTIVISION[/B][/COLOR]</title>
 <link>http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/IVxrFsd.png</thumbnail> 
@@ -580,7 +595,7 @@
 <thumbnail>https://i.imgur.com/VQgDvMA.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
-
+		
 <item>
 <title>[COLOR orange][B]7  TV[/B][/COLOR]</title>
 <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
@@ -608,7 +623,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=tvdostelefive&amp;width=650&amp;height=397</page>
+<page>http://livesports.pw/embedna.php?file=la2&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://i.imgur.com/067rC0j.png</thumbnail>
@@ -636,18 +651,39 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>			
 
-<item>
+<itm>
 <title>[COLOR lime][B]SIPSE TV[/B][/COLOR]</title>
 <link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8</link>
 <thumbnail>https://i.imgur.com/dunWRHw.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
-<item>
+<itm>
 <title>[COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
 <thumbnail>https://i.imgur.com/wIejZJi.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</itm>
+
+<item>
+<title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR lime][B]AZTECA  A+[/B][/COLOR]</title> 
+<link>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8</link>
+<thumbnail>https://i.imgur.com/wAtDvPx.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR lime][B]TELEMUNDO[/B][/COLOR]</title>
+<link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on</link>
+<thumbnail>https://i.imgur.com/gpt4vY0.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
 <item>
@@ -658,28 +694,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
-<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8</link>
-<thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
-<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>
-
-<item>
-<title>[COLOR lime][B]TELEMUNDO[/B][/COLOR]</title>
-<link>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>
-
-<itm>
-<title>[COLOR lime][B]MEXICO  TRAVEL[/B][/COLOR]</title>
-<link>http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8</link>
-<thumbnail>https://i.imgur.com/isVPDle.png</thumbnail> 
-<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-</itm>
-
-<item>
-<title>[COLOR light lime][B]TELEVISA  MONTERREY[/B][/COLOR]</title> 
+<title>[COLOR lime][B]TELEVISA  MONTERREY[/B][/COLOR]</title> 
 <utube>n4bDObJoNPM</utube>
 <thumbnail>https://i.imgur.com/nGOnJ0T.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
@@ -699,31 +714,184 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
-<item>
+<itm>
 <title>[COLOR gold][B]CINEAR[/B][/COLOR]</title> 
 <link>http://us.watcha.live/ch17/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>https://i.imgur.com/DJrmoZf.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>	
-			 
-<item>
+</itm>	
+
+<itm>
 <title>[COLOR gold][B]TELEFE[/B][/COLOR]</title> 
 <link>http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0</link> 
 <thumbnail>https://i.imgur.com/b3nREsh.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>
-			
+</itm>
+
 <item>
 <title>[COLOR gold][B]EL  NUEVE[/B][/COLOR]</title> 
-<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b946000.m3u8</link> 
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b446000.m3u8</link> 
 <thumbnail>https://i.imgur.com/3G3asQO.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
-<item>
+<itm>
 <title>[COLOR gold][B]EL  TRECE[/B][/COLOR]</title> 
 <link>http://us.watcha.live/ch7/hi.m3u8|User-agent=iPhone</link> 
 <thumbnail>https://i.imgur.com/jDOq1t5.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</itm>
+
+<item>
+<title>[COLOR gold][B]CANAL  4[/B][/COLOR]</title>
+<link>http://184.154.28.210:1935/canal4/canal4/chunklist_w1207979219.m3u8</link>
+<thumbnail>https://i.imgur.com/dW4DMyJ.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TRECEMAX[/B][/COLOR]</title>
+<link>http://coninfo.net:1935/13max/live/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/iEcwnba.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELESOL[/B][/COLOR]</title>
+<link>http://149.56.98.124:9090/hls/telesol.m3u8</link>
+<thumbnail>https://i.imgur.com/lXpOaf8.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+<item>
+
+<item>
+<title>[COLOR gold][B]ANTENA  LATINA[/B][/COLOR]</title>
+<link>http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b298304.m3u8</link>
+<thumbnail>https://i.imgur.com/ebSrRyo.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<title>[COLOR gold][B]CANAL  4  REPRETEL[/B][/COLOR]</title>
+<link>http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8|User-agent=iPhone</link>
+<thumbnail>https://i.imgur.com/76wyQMa.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<title>[COLOR gold][B]CANAL  6  REPRETEL[/B][/COLOR]</title>
+<link>http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8|User-agent=iPhone</link>
+<thumbnail>https://i.imgur.com/4EjyJU3.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]CENTRAL  TV[/B][/COLOR]</title>
+<link>http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w520778573.m3u8</link>
+<thumbnail>https://i.imgur.com/01KLMs9.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]MICROVISION[/B][/COLOR]</title>
+<link>http://190.103.183.24:1935/live/MicroHD/chunklist_w163993833.m3u8</link>
+<thumbnail>https://i.imgur.com/h4CoskO.png </thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]MUNDO +[/B][/COLOR]</title>
+<link>http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w250397878.m3u8</link>
+<thumbnail>https://i.imgur.com/QWOvFBe.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]NEX[/B][/COLOR]</title>
+<link>http://198.1.117.5:1935/live/livestream/chunklist_w2007905850.m3u8</link>
+<thumbnail>https://i.imgur.com/0MTH18x.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]OROMAR TV[/B][/COLOR]</title>
+<link>http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8</link>
+<thumbnail>https://i.imgur.com/v5CAc0Y.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]SNT[/B][/COLOR]</title>
+<link>http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8</link>
+<thumbnail>https://i.imgur.com/n2UCBjk.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<itm>
+<title>[COLOR gold][B]TELEANTILLAS[/B][/COLOR]</title>
+<link>http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/qY13Pp2.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELE  AZUL[/B][/COLOR]</title>
+<link>http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/ttJuZXt.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELECOSTA[/B][/COLOR]</title>
+<link>http://arcamediastream.net:1935/8374/8374/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/v7D0yaa.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELEMETRO[/B][/COLOR]</title>
+<link>http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/l8F0xjs.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	 
+
+<item>
+<title>[COLOR gold][B]TELENORD  12[/B][/COLOR]</title>
+<link>http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w186856407.m3u8</link>
+<thumbnail>https://i.imgur.com/HZOLq6d.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELENORD  14[/B][/COLOR]</title>
+<link>http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w1090756324.m3u8</link>
+<thumbnail>https://i.imgur.com/074XY6F.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELERED[/B][/COLOR]</title>
+<link>http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8</link>
+<thumbnail>https://i.imgur.com/gKRY21D.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELEVICENTRO[/B][/COLOR]</title>
+<link>http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8</link>
+<thumbnail>https://i.imgur.com/wT7RR9O.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TICAVISION[/B][/COLOR]</title>
+<link>http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
+<thumbnail>https://i.imgur.com/Kf7Ub0C.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+	
+<item>
+<title>[COLOR gold][B]TVSUR  9[/B][/COLOR]</title>
+<link>http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w280519872.m3u8</link>
+<thumbnail>https://i.imgur.com/Sgj0RIE.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
@@ -735,21 +903,7 @@
 </item>
 
 	
-
-
-
-
 	
-
-
-
-
- 
- 
- 
+	
+	
 </items>
-
-		
-	
-	
-			 
