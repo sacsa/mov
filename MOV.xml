@@ -294,6 +294,19 @@
 	<thumbnail>https://i.imgur.com/bMImJpN.png</thumbnail>   
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
+	
+	<item>
+	<title>[COLOR blue][B]HBO[/B][/COLOR]</title>
+	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<regex>
+	<name>GetPageUrl</name>
+	<expres>source: '(.*?)'</expres>
+	<page>http://livesports.pw/embedna.php?file=hbolat&width=650&height=397</page>
+	<cookieJar></cookieJar>
+	</regex>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+	</item>
 		
 	<item>
 	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR] </title>
@@ -464,6 +477,13 @@
 </item>
 
 <item>
+<title>[B]ITV[/B]</title>
+<link>http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b428000.m3u8</link>
+<thumbnail>https://i.imgur.com/IYwuBFB.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item> 
+		
+<item>
 <title>[COLOR white][B]CONTIVISION[/B][/COLOR]</title>
 <link>http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/IVxrFsd.png</thumbnail> 
@@ -619,7 +639,7 @@
 <item>
 <title>[COLOR lime][B]AZTECA  A+[/B][/COLOR]</title> 
 <link>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/wAtDvPx.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
 
@@ -744,7 +764,7 @@
 <item>
 <title>[COLOR gold][B]MUNDO +[/B][/COLOR]</title>
 <link>http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w250397878.m3u8</link>
-<thumbnail>https://i.imgur.com/vl6wHqO.png </thumbnail>
+<thumbnail>https://i.imgur.com/QWOvFBe.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
 
@@ -829,6 +849,13 @@
 <title>[COLOR gold][B]TICAVISION[/B][/COLOR]</title>
 <link>http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
 <thumbnail>https://i.imgur.com/Kf7Ub0C.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+	
+<item>
+<title>[COLOR gold][B]TVSUR  9[/B][/COLOR]</title>
+<link>http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w280519872.m3u8</link>
+<thumbnail>https://i.imgur.com/Sgj0RIE.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
