@@ -484,6 +484,13 @@
 </item> 
 		
 <item>
+<title>[COLOR white][B]FM  HOT[/B][/COLOR]</title>
+<link>http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+		
+<item>
 <title>[COLOR white][B]CONTIVISION[/B][/COLOR]</title>
 <link>http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/IVxrFsd.png</thumbnail> 
@@ -781,6 +788,13 @@
 <thumbnail>https://i.imgur.com/v5CAc0Y.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
+
+<item>
+<title>[COLOR gold][B]RCP  TV[/B][/COLOR]</title>
+<link>http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
 
 <item>
 <title>[COLOR gold][B]SNT[/B][/COLOR]</title>
