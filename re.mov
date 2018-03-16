@@ -522,7 +522,7 @@
 <item>
 <title>[COLOR white][B]FM  HOT[/B][/COLOR]</title>
 <link>http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/jqljjYD.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 		
@@ -792,7 +792,7 @@
 
 <item>
 <title>[COLOR gold][B]CENTRAL  TV[/B][/COLOR]</title>
-<link>http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w520778573.m3u8</link>
+<link>https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/01KLMs9.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
@@ -828,7 +828,7 @@
 <item>
 <title>[COLOR gold][B]RCP  TV[/B][/COLOR]</title>
 <link>http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/Yh0xFlK.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
@@ -906,6 +906,13 @@
 <title>[COLOR gold][B]TICAVISION[/B][/COLOR]</title>
 <link>http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
 <thumbnail>https://i.imgur.com/Kf7Ub0C.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR gold][B]TELEUNO[/B][/COLOR]</title>
+<link>http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/f0hCqOh.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 	
