@@ -15,7 +15,7 @@ http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYwuBFB.png", [B]ITV[/B]
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b428000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FM  HOT[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jqljjYD.png", [B]FM  HOT[/B]
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
@@ -90,7 +90,7 @@ http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8|User-a
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4EjyJU3.png", [COLOR blue][B]CANAL  6  REPRETEL[/B][/COLOR]
 http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/01KLMs9.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w520778573.m3u8
+https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h4CoskO.png", [COLOR blue][B]MICROVISION[/B][/COLOR]
 http://190.103.183.24:1935/live/MicroHD/chunklist_w163993833.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QWOvFBe.png", [COLOR blue][B]MUNDO +[/B][/COLOR]
@@ -98,8 +98,8 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w250397878.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0MTH18x.png", [COLOR blue][B]NEX[/B][/COLOR]
 http://198.1.117.5:1935/live/livestream/chunklist_w2007905850.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5CAc0Y.png", [COLOR blue][B]OROMAR  TV[/B][/COLOR]
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]RCP  TV[/B][/COLOR]
+http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yh0xFlK.png", [COLOR blue][B]RCP  TV[/B][/COLOR]
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
@@ -119,6 +119,8 @@ http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w10907563
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wT7RR9O.png", [COLOR blue][B]TELEVICENTRO[/B][/COLOR]
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0hCqOh.png", TELEUNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sgj0RIE.png", [COLOR blue][B]TVSUR  9[/B][/COLOR]
 http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w280519872.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kf7Ub0C.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
