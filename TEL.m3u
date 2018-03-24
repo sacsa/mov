@@ -13,6 +13,8 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]UTV[/B]
+http://play.mediostream.cl/utvs/live1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYwuBFB.png", [B]ITV[/B]
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b428000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jqljjYD.png", [B]FM  HOT[/B]
@@ -118,7 +120,7 @@ http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w10907563
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR blue][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wT7RR9O.png", [COLOR blue][B]TELEVICENTRO[/B][/COLOR]
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8|User-agent=iPhone&amp;Referer=http://d2dn7ylrd9r3ds.cloudfront.net.cloudfront.net
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0hCqOh.png", [COLOR blue][B]TELEUNO[/B][/COLOR]
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sgj0RIE.png", [COLOR blue][B]TVSUR  9[/B][/COLOR]
