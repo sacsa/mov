@@ -61,10 +61,12 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIejZJi.png", [COLOR lime][B]LAS  ESTRELLAS[/B][/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  TRECE[/B][/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR lime][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]AZTECA  SIETE[/B][/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  TRECE[/B][/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WPGsSCW.png", [COLOR lime][B]CANAL  22[/B][/COLOR]
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gpt4vY0.png", [COLOR lime][B]TELEMUNDO[/B][/COLOR]
