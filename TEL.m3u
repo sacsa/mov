@@ -111,6 +111,8 @@ http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1924792090_DVR.m3u8
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l8F0xjs.png", [COLOR blue][B]TELEMETRO[/B][/COLOR]
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELENORD  8[/B][/COLOR]
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1449332236.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HZOLq6d.png", [COLOR blue][B]TELENORD  12[/B][/COLOR]
 http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w186856407.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/074XY6F.png", [COLOR blue][B]TELENORD  14[/B][/COLOR]
