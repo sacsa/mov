@@ -41,8 +41,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [COLOR orange][B]A1 FILM[/B][/COLOR]
-http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCI0zWS.png", [COLOR orange][B]7TV[/B][/COLOR]
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [COLOR orange][B]ENERGY[/B][/COLOR]
@@ -55,8 +53,6 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [COLOR orange][B]FDF[/B][/COLOR]
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [COLOR orange][B]BEMAD[/B][/COLOR] 
-http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
@@ -109,6 +105,8 @@ http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.
 http://k4.usastreams.com/superC/superC_1/chunklist_w2131926885.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ttJuZXt.png", [COLOR blue][B]TELE  AZUL[/B][/COLOR]
 http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qY13Pp2.png", [COLOR blue][B]TELEANTILLAS[/B][/COLOR]
+http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1924792090_DVR.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v7D0yaa.png", [COLOR blue][B]TELECOSTA[/B][/COLOR]
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l8F0xjs.png", [COLOR blue][B]TELEMETRO[/B][/COLOR]
