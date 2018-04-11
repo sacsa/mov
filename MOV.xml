@@ -451,7 +451,7 @@
 <item>
 <title> [COLOR white][B]CHV[/B][/COLOR]</title>
 <link>http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8</link>  
-<thumbnail>http://i.imgur.com/2LBs5VU.png</thumbnail> 
+<thumbnail>https://i.imgur.com/kiElqTa.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
@@ -474,6 +474,13 @@
 <link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone</link>
 <thumbnail>http://i.imgur.com/X02NeYZ.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]UTV[/B][/COLOR]</title>
+<link>http://play.mediostream.cl/utvs/live1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/PALC9Kh.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
 <item>
@@ -559,13 +566,13 @@
 <thumbnail>http://i.imgur.com/a80LLYs.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
-
-<item>
+		
+<itm>
 <title>[COLOR orange][B]A1 FILM[/B][/COLOR]</title>
 <link>http://178.132.6.97/A1Film/tracks-v1a1/index.m3u8</link>
 <thumbnail>https://i.imgur.com/VQgDvMA.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-</item>
+</itm>
 		
 <item>
 <title>[COLOR orange][B]7  TV[/B][/COLOR]</title>
@@ -637,18 +644,25 @@
 </itm>
 
 <item>
-<title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
-<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8</link>
-<thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
-<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>
-
-<item>
 <title>[COLOR lime][B]AZTECA  A+[/B][/COLOR]</title> 
 <link>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8</link>
 <thumbnail>https://i.imgur.com/wAtDvPx.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
+		
+<item>
+<title>[COLOR lime][B]AZTECA  7[/B][/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/ZWuFwFM.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+		
+<item>
+<title>[COLOR lime][B]AZTECA  13[/B][/COLOR]</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/VJlsTjh.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
 
 <item>
 <title>[COLOR lime][B]TELEMUNDO[/B][/COLOR]</title>
@@ -755,11 +769,25 @@
 </item>	
 
 <item>
+<title>[COLOR gold][B]CANAL  11  REPRETEL[/B][/COLOR]</title>
+<link>http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8|User-agent=iPhone</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
+
+<item>
 <title>[COLOR gold][B]CENTRAL  TV[/B][/COLOR]</title>
 <link>https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/01KLMs9.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
+
+<item>
+<title>[COLOR gold][B]LUNA  TV[/B][/COLOR]</title>
+<link>http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8</link>
+<thumbnail>https://i.imgur.com/Cf3vq6U.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
 
 <item>
 <title>[COLOR gold][B]MICROVISION[/B][/COLOR]</title>
@@ -810,17 +838,17 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
-<itm>
-<title>[COLOR gold][B]TELEANTILLAS[/B][/COLOR]</title>
-<link>http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist.m3u8</link>
-<thumbnail>https://i.imgur.com/qY13Pp2.png</thumbnail>
-<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>	
-
 <item>
 <title>[COLOR gold][B]TELE  AZUL[/B][/COLOR]</title>
 <link>http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8</link>
 <thumbnail>https://i.imgur.com/ttJuZXt.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELEANTILLAS[/B][/COLOR]</title>
+<link>http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1924792090_DVR.m3u8</link>
+<thumbnail>https://i.imgur.com/qY13Pp2.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
 
@@ -836,7 +864,14 @@
 <link>http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/l8F0xjs.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-</item>	 
+</item>	
+
+<item>
+<title>[COLOR gold][B]TELENORD  8[/B][/COLOR]</title>
+<link>http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1449332236.m3u8</link>
+<thumbnail>https://i.imgur.com/G20zPU2.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
+</item>
 
 <item>
 <title>[COLOR gold][B]TELENORD  12[/B][/COLOR]</title>
