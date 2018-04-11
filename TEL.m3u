@@ -5,15 +5,15 @@
 https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2LBs5VU.png", [B]CHV[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", [B]UCV[/B]
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]UTV[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 http://play.mediostream.cl/utvs/live1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYwuBFB.png", [B]ITV[/B]
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b428000.m3u8
@@ -43,8 +43,6 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCI0zWS.png", [COLOR orange][B]7TV[/B][/COLOR]
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [COLOR orange][B]ENERGY[/B][/COLOR]
-http://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [COLOR orange][B]CUATRO[/B][/COLOR] 
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [COLOR orange][B]DIVINITY[/B][/COLOR]
@@ -63,7 +61,7 @@ http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR lime][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]AZTECA  SIETE[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZWuFwFM.png", [COLOR lime][B]AZTECA  SIETE[/B][/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR lime][B]AZTECA  TRECE[/B][/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
@@ -89,9 +87,11 @@ http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b298304.m3u
 http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4EjyJU3.png", [COLOR blue][B]CANAL  6  REPRETEL[/B][/COLOR]
 http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  11  REPRETEL[/B][/COLOR]
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/01KLMs9.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]LUNA  TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h4CoskO.png", [COLOR blue][B]MICROVISION[/B][/COLOR]
 http://190.103.183.24:1935/live/MicroHD/chunklist_w163993833.m3u8
@@ -115,7 +115,7 @@ http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1924792090_DVR.m3u8
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l8F0xjs.png", [COLOR blue][B]TELEMETRO[/B][/COLOR]
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELENORD  8[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G20zPU2.png", [COLOR blue][B]TELENORD  8[/B][/COLOR]
 http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1449332236.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HZOLq6d.png", [COLOR blue][B]TELENORD  12[/B][/COLOR]
 http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w186856407.m3u8
