@@ -24,17 +24,17 @@ http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionh
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGACINE  HD[/B]
 http://cm.hostlagarto.com:8081/MegacineHD/megacine.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
+https://atresplayerp-i.akamaized.net/megampp/bitrate_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7CNArTW.png", [COLOR orange][B]ATRESERIES  HD[/B][/COLOR]
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8  
+https://atresplayerp-i.akamaized.net/a3seriesmpp/bitrate_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [COLOR orange][B]ANTENA  3[/B][/COLOR]  
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/0Asjy1P.png", [COLOR orange][B]NOVA[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lqVO3QU.png", [COLOR orange][B]LA  SEXTA[/B][/COLOR]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
+https://atresplayerp-i.akamaized.net/lasextampp/bitrate_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s8Zu8Mm.png", [COLOR orange][B]NEOX[/B][/COLOR]
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [COLOR orange][B]LA  1[/B][/COLOR]
