@@ -117,12 +117,16 @@ http://4k.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yh0xFlK.png", [COLOR blue][B]RPC  TV[/B][/COLOR]
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]SEÑALES[/B][/COLOR]
+http://rctvhdstream.net:5050/rctv/senalestv.stream/chunklist_w1081516549.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lQfmQ1f.png", [COLOR blue][B]SUPER  5  HD[/B][/COLOR]
 http://k4.usastreams.com/superC/superC_1/chunklist_w2131926885.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ttJuZXt.png", [COLOR blue][B]TELE  AZUL[/B][/COLOR]
 http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEUNION[/B][/COLOR]
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w485870335.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELE  10[/B][/COLOR]
 http://4k.hostlagarto.com:8081/Tele10tv/Tele10tvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qY13Pp2.png", [COLOR blue][B]TELEANTILLAS[/B][/COLOR]
