@@ -2,13 +2,13 @@
 <item>
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Tv Online [/COLOR][COLOR red][/COLOR]</title>
+<title>[COLOR blue]TV  M3U[/COLOR][COLOR red][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/sacsa/mov/master/TEL.m3u</externallink>
 </item>       
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Series[/COLOR]</title>
+<title>[COLOR seagreen]TV XML[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/sacsa/mov/master/MOV.xml</externallink>
 </item>
 </item>
