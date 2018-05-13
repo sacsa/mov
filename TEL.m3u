@@ -149,6 +149,8 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8|User-agent=iPhone&amp;Referer=http://d2dn7ylrd9r3ds.cloudfront.net.cloudfront.net
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0hCqOh.png", [COLOR blue][B]TELEUNO[/B][/COLOR]
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  COTUÌ[/B][/COLOR]
+http://ss1.domint.net:2204/tvc_str/tvcotui/chunklist_w545217963.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  PLATA[/B][/COLOR]
 http://cm.hostlagarto.com:8081/TVPLATA/tvplataHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sgj0RIE.png", [COLOR blue][B]TVSUR  9[/B][/COLOR]
