@@ -101,10 +101,16 @@ http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8|User-
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CURRO  TV[/B][/COLOR]
 http://4k.hostlagarto.com:8081/CURROTV/currotvHD.myStream/chunks.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DELTA  TV[/B][/COLOR]
+http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DIVA  HD[/B][/COLOR]
+http://cm.hostlagarto.com:8081/Divatv/DivaHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]EXTREMO  CHANNEL[/B][/COLOR]
 http://extremo01.streamprolive.com/hls/live_high.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]LATINO  TV[/B][/COLOR]
+http://cm.hostlagarto.com:8081/LatinoTV/latinotvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]LTVi[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Ltvinternacional/Ltvinternational.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
@@ -125,6 +131,8 @@ http://4k.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yh0xFlK.png", [COLOR blue][B]RPC  TV[/B][/COLOR]
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]RVD[/B][/COLOR]
+http://4k.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]SEÑALES[/B][/COLOR]
 http://rctvhdstream.net:5050/rctv/senalestv.stream/chunklist_w1081516549.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
@@ -163,6 +171,8 @@ http://cm.hostlagarto.com:8081/TVPLATA/tvplataHD.myStream/chunks.m3u8?
 http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w280519872.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kf7Ub0C.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TITANICO  TV[/B][/COLOR]
+http://4k.hostlagarto.com:8081/Titanicotv/Titanicotvhd.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]Food Network[/B][/COLOR]
