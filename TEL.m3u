@@ -119,7 +119,7 @@ http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w163993833.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QWOvFBe.png", [COLOR blue][B]MUNDO +[/B][/COLOR]
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w250397878.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MUSA  TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MUSA  TV[/B][/COLOR] 
 https://wowzaprod105-i.akamaihd.net/hls/live/582264/f84f4e5e_1_2728/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0MTH18x.png", [COLOR blue][B]NEX[/B][/COLOR]
 http://198.1.117.5:1935/live/livestream/chunklist_w2007905850.m3u8
