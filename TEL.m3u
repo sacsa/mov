@@ -23,27 +23,27 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]AXN[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
 http://s2.latinowebtv.ga:2082/livelwtv/140.m3u8?token=-gYN3ZFjnVp7OwzlCNuoyg&expires=1528274064
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINECANAL[/B]
 http://s4.latinowebtv.ga:2082/livelwtv/132.m3u8?token=PtAKMVVOhU1dxERfQHf4CQ&expires=1528273306
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINEMAX[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CmLSkn9.png", [B]CINEMAX[/B]
 http://s1.latinowebtv.ga:2082/livelwtv/237.m3u8?token=x9Sr33AP9s2tsv4bN6iWdA&expires=1528273959
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HBO[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
 http://s2.latinowebtv.ga:2082/livelwtv/107.m3u8?token=YFCUKO9w577y66neqgHX3w&expires=1528273804
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HBO  FAMILY[/B]
 http://s6.latinowebtv.ga:2082/livelwtv/116.m3u8?token=75CjvTruGA8Gc8sgQ_MiaQ&expires=1528274628
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HBO PLUS[/B]
 http://s3.latinowebtv.ga:2082/livelwtv/117.m3u8?token=k3-vCN2rZz0oS8ZMzFJysQ&expires=1528274321
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FX[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qZ2U4jO.png", [B]FX[/B]
 http://s5.latinowebtv.ga:2082/livelwtv/286.m3u8?token=wQVc9oSMw5AIAWJ9MKDMBg&expires=1528274397
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FOX  MOVIES[/B]
 http://s2.latinowebtv.ga:2082/livelwtv/292.m3u8?token=LgKoDhTRFM97t_w_BhXtVA&expires=1528274512
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FOX  SERIES[/B]
 http://s2.latinowebtv.ga:2082/livelwtv/131.m3u8?token=sVQKwyEAsFfMR4Iq0EhuJQ&expires=1528276023
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TNT[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]TNT[/B]
 http://s3.latinowebtv.ga:2082/livelwtv/129.m3u8?token=9f82zaLrq71_iPiFDflsiA&expires=1528274697
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HISTORY[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORY[/B]
 http://s6.latinowebtv.ga:2082/livelwtv/233.m3u8?token=XNzsGdTZC2bp_m74481qDQ&expires=1528276173
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISCOVERY  INVESTIGACION[/B]
 http://s2.latinowebtv.ga:2082/livelwtv/284.m3u8?token=MMrgzrLzd4b2yURORmYbmw&expires=1528276230
@@ -123,8 +123,6 @@ http://4k.hostlagarto.com:8081/CURROTV/currotvHD.myStream/chunks.m3u8?
 http://cm.hostlagarto.com:8081/Dajabontv/DajabonHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EzfdJg3.png", [COLOR blue][B]DELTA  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DIVA  HD[/B][/COLOR]
-http://cm.hostlagarto.com:8081/Divatv/DivaHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4t2fsO1.png", [COLOR blue][B]DTV[/B][/COLOR]
 http://4k.hostlagarto.com:8081/canalDTV/canaldtv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZPHLWZk.png", [COLOR blue][B]ENTELEVISION[/B][/COLOR]
