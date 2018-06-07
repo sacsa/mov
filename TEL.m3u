@@ -25,7 +25,7 @@ http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionh
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
 http://s6.latinowebtv.ga:2082/livelwtv/286.m3u8?token=s_K5JTyhrxibGEFxqYX77w&expires=1528338856
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINECANAL[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OX26uSR.png", [B]CINECANAL[/B]
 http://s3.latinowebtv.ga:2082/livelwtv/132.m3u8?token=tpcMhYysrT_Kn_Ss9oTz1w&expires=1528338815
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CmLSkn9.png", [B]CINEMAX[/B]
 http://s2.latinowebtv.ga:2082/livelwtv/237.m3u8?token=dOTLxFW2O-8ZXX80IrudAA&expires=1528338659
@@ -39,7 +39,7 @@ http://s3.latinowebtv.ga:2082/livelwtv/268.m3u8?token=lsBbg_Gc7xkaQVYnqKWkqg&exp
 http://s1.latinowebtv.ga:2082/livelwtv/129.m3u8?token=vcuq2GSuLaibG4NJGSa4CA&expires=1528338908
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORY[/B]
 http://s3.latinowebtv.ga:2082/livelwtv/233.m3u8?token=wJk8uk8dONK-0lmtZfj2vQ&expires=1528338974
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISCOVERY  INVESTIGACION[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]DISCOVERY  INVESTIGACION[/B]
 http://s3.latinowebtv.ga:2082/livelwtv/284.m3u8?token=bYytiy6-jD2iqMOmeQGGCA&expires=1528339034
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]
 https://atresplayerp-i.akamaized.net/megampp/bitrate_3.m3u8
@@ -59,12 +59,6 @@ https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_4.m3u8
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [COLOR orange][B]LA  1[/B][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fp23JTm.png", [COLOR orange][B]TELEMADRID[/B][/COLOR]
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/a80LLYs.png", [COLOR orange][B]LA  OTRA[/B][/COLOR]
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCI0zWS.png", [COLOR orange][B]7TV[/B][/COLOR]
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [COLOR orange][B]CUATRO[/B][/COLOR] 
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [COLOR orange][B]DIVINITY[/B][/COLOR]
@@ -77,7 +71,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/7pra6ii.png", ACS NETWORK TV 
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", ACS NETWORK TV 
 http://play.mediostream.cl:80/acstv/live1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR lime][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
@@ -117,7 +111,7 @@ http://4k.hostlagarto.com:8081/CURROTV/currotvHD.myStream/chunks.m3u8?
 http://cm.hostlagarto.com:8081/Dajabontv/DajabonHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EzfdJg3.png", [COLOR blue][B]DELTA  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4t2fsO1.png", [COLOR blue][B]DTV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y3pXk6G.png", [COLOR blue][B]DTV[/B][/COLOR]
 http://4k.hostlagarto.com:8081/canalDTV/canaldtv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZPHLWZk.png", [COLOR blue][B]ENTELEVISION[/B][/COLOR]
 http://mediacp.live:1935/8416/8416/chunklist.m3u8
