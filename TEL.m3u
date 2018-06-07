@@ -23,24 +23,32 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gfevbJn.png", [B]AMC[/B]
+http://s1.latinowebtv.ga:2082/livelwtv/288.m3u8?token=rQasNeZ6k695YOFZVZvuaA&expires=1528363859
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
-http://s6.latinowebtv.ga:2082/livelwtv/286.m3u8?token=s_K5JTyhrxibGEFxqYX77w&expires=1528338856
+http://s4.latinowebtv.ga:2082/livelwtv/140.m3u8?token=7zHV7F20QOL2njalMCnwYQ&expires=1528363918
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OX26uSR.png", [B]CINECANAL[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/132.m3u8?token=tpcMhYysrT_Kn_Ss9oTz1w&expires=1528338815
+http://s2.latinowebtv.ga:2082/livelwtv/132.m3u8?token=Ck1Mi-r7zTtaNrFtanLCjg&expires=1528363968
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CmLSkn9.png", [B]CINEMAX[/B]
-http://s2.latinowebtv.ga:2082/livelwtv/237.m3u8?token=dOTLxFW2O-8ZXX80IrudAA&expires=1528338659
+http://s1.latinowebtv.ga:2082/livelwtv/237.m3u8?token=qny_MrMD9OW7aDdY9ZIvVg&expires=1528364012
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qZ2U4jO.png", [B]FX[/B]
-http://s5.latinowebtv.ga:2082/livelwtv/286.m3u8?token=wQVc9oSMw5AIAWJ9MKDMBg&expires=1528274397
+http://s6.latinowebtv.ga:2082/livelwtv/286.m3u8?token=Ee061Pk7Y1kxAOKzNZ0y3A&expires=1528364123
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN[/B]
+http://s7.latinowebtv.ga:2082/livelwtv/133.m3u8?token=G-_6c8fPBhUv8NjycUDydA&expires=1528364354
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
-http://s4.latinowebtv.ga:2082/livelwtv/107.m3u8?token=uBGtq1T0aAAEzlEoPirwbQ&expires=1528338555
+http://s3.latinowebtv.ga:2082/livelwtv/117.m3u8?token=ZnESfh2_N072lQ4JhI1U1w&expires=1528364201
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT CHANNEL[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/268.m3u8?token=lsBbg_Gc7xkaQVYnqKWkqg&expires=1528339105
+http://s1.latinowebtv.ga:2082/livelwtv/268.m3u8?token=y-Dq3yQimUAVPlfCMNl98Q&expires=1528364402
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HjHgIec.png", [B]TCM[/B]
+http://s4.latinowebtv.ga:2082/livelwtv/222.m3u8?token=vgM522GqptoGsiDpI8jlfg&expires=1528364523
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]TNT[/B]
-http://s1.latinowebtv.ga:2082/livelwtv/129.m3u8?token=vcuq2GSuLaibG4NJGSa4CA&expires=1528338908
+http://s3.latinowebtv.ga:2082/livelwtv/129.m3u8?token=B7WlH8LIzNwqQGM3VwfBHA&expires=1528364072
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORY[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/233.m3u8?token=wJk8uk8dONK-0lmtZfj2vQ&expires=1528338974
+http://s6.latinowebtv.ga:2082/livelwtv/233.m3u8?token=33jblVCexW3x1BbGJy-yLg&expires=1528364258
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISCOVERY  H&H[/B]
+http://s3.latinowebtv.ga:2082/livelwtv/299.m3u8?token=eCBXDp83AwTvh5DS2Rgy2g&expires=1528364633
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]DISCOVERY  INVESTIGACION[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/284.m3u8?token=bYytiy6-jD2iqMOmeQGGCA&expires=1528339034
+http://s5.latinowebtv.ga:2082/livelwtv/284.m3u8?token=a_3XNIQrHfrq-9RSIdd2sA&expires=1528364301
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]
 https://atresplayerp-i.akamaized.net/megampp/bitrate_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
