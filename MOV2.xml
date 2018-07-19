@@ -282,26 +282,28 @@
 	</item>	
 	
 	<item>
-	<title>[COLOR blue][B]HBO[/B][/COLOR]</title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]HBO[/B][/COLOR] </title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
-	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embedna.php?file=hbolat&width=650&height=397</page>
-	<cookieJar></cookieJar>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live1/hbolatino.php</page>
+	<referer>http://vertelevisor.com/tv/argentina/hbo-latino.html</referer>
+	<agent>iPad</agent>
 	</regex>
 	<thumbnail>https://i.imgur.com/79sbBPh.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>	
-		
+	</item>
+	
 	<item>
-	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR]</title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR] </title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
-	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
-	<cookieJar></cookieJar>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live/hollywood.php</page>
+	<referer>http://vertelevisor.com/tv/nacionales/canal-hollywood.html</referer>
+	<agent>iPad</agent>
 	</regex>
 	<thumbnail>https://i.imgur.com/1trqq2r.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
@@ -376,17 +378,18 @@
 	</item>	 
 	
 	<item>
-	<title>[COLOR blue][B]CRIMEN + INVESTIGACION[/B][/COLOR]</title>
-	<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+	<title>[COLOR blue][B]CRIMEN + INVESTIGACION[/B][/COLOR] </title>
+	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
-	<name>GetPageUrl</name>
-	<expres>source: '(.*?)'</expres>
-	<page>http://livesports.pw/embedna.php?file=crimenyinvestigacion&amp;width=650&amp;height=400</page>
-	<cookieJar></cookieJar>
+	<name>get-id</name>
+	<expres>[",\'](h.*m3u8.*?)'</expres>
+	<page>http://vergol.com/live/ci.php</page>
+	<referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+	<agent>iPad</agent>
 	</regex>
 	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
-	</item>		
+	</item>
 		
 	<item>
 	<title>[COLOR blue][B]HISTORIA[/B][/COLOR] </title>
