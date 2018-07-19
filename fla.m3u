@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
+http://play.mediostream.cl/utvs/live1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jqljjYD.png", [B]FM  HOT[/B]
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [B]CENTRAL  TV[/B]
+https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [B]WOW TV[/B]
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
