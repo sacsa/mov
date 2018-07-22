@@ -68,7 +68,7 @@ http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b946000.m3u8
 https://prepublish.f.qaotic.net/b09/ngrp:el12_live01-100083_all/chunklist_b946000.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dW4DMyJ.png", [COLOR blue][B]CANAL  4[/B][/COLOR] 
 http://184.154.28.210:1935/canal4/canal4/chunklist_w1207979219.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXpOaf8.png", [COLOR blue][B]TELESOL[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXpOaf8.png", [COLOR blue][B]TELESOL[/B][/COLOR] 
 http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
 http://coninfo.net:1935/13max/live/chunklist.m3u8
