@@ -20,11 +20,11 @@ http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jqljjYD.png", [B]FM  HOT[/B]
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
+http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gfevbJn.png", [B]AMC[/B]
-http://s4.latinowebtv.ga:2082/livelwtv/288.m3u8?token=KaSHLIqDJ9B-38fyRcQbPA&expires=1528424601
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
 http://s4.latinowebtv.ga:2082/livelwtv/140.m3u8?token=KWCFIxpU5nlWPew0vuWEOw&expires=1528423740
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OX26uSR.png", [B]CINECANAL[/B]
@@ -65,20 +65,14 @@ https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_4.m3u8
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [COLOR orange][B]LA  1[/B][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [COLOR orange][B]CUATRO[/B][/COLOR] 
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [COLOR orange][B]DIVINITY[/B][/COLOR]
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b632pIw.png", [COLOR orange][B]TELECINCO[/B][/COLOR]
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [COLOR orange][B]FDF[/B][/COLOR]
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", ACS NETWORK TV 
-http://play.mediostream.cl:80/acstv/live1/index.m3u8
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR lime][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZWuFwFM.png", [COLOR lime][B]AZTECA  SIETE[/B][/COLOR]
