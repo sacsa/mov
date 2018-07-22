@@ -23,30 +23,7 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gfevbJn.png", [B]AMC[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
-http://s4.latinowebtv.ga:2082/livelwtv/140.m3u8?token=KWCFIxpU5nlWPew0vuWEOw&expires=1528423740
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OX26uSR.png", [B]CINECANAL[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/132.m3u8?token=V-y0uvj04SLlAmi9scZ3YQ&expires=1528423820
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CmLSkn9.png", [B]CINEMAX[/B]
-http://s7.latinowebtv.ga:2082/livelwtv/237.m3u8?token=HYnRIN-Fbb7E2c2aYID71g&expires=1528423871
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qZ2U4jO.png", [B]FX[/B]
-http://s5.latinowebtv.ga:2082/livelwtv/286.m3u8?token=CQGBwitbj2mdnJk7w1tvuw&expires=1528423982
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN[/B]
-http://s6.latinowebtv.ga:2082/livelwtv/133.m3u8?token=-Htz-ZPLnxZ6gOCn80mxbA&expires=1528424383
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/117.m3u8?token=Tmzifk7xwIKZQzrI5jM7SA&expires=1528423938
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT CHANNEL[/B]
-http://s3.latinowebtv.ga:2082/livelwtv/268.m3u8?token=8gITZ3HO2RR20NW3D9imRg&expires=1528424239
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HjHgIec.png", [B]TCM[/B]
-http://s2.latinowebtv.ga:2082/livelwtv/222.m3u8?token=rGO0jiL39NMkisXuLZAgvw&expires=1528424317
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]TNT[/B]
-http://s5.latinowebtv.ga:2082/livelwtv/129.m3u8?token=kHpJCuFEyfwqoATGWF9ZfA&expires=1528424055
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISCOVERY  H&H[/B]
-http://s1.latinowebtv.ga:2082/livelwtv/299.m3u8?token=CZAbIgmC_B6Au28duybigw&expires=1528424458
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]DISCOVERY  INVESTIGACION[/B]
-http://s4.latinowebtv.ga:2082/livelwtv/284.m3u8?token=toKmW_RMqMZNgg1y1of8Dw&expires=1528424160
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H44qJa0.png", [COLOR orange][B]MEGA  ESPAÑA[/B][/COLOR]
 https://atresplayerp-i.akamaized.net/megampp/bitrate_3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ouPLH7p.png", [COLOR orange][B]8Tv[/B][/COLOR]  
@@ -71,7 +48,7 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", ACS NETWORK TV 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", ACS NETWORK TV 
 https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR lime][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
