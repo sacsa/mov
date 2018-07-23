@@ -310,6 +310,22 @@
 	</item>
 	
 	<item>
+	<title>[COLOR blue][B]HBO LATINO[/B][/COLOR]</title>
+	<sportsdevil>http://www.supertelevisionhd.com/tvxd/hbo546.php</sportsdevil>
+	<referer>http://live.lcdn.claro.net</referer>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	</item>	
+
+	<item>
+	<title>[COLOR blue][B]HBO PLUS LATINO[/B][/COLOR]</title>
+	<sportsdevil>http://www.supertelevisionhd.com/tvxd/hbo292.php</sportsdevil>
+	<referer>http://live.lcdn.claro.net</referer>
+	<thumbnail></thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	</item>
+	
+	<item>
 	<title>[COLOR blue][B]HOLLYWOOD[/B][/COLOR] </title>
 	<link>$doregex[get-id]|User-Agent=iPad</link>
 	<regex>
@@ -404,6 +420,14 @@
 	<thumbnail>https://i.imgur.com/sDVPdkK.png</thumbnail>
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 	</item>	
+	
+	<item>
+	<title>[COLOR blue][B]INVESTIGATION  DISCOVERY[/B][/COLOR]</title>
+	<sportsdevil>http://www.supertelevisionhd.com/tvxd/id77.php</sportsdevil>
+	<referer>http://live.lcdn.claro.net</referer>
+	<thumbnail> </thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	</item>
 		
 	<item>
 	<title>[COLOR blue][B]HISTORIA[/B][/COLOR] </title>
@@ -418,6 +442,15 @@
 	<thumbnail>https://i.imgur.com/9MmBdBk.png</thumbnail>   
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 	</item>
+	
+	<item>
+	<title>[COLOR blue][B]HISTORIA  LATINO[/B][/COLOR]</title>
+	<sportsdevil>http://www.supertelevisionhd.com/tvxd/history321.php</sportsdevil>
+	<referer>http://live.lcdn.claro.net</referer>
+	<thumbnail>https://i.imgur.com/9MmBdBk.png</thumbnail>
+	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+	</item>	
+	<item>
 	
 	<item>
 	<title>[COLOR blue][B]COCINA[/B][/COLOR] </title>
@@ -538,7 +571,7 @@
 		
 <item>
 <title>[COLOR white][B]CONTIVISION[/B][/COLOR]</title>
-<link>http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8</link>
+<link>http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?</link>
 <thumbnail>https://i.imgur.com/IVxrFsd.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
@@ -634,19 +667,19 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
 
-<item>
+<itm>
 <title>[COLOR orange][B]TELEMADRID[/B][/COLOR]</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <thumbnail>http://i.imgur.com/fp23JTm.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-</item>
+</itm>
 
-<item>
+<itm>
 <title>[COLOR orange][B]LA  OTRA[/B][/COLOR]</title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <thumbnail>http://i.imgur.com/a80LLYs.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
-</item>
+</itm>
 
 <itm>
 <title>[COLOR orange][B]A1 FILM[/B][/COLOR]</title>
@@ -655,10 +688,17 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </itm>
 		
-<item>
+<itm>
 <title>[COLOR orange][B]7  TV[/B][/COLOR]</title>
 <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
 <thumbnail>https://i.imgur.com/FCI0zWS.png</thumbnail> 
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</itm>
+
+<item>
+<title>[COLOR orange][B]LIFE  TV[/B][/COLOR]</title>
+<link>http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://i.imgur.com/aZb96Gc.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
@@ -705,7 +745,7 @@
 
 <item>
 <title>[B]ACS NETWORK[/B]</title>
-<link>http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8</link>
+<link>https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/7pra6ii.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>			
