@@ -59,9 +59,24 @@
         </item>
 		
 		
+		<item>
+		<title>[COLOR blue][B]AXN[/B][/COLOR] [COLOR lightblue]  * • Canales Azul esperar 20 segundos • * [/COLOR]</title>
+		<sportsdevil>http://www.supertelevisionhd.com/tvxd/axn469.php</sportsdevil>
+		<referer>http://live.lcdn.claro.net</referer>
+		<thumbnail>https://i.imgur.com/NIEPTGi.png</thumbnail>
+		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+		</item>
+
+		<item>
+		<title>[COLOR blue][B]CINECANAL[/B][/COLOR]</title>
+		<sportsdevil>http://www.supertelevisionhd.com/tvxd/cinecanal46.php</sportsdevil>
+		<referer>http://live.lcdn.claro.net</referer>
+		<thumbnail>https://i.imgur.com/OX26uSR.png</thumbnail>
+		<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+		</item>
 		
 		<item>
-		<title>[COLOR blue][B]FOX ACCION[/B][/COLOR] [COLOR lightblue]  * • Canales Azul esperar 20 segundos • * [/COLOR]</title>
+		<title>[COLOR blue][B]FOX ACCION[/B][/COLOR]</title>
 		<sportsdevil>http://www.supertelevisionhd.com/tvxd/foxaction194.php</sportsdevil>
 		<referer>http://www.supertelevisionhd.com</referer>
 		<thumbnail></thumbnail>
@@ -184,14 +199,14 @@
 
 		
 <item>
-<title>[COLOR orange][B]LIFE  TV[/B][/COLOR]</title>
+<title>[COLOR white][B]LIFE  TV[/B][/COLOR]</title>
 <link>http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8</link>
 <thumbnail>https://i.imgur.com/aZb96Gc.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR orange]La  1[/B][/COLOR] </title>
+<title>[B][COLOR white]La  1[/B][/COLOR] </title>
 <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8</link>
 <thumbnail>https://i.imgur.com/KZE9aRf.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
