@@ -24,12 +24,69 @@ http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [COLOR orange][B]LIFE  TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [COLOR orange][B]LA  1[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [B]LA  1[/B]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [COLOR orange][B]DIVINITY[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ucBRhy.png", [B]A&E[/B]
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OX26uSR.png", [B]CINECANAL[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "CINELATINO" tvg-logo="", [B]CINELATINO[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_HD" tvg-logo="https://i.imgur.com/qZ2U4jO.png", [B]FOX[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FOX  ACTION[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(01)/index.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOXMOVIES_HD" tvg-logo="", [B]FOX  MOVIES[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX1_HD" tvg-logo="", [B]FOX  SERIES[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CINEMA_HD" tvg-logo="", [B]FOX  CINEMA[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CLASSICS_HD" tvg-logo="", [B]FOX  CLASSICS[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_FAMILY_HD" tvg-logo="", [B]HBO  FAMILY[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_SIGNATURE_HD" tvg-logo="", [B]HBO  SIGNATURE[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_PLUS_HD tvg-logo="", [B]HBO  PLUS[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-shift=0 tvg-name= "MAX_PRIME_HD" tvg-logo="", [B]MAX  PRIME[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "SPACE_HD" tvg-logo="", [B]SPACE[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "SONY_HD" tvg-logo="", [B]SONY[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(02)/index.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-shift=0 tvg-name= "STUDIO_UNIVERSAL" tvg-logo="", [B]STUDIO  UNIVERSAL[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "TCM" tvg-logo="https://i.imgur.com/HjHgIec.png", [B]TCM[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "THE_FILM_ZONE_HD" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]THE  FILM  ZONE[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_HD" tvg-logo="", [B]TNT[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_SERIES_HD" tvg-logo="", [B]TNT  SERIES[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "WARNER_HD" tvg-logo="", [B]WARNER[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="", [B]UNIVERSAL  CHANNEL[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]		
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]DISCOVERY  INVESTIGACION[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="", [B]H2[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
