@@ -15,8 +15,6 @@ http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 http://play.mediostream.cl/utvs/live1/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYwuBFB.png", [B]ITV[/B]
-http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/chunklist_w1497376980_b428000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
@@ -31,53 +29,51 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ucBRhy.png", [B]A&E[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TJa3wu1.png", [B]A&E[/B]
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OX26uSR.png", [B]CINECANAL[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "CINELATINO" tvg-logo="", [B]CINELATINO[/B]
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "FOX_HD" tvg-logo="https://i.imgur.com/qZ2U4jO.png", [B]FOX[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FOX  ACTION[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YxejzcZ.png", [B]FOX  ACTION[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(01)/index.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOXMOVIES_HD" tvg-logo="", [B]FOX  MOVIES[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOXMOVIES_HD" tvg-logo="https://i.imgur.com/gU3RV3w.png", [B]FOX  MOVIES[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX1_HD" tvg-logo="", [B]FOX  SERIES[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX1_HD" tvg-logo="https://i.imgur.com/sJ2hMD6.png", [B]FOX  SERIES[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CINEMA_HD" tvg-logo="", [B]FOX  CINEMA[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CINEMA_HD" tvg-logo="https://i.imgur.com/RVsoo7a.png", [B]FOX  CINEMA[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CLASSICS_HD" tvg-logo="", [B]FOX  CLASSICS[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CLASSICS_HD" tvg-logo="https://i.imgur.com/BhAriTr.png", [B]FOX  CLASSICS[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_FAMILY_HD" tvg-logo="", [B]HBO  FAMILY[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_FAMILY_HD" tvg-logo="https://i.imgur.com/VVRkHRW.png", [B]HBO  FAMILY[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_SIGNATURE_HD" tvg-logo="", [B]HBO  SIGNATURE[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_SIGNATURE_HD" tvg-logo="https://i.imgur.com/e6BLxAe.png", [B]HBO  SIGNATURE[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_PLUS_HD tvg-logo="", [B]HBO  PLUS[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_PLUS_HD tvg-logo="https://i.imgur.com/3S8wVnt.png", [B]HBO  PLUS[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-shift=0 tvg-name= "MAX_PRIME_HD" tvg-logo="", [B]MAX  PRIME[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "MAX_PRIME_HD" tvg-logo="https://i.imgur.com/TXqQjN2.png", [B]MAX  PRIME[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "SPACE_HD" tvg-logo="", [B]SPACE[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "SPACE_HD" tvg-logo="https://i.imgur.com/9uI1os3.png", [B]SPACE[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "SONY_HD" tvg-logo="", [B]SONY[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "SONY_HD" tvg-logo="https://i.imgur.com/bvo1cfg.png", [B]SONY[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(02)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "STUDIO_UNIVERSAL" tvg-logo="", [B]STUDIO  UNIVERSAL[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "TCM" tvg-logo="https://i.imgur.com/HjHgIec.png", [B]TCM[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "THE_FILM_ZONE_HD" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]THE  FILM  ZONE[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "THE_FILM_ZONE_HD" tvg-logo="https://i.imgur.com/XpMZj1X.png", [B]THE  FILM  ZONE[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_HD" tvg-logo="", [B]TNT[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_HD" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]TNT[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "TNT_SERIES_HD" tvg-logo="", [B]TNT  SERIES[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "WARNER_HD" tvg-logo="", [B]WARNER[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "WARNER_HD" tvg-logo="https://i.imgur.com/MaEgdqt.png", [B]WARNER[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="", [B]UNIVERSAL  CHANNEL[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]		
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8|User-agent=iPhone
@@ -85,7 +81,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="", [B]H2[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
@@ -113,26 +109,8 @@ http://184.154.28.210:1935/canal4/canal4/chunklist_w1207979219.m3u8
 http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
 http://coninfo.net:1935/13max/live/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebSrRyo.png", [COLOR blue][B]ANTENA  LATINA[/B][/COLOR]
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b298304.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/76wyQMa.png", [COLOR blue][B]CANAL  4  REPRETEL[/B][/COLOR]
-http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4EjyJU3.png", [COLOR blue][B]CANAL  6  REPRETEL[/B][/COLOR]
-http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  11  REPRETEL[/B][/COLOR]
-http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i9J5eiX.png", [COLOR blue][B]CURRO  TV[/B][/COLOR]
-http://4k.hostlagarto.com:8081/CURROTV/currotvHD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0P9g3PQ.png", [COLOR blue][B]DAJABON[/B][/COLOR]
-http://cm.hostlagarto.com:8081/Dajabontv/DajabonHD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EzfdJg3.png", [COLOR blue][B]DELTA  TV[/B][/COLOR]
-http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y3pXk6G.png", [COLOR blue][B]DTV[/B][/COLOR]
-http://4k.hostlagarto.com:8081/canalDTV/canaldtv.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZPHLWZk.png", [COLOR blue][B]ENTELEVISION[/B][/COLOR]
-http://mediacp.live:1935/8416/8416/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kdVeJYb.png", [COLOR blue][B]LATINO  TV[/B][/COLOR]
@@ -173,8 +151,6 @@ http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
 http://4k.hostlagarto.com:8081/Tele10tv/Tele10tvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zbhkLJd.png", [COLOR blue][B]TELE  12[/B][/COLOR]
 http://cm.hostlagarto.com:8081/TELE12/tele12HD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qY13Pp2.png", [COLOR blue][B]TELEANTILLAS[/B][/COLOR]
-http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist_w1924792090_DVR.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v7D0yaa.png", [COLOR blue][B]TELECOSTA[/B][/COLOR]
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l8F0xjs.png", [COLOR blue][B]TELEMETRO[/B][/COLOR]
