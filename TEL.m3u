@@ -29,7 +29,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TJa3wu1.png", [B]A&E[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ucBRhy.png", [B]A&E[/B]
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NIEPTGi.png", [B]AXN[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
