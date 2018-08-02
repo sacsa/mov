@@ -61,15 +61,15 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "SONY_HD" tvg-logo="https://i.imgur.com/bvo1cfg.png", [B]SONY[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(02)/index.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-shift=0 tvg-name= "STUDIO_UNIVERSAL" tvg-logo="", [B]STUDIO  UNIVERSAL[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "STUDIO_UNIVERSAL" tvg-logo="https://i.imgur.com/EOJmpU7.png", [B]STUDIO  UNIVERSAL[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "TCM" tvg-logo="https://i.imgur.com/HjHgIec.png", [B]TCM[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "THE_FILM_ZONE_HD" tvg-logo="https://i.imgur.com/XpMZj1X.png", [B]THE  FILM  ZONE[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_HD" tvg-logo="https://i.imgur.com/QUK2daT.png", [B]TNT[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_HD" tvg-logo="https://i.imgur.com/rhxawzU.png", [B]TNT[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
-#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_SERIES_HD" tvg-logo="", [B]TNT  SERIES[/B]
+#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_SERIES_HD" tvg-logo="https://i.imgur.com/fWUQok3.png", [B]TNT  SERIES[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "WARNER_HD" tvg-logo="https://i.imgur.com/MaEgdqt.png", [B]WARNER[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
@@ -83,8 +83,6 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8|User-agent=iPhone 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", ANIME TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", ACS NETWORK TV 
@@ -108,13 +106,11 @@ http://184.154.28.210:1935/canal4/canal4/chunklist_w1207979219.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXpOaf8.png", [COLOR blue][B]TELESOL[/B][/COLOR] 
 http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
-http://coninfo.net:1935/13max/live/chunklist.m3u8
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w1589898697.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kdVeJYb.png", [COLOR blue][B]LATINO  TV[/B][/COLOR]
-http://cm.hostlagarto.com:8081/LatinoTV/latinotvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FdMJPPv.png", [COLOR blue][B]LTVi[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Ltvinternacional/Ltvinternational.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
@@ -132,29 +128,19 @@ http://198.1.117.5:1935/live/livestream/chunklist_w2007905850.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5CAc0Y.png", [COLOR blue][B]OROMAR  TV[/B][/COLOR]
 http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hpY5Bxb.png", [COLOR blue][B]PUÑAL  TV[/B][/COLOR]
-http://4k.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/blbxhpg.png", [COLOR blue][B]RCN[/B][/COLOR]
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yh0xFlK.png", [COLOR blue][B]RPC  TV[/B][/COLOR]
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
-http://4k.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uSC2fHX.png", [COLOR blue][B]SEÑALES[/B][/COLOR]
 http://rctvhdstream.net:5050/rctv/senalestv.stream/chunklist_w1081516549.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lQfmQ1f.png", [COLOR blue][B]SUPER  5  HD[/B][/COLOR]
 http://k4.usastreams.com/superC/superC_1/chunklist_w2131926885.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ttJuZXt.png", [COLOR blue][B]TELE  AZUL[/B][/COLOR]
-http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JFS90i2.png", [COLOR blue][B]TELE  10[/B][/COLOR]
-http://4k.hostlagarto.com:8081/Tele10tv/Tele10tvHD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zbhkLJd.png", [COLOR blue][B]TELE  12[/B][/COLOR]
-http://cm.hostlagarto.com:8081/TELE12/tele12HD.myStream/chunks.m3u8?
+https://59f2354c05961.streamlock.net:1443/tele10/_definst_/tele10/chunklist_w1030476660.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v7D0yaa.png", [COLOR blue][B]TELECOSTA[/B][/COLOR]
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l8F0xjs.png", [COLOR blue][B]TELEMETRO[/B][/COLOR]
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a8mnzXN.png ", [COLOR blue][B]TELEMILENIO[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G20zPU2.png", [COLOR blue][B]TELENORD  8[/B][/COLOR]
@@ -173,16 +159,10 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 http://ss1.domint.net:2204/tvc_str/tvcotui/chunklist_w545217963.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ynwjaAQ.png", [COLOR blue][B]TV  PLATA[/B][/COLOR]
 http://cm.hostlagarto.com:8081/TVPLATA/tvplataHD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sgj0RIE.png", [COLOR blue][B]TVSUR  9[/B][/COLOR]
-http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w280519872.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DDeGqEe.png", [COLOR blue][B]TITANICO  TV[/B][/COLOR]
-http://4k.hostlagarto.com:8081/Titanicotv/Titanicotvhd.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KWqR0vs.png", [COLOR blue][B]XTREMO  CHANNEL[/B][/COLOR]
-http://extremo01.streamprolive.com/hls/live_high.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]Food Network[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
