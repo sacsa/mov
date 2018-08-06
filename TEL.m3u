@@ -38,7 +38,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/
 #EXTINF:-1 tvg-shift=0 tvg-name= "FOX_HD" tvg-logo="https://i.imgur.com/qZ2U4jO.png", [B]FOX[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YxejzcZ.png", [B]FOX  ACTION[/B]
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(01)/index.m3u8|User-agent=iPhone
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "FOXMOVIES_HD" tvg-logo="https://i.imgur.com/gU3RV3w.png", [B]FOX  MOVIES[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "FOX1_HD" tvg-logo="https://i.imgur.com/sJ2hMD6.png", [B]FOX  SERIES[/B]
