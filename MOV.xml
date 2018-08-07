@@ -347,6 +347,13 @@
 <thumbnail>https://i.imgur.com/KZE9aRf.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>
+		
+<item>
+<title>[B][COLOR white]MEDIA  TV[/B][/COLOR] </title>
+<link>http://178.132.6.97/A1MediaTV/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://i.imgur.com/VQgDvMA.png</thumbnail>
+<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
+</item>		
 
 <item>
 <title>[B]LOCOMOTION[/B]</title>
@@ -358,7 +365,7 @@
 <item>
 <title>[B]ACS NETWORK[/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7pra6ii.png</thumbnail> 
+<thumbnail>https://i.imgur.com/lyt2Zok.png</thumbnail> 
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
 </item>			
 
@@ -383,9 +390,9 @@
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>	
 		
-<itm>
+<item>
 <title>[COLOR lime][B]AZTECA  7[/B][/COLOR]</title>
-<link>http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8</link>
+<link>http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://i.imgur.com/ZWuFwFM.png</thumbnail>
 <fanart>http://i.imgur.com/LLLcz9X.jpg</fanart> 
 </item>
