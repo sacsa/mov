@@ -134,14 +134,14 @@ http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/blbxhpg.png", [COLOR blue][B]RCN[/B][/COLOR]
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uSC2fHX.png", [COLOR blue][B]SEÑALES[/B][/COLOR]
-http://rctvhdstream.net:5050/rctv/senalestv.stream/chunklist_w1081516549.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lQfmQ1f.png", [COLOR blue][B]SUPER  5  HD[/B][/COLOR]
 http://k4.usastreams.com/superC/superC_1/chunklist_w2131926885.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JFS90i2.png", [COLOR blue][B]TELE  10[/B][/COLOR]
 https://59f2354c05961.streamlock.net:1443/tele10/_definst_/tele10/chunklist_w1030476660.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qY13Pp2.png", [COLOR blue][B]TELEANTILLAS[/B][/COLOR]
+http://69.64.69.74:1935/hita-tv-ch02app/studio/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v7D0yaa.png", [COLOR blue][B]TELECOSTA[/B][/COLOR]
 http://arcamediastream.net:1935/8374/8374/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a8mnzXN.png ", [COLOR blue][B]TELEMILENIO[/B][/COLOR]
