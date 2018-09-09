@@ -19,6 +19,8 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TV  POP[/B]
+http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [B]LA  1[/B]
@@ -127,6 +129,8 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w250397878.m3u8
 https://wowzaprod105-i.akamaihd.net/hls/live/582264/f84f4e5e_1_2728/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0MTH18x.png", [COLOR blue][B]NEX[/B][/COLOR]
 http://198.1.117.5:1935/live/livestream/chunklist_w2007905850.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ORBIT[/B][/COLOR]
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5CAc0Y.png", [COLOR blue][B]OROMAR  TV[/B][/COLOR]
 http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hpY5Bxb.png", [COLOR blue][B]PUÑAL  TV[/B][/COLOR]
@@ -143,6 +147,8 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/tele10/_definst_/tele10/chunklist_w1030476660.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qY13Pp2.png", [COLOR blue][B]TELEANTILLAS[/B][/COLOR]
 http://69.64.69.74:1935/hita-tv-ch02app/studio/chunklist.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELE  CIBAO[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/cibaotv/_definst_/cibaotv/chunklist_w773809627.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a8mnzXN.png ", [COLOR blue][B]TELEMILENIO[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G20zPU2.png", [COLOR blue][B]TELENORD  8[/B][/COLOR]
