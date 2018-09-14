@@ -17,7 +17,7 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV 2[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TV  POP[/B]
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
@@ -25,7 +25,7 @@ http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [COLOR orange][B]BEMAD[/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [B]BEMAD[/B]
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [B]FDF[/B]
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
@@ -93,7 +93,7 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR blue][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZWuFwFM.png", [COLOR lime][B]AZTECA  SIETE[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZWuFwFM.png", [COLOR blue][B]AZTECA  SIETE[/B][/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR blue][B]AZTECA  TRECE[/B][/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
