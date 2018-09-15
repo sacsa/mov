@@ -61,6 +61,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOLDEN_PREMIER_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HBO  2[/B]
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(HBO_2_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "HBO_FAMILY_HD" tvg-logo="https://i.imgur.com/VVRkHRW.png", [B]HBO  FAMILY[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "HBO_SIGNATURE_HD" tvg-logo="https://i.imgur.com/e6BLxAe.png", [B]HBO  SIGNATURE[/B]
@@ -97,6 +99,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]EL  GOURMET[/B]
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOURMET_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", [COLOR lime][B]ANIME TV[/B][/COLOR]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
