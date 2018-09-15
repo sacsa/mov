@@ -55,6 +55,10 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(02)/index
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CLASSICS_HD" tvg-logo="https://i.imgur.com/BhAriTr.png", [B]FOX  CLASSICS[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/elbKkzr.png", [B]GOLDEN[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8|User-agent=iPhone
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN  PREMIER[/B]
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOLDEN_PREMIER_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/79sbBPh.png", [B]HBO[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "HBO_FAMILY_HD" tvg-logo="https://i.imgur.com/VVRkHRW.png", [B]HBO  FAMILY[/B]
