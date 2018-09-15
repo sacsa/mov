@@ -65,6 +65,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "MAX_PRIME_HD" tvg-logo="https://i.imgur.com/TXqQjN2.png", [B]MAX  PRIME[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT  CHANNEL[/B]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(04)/index.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-shift=0 tvg-name= "SPACE_HD" tvg-logo="https://i.imgur.com/9uI1os3.png", [B]SPACE[/B]
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "SONY_HD" tvg-logo="https://i.imgur.com/bvo1cfg.png", [B]SONY[/B]
