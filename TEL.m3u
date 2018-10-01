@@ -123,18 +123,24 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b946000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gal6kEh.png", [COLOR blue][B]EL  DOCE[/B][/COLOR]
 https://prepublish.f.qaotic.net/b09/ngrp:el12_live01-100083_all/chunklist_b946000.m3u8|User-agent=iPhone&amp
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CN3[/B][/COLOR] 
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1208497973.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dW4DMyJ.png", [COLOR blue][B]CANAL  4[/B][/COLOR] 
 http://184.154.28.210:1935/canal4/canal4/chunklist_w1207979219.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXpOaf8.png", [COLOR blue][B]TELESOL[/B][/COLOR] 
 http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
 http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]BHTV[/B][/COLOR]
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  56[/B][/COLOR]
 http://media.az-streamingserver.com:1935/7230/7230/chunklist_w2022349835.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0P9g3PQ.png", [COLOR blue][B]DAJABON[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/dajabon6/_definst_/dajabon6/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FdMJPPv.png", [COLOR blue][B]LTVi[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Ltvinternacional/Ltvinternational.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
@@ -179,8 +185,8 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8|User-agent=iPhone&amp;Referer=http://d2dn7ylrd9r3ds.cloudfront.net.cloudfront.net
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0hCqOh.png", [COLOR blue][B]TELEUNO[/B][/COLOR]
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zfCjXHN.png", [COLOR blue][B]TV  COTUÌ[/B][/COLOR]
-http://ss1.domint.net:2204/tvc_str/tvcotui/chunklist_w545217963.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ynwjaAQ.png", [COLOR blue][B]TV  PLATA[/B][/COLOR]
 http://cm.hostlagarto.com:8081/TVPLATA/tvplataHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
