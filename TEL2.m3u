@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ucBRhy.png", [B]A&E[/B]
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gfevbJn.png", [B]AMC[/B]
