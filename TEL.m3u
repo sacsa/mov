@@ -58,7 +58,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]BIG RADIO[/B][/COLOR]
 http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/B][/COLOR]
-http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b946000.m3u8
+http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b1328000.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gal6kEh.png", [COLOR blue][B]EL  DOCE[/B][/COLOR]
 https://prepublish.f.qaotic.net/b09/ngrp:el12_live01-100083_all/chunklist_b946000.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CN3[/B][/COLOR] 
@@ -69,6 +69,8 @@ http://184.154.28.210:1935/canal4/canal4/chunklist_w1207979219.m3u8
 http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iEcwnba.png", [COLOR blue][B]TRECEMAX TV[/B][/COLOR]
 http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ATV[/B][/COLOR]
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]BHTV[/B][/COLOR]
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  56[/B][/COLOR]
