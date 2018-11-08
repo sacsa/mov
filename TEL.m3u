@@ -136,7 +136,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kMudg8h.png", [COLOR gold][B]ABC[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]RAI  MOVIE][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]RAI  MOVIE[/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
 http://18913.live.streamtheworld.com/FMDOSAAC.aac
