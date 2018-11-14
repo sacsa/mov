@@ -23,20 +23,14 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [B]LA  1[/B]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA  3[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA  3 geo[/B]
 http://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA  3[/B]
+https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [B]ATRESERIES[/B]
 https://a3series-pull2a-a3player.secure.footprint.net/a3series/bitrate_4.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0Asjy1P.png", [B]NOVA[/B]
 https://nova-pull2c-a3player.secure.footprint.net/nova/bitrate_4.m3u8|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [B]FDF[/B]
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [B]BEMAD[/B]
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]COCINA  TV[/B]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISTRITO  TV[/B]
@@ -46,7 +40,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK TV[/B][/COLOR] 
-https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
+http://mediacp.live:1935/8468/8468/chunklist_w1974957312.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wAtDvPx.png", [COLOR blue][B]AZTECA  A+[/B][/COLOR]
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VJlsTjh.png", [COLOR blue][B]AZTECA  TRECE[/B][/COLOR]
@@ -81,8 +75,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0P9g3PQ.png", [COLOR blue][B]DAJABON[/B][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/dajabon6/_definst_/dajabon6/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FdMJPPv.png", [COLOR blue][B]LTVi[/B][/COLOR]
-http://cm.hostlagarto.com:8081/Ltvinternacional/Ltvinternational.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h4CoskO.png", [COLOR blue][B]MICROVISION[/B][/COLOR]
@@ -101,8 +93,6 @@ http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 http://stream.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hpY5Bxb.png", [COLOR blue][B]PUÑAL  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/blbxhpg.png", [COLOR blue][B]RCN[/B][/COLOR]
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n2UCBjk.png", [COLOR blue][B]SNT[/B][/COLOR]
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lQfmQ1f.png", [COLOR blue][B]SUPER  5  HD[/B][/COLOR]
@@ -127,8 +117,6 @@ http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ynwjaAQ.png", [COLOR blue][B]TV  PLATA[/B][/COLOR]
-http://cm.hostlagarto.com:8081/TVPLATA/tvplataHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
