@@ -23,14 +23,18 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [B]LA  1[/B]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA  3 geo[/B]
-http://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA  3[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA 3[/B]
 https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [B]ATRESERIES[/B]
-https://a3series-pull2a-a3player.secure.footprint.net/a3series/bitrate_4.m3u8|User-agent=iPhone&amp
+https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0Asjy1P.png", [B]NOVA[/B]
-https://nova-pull2c-a3player.secure.footprint.net/nova/bitrate_4.m3u8|User-agent=iPhone&amp
+https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tjTpfaN.png", [B]ANTENA  3  GEO[/B]
+http://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TNnbojw.png", [B]ATRESERIES  GEO[/B]
+https://a3series-pull2a-a3player.secure.footprint.net/geoa3series/master.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0Asjy1P.png", [B]NOVA  GEO[/B]
+https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]COCINA  TV[/B]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISTRITO  TV[/B]
