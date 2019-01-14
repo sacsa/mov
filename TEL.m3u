@@ -25,23 +25,22 @@ http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]PORTAL  TV[/B]
-http://mediacp.live:1935/8318/8318/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KZE9aRf.png", [B]LA  1[/B]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b632pIw.png", [B]TELECINCO[/B]
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]COCINA  TV[/B]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DISTRITO  TV[/B]
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]PRIDE  TV[/B]
 http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/5p36YSf.png", [COLOR lime][B]ANIME TV[/B][/COLOR]
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK TV[/B][/COLOR] 
-http://mediacp.live:1935/8468/8468/chunklist_w1974957312.m3u8
+http://inliveserver.com:1935/8468/8468/chunklist_w1193540362.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
@@ -67,6 +66,8 @@ https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
+http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
