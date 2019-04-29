@@ -90,15 +90,15 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]RAI  MOVIE[/B][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
-http://18913.live.streamtheworld.com/FMDOSAAC.aac
+http://19223.live.streamtheworld.com/FMDOS_SC
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCuukS6.png", [COLOR orangered][B]ROMANTICA[/B][/COLOR]
-http://unlimited3-cl.digitalproserver.com/romantica/aac/icecast.audio
+http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXHqekn.png", [COLOR orangered][B]PUDAHUEL[/B][/COLOR]
 http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7vMLhfU.png", [COLOR orangered][B]IMAGINA[/B][/COLOR]
 http://14073.live.streamtheworld.com/IMAGINAAAC.aac
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
-http://195.154.167.62:9314/;*.aac
+http://195.154.167.62:9314/;
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X1NMKA9.png", [COLOR orangered][B]SAN  BARTOLOME[/B][/COLOR]
 http://stream5.eltelon.com/san-bartolome.aac
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [COLOR orangered][B]BIO  BIO[/B][/COLOR]
