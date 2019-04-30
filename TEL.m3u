@@ -9,13 +9,13 @@ http://mdstrm.com/live-stream-playlist_1500/57a498c4d7b86d600e5461cb.m3u8|User-a
 https://mdstrm.com/live-stream-playlist/5988625542916c5029e26e36.m3u8  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 http://c13-live-1.cdn.nedmedia.io/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cbc1YzS.png", [B]TV +[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="",[B]UCV 3[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
 http://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MI  RADIO[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
@@ -55,7 +55,7 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://inliveserver.com:1935/8468/8468/chunklist_w1193540362.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ag53aXk.png", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
@@ -76,7 +76,7 @@ https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vBGjou.png", [COLOR blue][B]TVS[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
