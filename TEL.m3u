@@ -10,7 +10,7 @@ https://mdstrm.com/live-stream-playlist/5988625542916c5029e26e36.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 http://c13-live-1.cdn.nedmedia.io/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
-http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
 http://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
@@ -51,8 +51,6 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8|User-agent=iPhone
 http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK TV[/B][/COLOR] 
-http://inliveserver.com:1935/8468/8468/chunklist_w1193540362.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ag53aXk.png", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
