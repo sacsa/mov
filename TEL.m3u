@@ -27,6 +27,8 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 2[/B]
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
+http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
@@ -85,8 +87,7 @@ http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.
 http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]RAI  MOVIE[/B][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [COLOR gold][B]DISCOVERY  INVESTIGACION[/B][/COLOR]
-https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cr0DabAUBnb6p7gqsT8TfbCKtLK02k9Prr3-qLnkjnTk9EMmF25MjHcISGf-xiXGa5HPX5ZZDi_k8ucJNo6UMrZA8125kjDdi2iP5HE82qPsif_1_TMAXYYmpNRooS-v5ps_lNEEEVbfJPLhvHXbf_TxWom9ScFZbx0eLcErnuEIzoC1cE5whpgjvuZgf3wuOFgahSNRhJ7ITe3INF9wxW5DnwEToFZQYGqPxyKFK9kXPHQkq88QCSDTGxGhOgoXHWxRQKumLnNBL9RjevnifeK7F_vXaoDibK_LG4rJcwRh5M-3dHParqGcv0yasazLpNtxutWwdoefSPyVXyBjtL30C18mW9YfJXJdXD8JpgqE36jphKkxObk0GhDbp96eH5xzEktfLJda7CEfEbZZazYV7mQxinivAwPOZBeuk9uy5iPWjMGQbtYNi8zdqHfmDIjqqDKmoGK_bVCu2TJ6zdxcnvgXA-Fx46s0j1oa808blIFWlIeGs0PVwFFeuytW72YEr-GoAVU5nuOgBHn_WfaVEG_Ijl0GlUI9koVHxw5emKOsFNR3RdkTE_KnwyTPbRdXHe4skiRGA4Hvr-mZ8RIQwldcrPg0eeiwlA2V4ZpxgxoMdtcanagV3S-03AyL.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
 http://19223.live.streamtheworld.com/FMDOS_SC
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCuukS6.png", [COLOR orangered][B]ROMANTICA[/B][/COLOR]
