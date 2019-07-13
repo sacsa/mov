@@ -25,6 +25,8 @@ http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]Zona  Play[/B]
+https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 2[/B]
@@ -91,8 +93,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kMudg8h.png", [COLOR gold][B]ABC[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]RAI  MOVIE[/B][/COLOR]
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
 http://19223.live.streamtheworld.com/FMDOS_SC
