@@ -31,6 +31,10 @@ https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 2[/B]
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ITV[/B]
+https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ATACAMA  TV[/B]
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
@@ -67,6 +71,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hUD0xCd.png", [COLOR blue][B]CN3[/B][/COLOR] 
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1208497973.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebSrRyo.png", [COLOR blue][B]ANTENA  LATINA[/B][/COLOR]
+https://do-antena7-antena7-live-0-cdn-0.ned.media/antena7/antena7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QbNUhMN.png", [COLOR blue][B]ATV[/B][/COLOR]
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ATV  +[/B][/COLOR]
