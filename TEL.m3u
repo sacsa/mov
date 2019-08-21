@@ -37,6 +37,8 @@ http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ATACAMA  TV[/B]
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TALTAL  TV[/B]
+https://5d49dd8a03159.streamlock.net:443/8050/8050/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RETRO  PLUS[/B]
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2068523822.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
@@ -59,8 +61,7 @@ https://paramount-live.flumotion.com/live/playlist.m3u8
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-agent=iPhone&amp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7kKQdIY.png", [B]DISTRITO  TV[/B]
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8|User-agent=iPhone 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GINtZvD.png", [B]PRIDE  TV[/B]
-https://59c8647978660.streamlock.net/8158/8158/chunklist_w1536892639.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
