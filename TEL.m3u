@@ -25,7 +25,7 @@ http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]Zona  Play[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ZONA  PLAY[/B]
 https://video.mediostream.cl/zptv/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 https://593d7fe3c9b0d.streamlock.net/8102/8102/playlist.m3u8
