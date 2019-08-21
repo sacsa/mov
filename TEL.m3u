@@ -2,9 +2,9 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA[/B]
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+https://vsd14.mycdn.me/hls/619075144298.m3u8/sig/e7xInCBk3A4/expires/1566440143608/srcIp/186.34.148.158/clientType/0/srcAg/CHROME/video.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-http://mdstrm.com/live-stream-playlist_1500/57a498c4d7b86d600e5461cb.m3u8|User-agent=iPhone&amp
+https://tinyurl.com/y2krkd4f
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
 https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
@@ -37,6 +37,8 @@ http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ATACAMA  TV[/B]
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RETRO  PLUS[/B]
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2068523822.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
@@ -69,21 +71,14 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8  
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3G3asQO.png", [COLOR blue][B]EL  NUEVE[/B][/COLOR]
-https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hUD0xCd.png", [COLOR blue][B]CN3[/B][/COLOR] 
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1208497973.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebSrRyo.png", [COLOR blue][B]ANTENA  LATINA[/B][/COLOR]
-https://do-antena7-antena7-live-0-cdn-0.ned.media/antena7/antena7.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QbNUhMN.png", [COLOR blue][B]ATV[/B][/COLOR]
-https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/en5fFDs.png", [COLOR blue][B]BHTV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w1784074952.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yElSvZc.png", [COLOR blue][B]CANAL  56[/B][/COLOR]
-http://media.az-streamingserver.com:1935/7230/7230/chunklist_w2022349835.m3u8
+https://59f1cbe63db89.streamlock.net:1443/canal56/_definst_/canal56/chunklist_w1166223699.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
