@@ -2,9 +2,9 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA[/B]
-https://vsd14.mycdn.me/hls/619075144298.m3u8/sig/e7xInCBk3A4/expires/1566440143608/srcIp/186.34.148.158/clientType/0/srcAg/CHROME/video.m3u8?
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-https://tinyurl.com/y2krkd4f
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
 https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
@@ -59,8 +59,6 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7kKQdIY.png", [B]DISTRITO  TV[/B]
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8|User-agent=iPhone 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
@@ -76,10 +74,16 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1208497973.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/en5fFDs.png", [COLOR blue][B]BHTV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w1784074952.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  2[/B][/COLOR]
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  13[/B][/COLOR]
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yElSvZc.png", [COLOR blue][B]CANAL  56[/B][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/canal56/_definst_/canal56/chunklist_w1166223699.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DIFUSO[/B][/COLOR]
+http://138.117.4.70:8079/streams/d/Difuso/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
@@ -88,6 +92,8 @@ http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1267394592.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TN8[/B][/COLOR]
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vBGjou.png", [COLOR blue][B]TVS[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
@@ -99,6 +105,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kMudg8h.png", [COLOR gold][B]ABC[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]HBO  2[/B][/COLOR]
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8 
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
