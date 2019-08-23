@@ -5,3 +5,13 @@
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/media_w2068523822_24089.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CENTRAL TV[/B] 
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/media_w198898769_2263.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 1
+http://jokeriptv.online:1453/get.php?username=beoutred&password=F4wOlkHFSs&type=m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 2 
+http://portal.geniptv.com:8080/get.php?username=gC7KAk0IDn&password=lCoqZk3qDc&type=m3u_plus&output=ts
+ #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 3
+http://jellyiptv.streamtv.to:8080/get.php?username=VEPunje5ID&password=UKnIMtkEZf&type=m3u_plus&output=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 4 
+http://m3ulink.com:6969/get.php?username=aaguiargarcia1&password=0lx2RaJ1&type=m3u_plus&output=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", 5
+http://cdn.miip.tv:80/get.php?username=Damian&password=123456&type=m3u_plus&output=mpegts
