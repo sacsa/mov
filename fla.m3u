@@ -1,26 +1,8 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
-http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
-http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]PORTAL  TV[/B]
-http://mediacp.live:1935/8318/8318/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [B]CENTRAL  TV[/B]
-https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CN3[/B][/COLOR] 
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1208497973.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [B]ORBIT[/B]
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [B]WOW TV[/B]
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR blue][B]ACS NETWORK TV[/B][/COLOR] 
-http://mediacp.live:1935/8468/8468/chunklist_w1974957312.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR blue][B]TELERED[/B][/COLOR]
-http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]WIN[/B] 
+http://cdn2.envivo.win/HLS/pkt/peliculas246.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RETRO TV[/B] 
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/media_w2068523822_24089.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CENTRAL TV[/B] 
+https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/media_w198898769_2263.ts
