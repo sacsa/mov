@@ -43,6 +43,10 @@ https://5d49dd8a03159.streamlock.net:443/8050/8050/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2068523822.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
+http://23.139.96.12:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone 
+#EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
+http://23.139.96.12:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
