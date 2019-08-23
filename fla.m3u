@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]WIN[/B] 
-http://cdn2.envivo.win/HLS/pkt/peliculas246.ts
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RETRO TV[/B] 
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/media_w2068523822_24089.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CENTRAL TV[/B] 
