@@ -107,6 +107,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]FOOD NETWORK[/B][/COLOR]
 https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?__fvd__
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]7 Food Network[/B][/COLOR]
+http://203.208.100.17:9981/stream/channelid/358181410
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SBS FOOD[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kMudg8h.png", [COLOR gold][B]ABC[/B][/COLOR]
