@@ -117,8 +117,18 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.
 http://23.237.22.82:8086/udp/127.0.0.1:56069
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/se/History2.se.png", [COLOR gold][B]H2[/B][/COLOR]
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]NAT  GEO  PEOPLE[/B][/COLOR]
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]HBO  2[/B][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/CBSAction.uk.png", [COLOR gold][B]CBS  ACTION[/B][/COLOR]
+https://149.5.96.135:443/live/cbsaction_hi/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/CBSDrama.uk.png", [COLOR gold][B]CBS  DRAMA[/B][/COLOR]
+https://149.5.96.135:443/live/cbsdrama_hi/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png", [COLOR gold][B]ITV 3[/B][/COLOR]
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png",[COLOR gold][B]5 USA[/B][/COLOR]
+https://live2.hoolatv.com/live/5usa_hi/chunks.m3u8?__fvd__
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
