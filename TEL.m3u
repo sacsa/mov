@@ -25,18 +25,18 @@ http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ZONA  PLAY[/B]
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ATACAMA  TV[/B]
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 2[/B]
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ESTACIÓN TV[/B]
 http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ITV[/B]
 https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ATACAMA  TV[/B]
-https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TALTAL TV[/B]
+https://5c78737f1e572.streamlock.net/8020/8020/chunklist_w950129639.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
@@ -64,6 +64,8 @@ https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-a
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL ANIMACÓN[/B][/COLOR]
+https://5c78737f1e572.streamlock.net/8066/8066/chunklist_w773208676.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ag53aXk.png", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
@@ -82,10 +84,6 @@ http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/canal56/_definst_/canal56/chunklist_w1166223699.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cf3vq6U.png", [COLOR blue][B]LUNA  TV[/B][/COLOR]
-http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
