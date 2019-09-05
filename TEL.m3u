@@ -2,19 +2,19 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA[/B]
-http://181.43.124.122:9981/stream/channelid/1344454007?ticket=4751CC0D0592FCB18090A48C555843AD9A2A0C8D&profile=pass
+http://181.43.124.122:9981/stream/channelid/1344454007
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-http://181.43.124.122:9981/stream/channelid/1756028441?ticket=4A28A2AEEC899EA551E09311A7F90DBEB350DED0&profile=pass
+http://181.43.124.122:9981/stream/channelid/1756028441
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
 https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
-http://181.43.124.122:9981/stream/channelid/1795207455?ticket=D653B822E74EA25913E1E5F61E0AD6DCC19E4BDC&profile=pass
+http://181.43.124.122:9981/stream/channelid/1795207455
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
 http://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
-http://181.43.124.122:9981/stream/channelid/53229361?ticket=46BC752250E49E93BFB243870B9D1EC9EB0177B6&profile=pass
+http://181.43.124.122:9981/stream/channelid/53229361
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/rewind-999999.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
