@@ -40,9 +40,9 @@ https://5c78737f1e572.streamlock.net/8020/8020/chunklist_w950129639.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
-http://23.139.96.12:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone 
+http://38.18.238.99:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone 
 #EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
-http://23.139.96.12:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone 
+http://38.18.238.99:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 http://38.18.238.99:2095/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=iPhone  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
