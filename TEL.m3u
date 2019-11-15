@@ -10,7 +10,7 @@ https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 https://cl-canal13-canal13-app-qfb4kpcp-live.ned.media/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
-
+https://cl-lared-lared-live.ned.media/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
@@ -136,4 +136,6 @@ http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
 
 
+            
+                       
 
