@@ -24,7 +24,7 @@ http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV [/B]
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ATACAMA  TV[/B]
@@ -34,7 +34,7 @@ http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playl
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ITV[/B]
 https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TALTAL TV[/B]
-https://5cbe03422c876.streamlock.net:443/8194/8194/playlist.m3u8
+http://186.103.180.150:8000/live/taltaltv.flv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]VALLE  TV[/B]
@@ -65,7 +65,7 @@ https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8|User-a
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  ANIMACIÓN[/B][/COLOR]
-https://5cbe03422c876.streamlock.net:443/8196/8196/playlist.m3u8
+http://186.103.180.150:8000/live/animacion.flv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ag53aXk.png", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
