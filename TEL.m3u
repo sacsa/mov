@@ -43,6 +43,10 @@ http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 https://video.mediostream.cl/vallemedia/live1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]COSTA TV[/B] 
+https://590c5dc5c3271.streamlock.net/robertocarlos316/robertocarlos316/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL  7[/B] 
+https://livefocamundo.com:8081/8178/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
  
 #EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
