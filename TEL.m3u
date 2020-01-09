@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]...[/B]
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA[/B]
 
@@ -39,6 +41,8 @@ http://186.103.180.150:8000/live/taltaltv.flv
 http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]VALLE  TV[/B]
 https://video.mediostream.cl/vallemedia/live1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
+https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
  
 #EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://i.imgur.com/jVgWtds.png", [B]H2[/B]
@@ -90,9 +94,9 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]FOOD NETWORK[/B][/COLOR]
-http://95.86.32.7:999/food
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]7 FOOD NETWORK[/B][/COLOR]
-
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]ASIAN FOOD NETWORK[/B][/COLOR]
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SBS FOOD[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TASTEMADE[/B][/COLOR]
