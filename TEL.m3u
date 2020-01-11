@@ -82,7 +82,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hUD0xCd.png", [COLOR blue][B]CN3[/B][/COLOR] 
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
-https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
+https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w267862643.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGUiDdp.png", [COLOR blue][B]TICAVISION[/B][/COLOR]
