@@ -72,7 +72,7 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  ANIMACIÓN[/B][/COLOR]
 http://186.103.180.150:8000/live/animacion.flv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
-http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w2130734058.m3u8
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ag53aXk.png", [COLOR lime][B]CACHIPUM![/B][/COLOR] 
 
 
