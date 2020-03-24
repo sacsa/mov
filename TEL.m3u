@@ -30,6 +30,8 @@ https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
+https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL  7[/B] 
