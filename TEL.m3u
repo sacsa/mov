@@ -61,7 +61,7 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 
