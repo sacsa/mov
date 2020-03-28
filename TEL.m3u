@@ -72,12 +72,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hUD0xCd.png", [COLOR blue][B]CN3[/B][/COLOR] 
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  12[/B][/COLOR]
-https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/chunklist_w1555534319.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  18[/B][/COLOR]
-https://cdn.hostlagarto.com:4445/Vegavision18/vegavisoncanal18.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL  34[/B][/COLOR]
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CASCARA  TV[/B][/COLOR]
 https://cdn.hostlagarto.com:4445/cascaratv/cascaratv.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
