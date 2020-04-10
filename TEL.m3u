@@ -74,7 +74,7 @@ https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w267862643.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0VJa61G.png",[COLOR blue][B]CONECTADOS  TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0VJa61G.png",[COLOR blue][B]CONECTA2[/B][/COLOR]
 https://inliveserver.com:1936/11502/11502/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DAN  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
