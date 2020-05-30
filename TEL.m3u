@@ -40,8 +40,8 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]24/7  TV[/B]
+https://5d79ae45bc63b.streamlock.net:443/8114/8114/playlist.m3u8
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
