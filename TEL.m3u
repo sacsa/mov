@@ -21,7 +21,7 @@ https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
@@ -30,8 +30,6 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 2[/B]
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ITV[/B]
-https://unlimited10-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ESTACION  TV[/B]
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
@@ -41,7 +39,7 @@ https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]TV  TALTAL[/B]
 https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w236034646.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA PLUS[/B]
 
  
@@ -94,8 +92,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GDM  TV[/B][/COLOR]
 https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MULTIMEDIOS[/B][/COLOR]
-https://panel.dattalive.com/8250/8250/chunklist_w301462799.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png", [COLOR blue][B]READY TV[/B][/COLOR]
