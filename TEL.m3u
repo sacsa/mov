@@ -32,8 +32,13 @@ https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ESTACION  TV[/B]
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-uGNn_Jm4_kw/XbsVFATDWFI/AAAAAAAAr3A/-VX-h7Nfe9ISKQgsZ0-5w_klCDvfH1sgACK8BGAsYHg/s0/2019-10-31.png", [B]QUINTA  TV[/B]
+https://livefocamundo.com:8081/8164/index.m3u8?
+https://livefocamundo.com:8081/8164/index.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV2[/B]
+https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]REC[/B] 
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]TV  TALTAL[/B]
@@ -68,12 +73,12 @@ https://paramount-live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]ANIME  LOVING[/B]
+http://animeloving.net/hls/stream.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]CANAL  74[/B]
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  ANIMACION[/B][/COLOR]
 https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TV  RETRO[/B][/COLOR]
