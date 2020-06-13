@@ -21,7 +21,7 @@ https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
-
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
@@ -50,7 +50,7 @@ http://media.profesionalhosting.com:1935/8175/8175/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
 http://media.profesionalhosting.com:1935/8201/8201/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]24/7  TV[/B]
-https://5d79ae45bc63b.streamlock.net:443/8114/8114/playlist.m3u8
+
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
 
