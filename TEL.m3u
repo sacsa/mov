@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA[/B]
-http://live.entel.cl/2326/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL|User-agent=iPhone&amp
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-http://live.entel.cl/2283/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL|User-agent=iPhone&amp
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN 2[/B]
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
 https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 https://cl-canal13-13now-live.ned.media/live.m3u8?Playlist
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
-http://live.entel.cl/2335/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL|User-agent=iPhone&amp
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8|User-agent=iPhone
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
@@ -40,25 +40,29 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [B]MEDIA  TV[/B]
+http://media.profesionalhosting.com:1935/8175/8175/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
+http://media.profesionalhosting.com:1935/8201/8201/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]24/7  TV[/B]
 https://5d79ae45bc63b.streamlock.net:443/8114/8114/playlist.m3u8
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+http://linear01-i.akamaihd.net/hls/live/837812/divinity/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [B]FDF[/B]
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8 
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b632pIw.png", [B]TELECINCO[/B]
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [B]BEMAD[/B]
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT[/B]
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7kKQdIY.png", [B]DISTRITO  TV[/B]
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
 
 
@@ -109,8 +113,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]FOOD NETWORK[/B][/COLOR]
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ER5gs4b.png", [COLOR gold][B]ASIAN FOOD NETWORK[/B][/COLOR]
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]GUSTO[/B][/COLOR]
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SBS FOOD[/B][/COLOR]
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TASTEMADE[/B][/COLOR]
