@@ -79,7 +79,7 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  ANIMACION[/B][/COLOR]
-https://usb.bozztv.com/ssh101/Taltal/Taltal/playlist.m3u8?
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TV  RETRO[/B][/COLOR]
 
 
@@ -107,7 +107,7 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hq6bFWY.png", [COLOR blue][B]TELE  CIBAO[/B][/COLOR]
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vBGjou.png", [COLOR blue][B]TVS[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
