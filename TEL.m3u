@@ -38,6 +38,8 @@ https://livefocamundo.com:8081/8164/index.m3u8?
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 2[/B]
 https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]T2[/B]
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]REC[/B] 
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
