@@ -132,9 +132,9 @@ http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png", [COLOR gold][B]HGTV[/B][/COLOR]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/se/History2.se.png", [COLOR gold][B]H2[/B][/COLOR]
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]NAT  GEO  PEOPLE[/B][/COLOR]
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
 
 
 
