@@ -132,9 +132,9 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png", [COLOR gold][B]HGTV[/B][/COLOR]
 https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/se/History2.se.png", [COLOR gold][B]H2[/B][/COLOR]
-
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]NAT  GEO  PEOPLE[/B][/COLOR]
-
+https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 
 
