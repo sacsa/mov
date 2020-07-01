@@ -44,8 +44,8 @@ https://inliveserver.com:1936/11516/11516/playlist.m3u8
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]TV  TALTAL[/B]
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
+https://5e9199339b303.streamlock.net:8100/bajocero/bajocero/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [B]MEDIA  TV[/B]
@@ -130,11 +130,11 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kMudg8h.png", [COLOR gold][B]ABC[/B][/COLOR]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png", [COLOR gold][B]HGTV[/B][/COLOR]
-https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/se/History2.se.png", [COLOR gold][B]H2[/B][/COLOR]
-https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]NAT  GEO  PEOPLE[/B][/COLOR]
-https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8?sd=10&rebase=on
+
 
 
 
