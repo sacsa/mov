@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="",[B]PELIS SR REGIO[/B]
-https://srregio.net/j20/regioflix.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 2[/B]
