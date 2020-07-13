@@ -104,6 +104,8 @@ https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GALAXIATEVE[/B][/COLOR]
+http://siglo21.dnsalias.com:8080/mylive/galaxiatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GDM  TV[/B][/COLOR]
 https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MEGA  VISION[/B][/COLOR]
@@ -116,6 +118,10 @@ https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMICRO[/B][/COLOR]
+https://playback.akamaized.net/streams/28126860_8825282_lsiqo5j7snue3vqc6eh_1/media/28126860_8825282_lsiqo5j7snue3vqc6eh_1@3628000p.m3u8?dw=14400&ts=1594587600&hdnts=exp=1594760876~acl=/streams/28126860_8825282_lsiqo5j7snue3vqc6eh_1/media*~hmac=0dafaa08cced2230f42b9f6cdbc3931b6452d924d9b99e839eee84577154c54b
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVO[/B][/COLOR]
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  VISION[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vBGjou.png", [COLOR blue][B]TVS[/B][/COLOR]
