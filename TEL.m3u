@@ -32,8 +32,6 @@ https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ESTACION  TV[/B]
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-uGNn_Jm4_kw/XbsVFATDWFI/AAAAAAAAr3A/-VX-h7Nfe9ISKQgsZ0-5w_klCDvfH1sgACK8BGAsYHg/s0/2019-10-31.png", [B]QUINTA  TV[/B]
-https://livefocamundo.com:8081/8164/index.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 2[/B]
@@ -50,10 +48,6 @@ https://5e9199339b303.streamlock.net:8100/bajocero/bajocero/playlist.m3u8?
 https://usb.bozztv.com/radiocuarentena/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VQgDvMA.png", [B]MEDIA  TV[/B]
-http://media.profesionalhosting.com:1935/8175/8175/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
-http://media.profesionalhosting.com:1935/8201/8201/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]24/7  TV[/B]
 
  
