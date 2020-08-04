@@ -43,7 +43,7 @@ https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
 https://5e9199339b303.streamlock.net:8100/bajocero/bajocero/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]RC  LIVE  TV[/B]
-https://usb.bozztv.com/radiocuarentena/index.m3u8
+https://tna5.bozztv.com/radiocuarentena/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
@@ -88,8 +88,6 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]AKITV[/B][/COLOR]
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hUD0xCd.png", [COLOR blue][B]CN3[/B][/COLOR] 
-http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w267862643.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0VJa61G.png",[COLOR blue][B]CONECTA2[/B][/COLOR]
@@ -112,13 +110,11 @@ https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMICRO[/B][/COLOR]
-https://playback.akamaized.net/streams/28126860_8825282_lsiqo5j7snue3vqc6eh_1/media/28126860_8825282_lsiqo5j7snue3vqc6eh_1@3628000p.m3u8?dw=14400&ts=1594587600&hdnts=exp=1594760876~acl=/streams/28126860_8825282_lsiqo5j7snue3vqc6eh_1/media*~hmac=0dafaa08cced2230f42b9f6cdbc3931b6452d924d9b99e839eee84577154c54b
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVO[/B][/COLOR]
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  VISION[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vBGjou.png", [COLOR blue][B]TVS[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELE CARIBE[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]VALLE  VISION[/B][/COLOR]
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w952916053.m3u8
