@@ -21,27 +21,25 @@ https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+http://server1.oklanet.cl:1935/maximamovie2/maximamovie2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png", [B]ATACAMA  TV[/B]
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ESTACION  TV[/B]
-http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 2[/B]
 https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]T2[/B]
-https://inliveserver.com:1936/11516/11516/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]REC[/B] 
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
-https://5e9199339b303.streamlock.net:8100/bajocero/bajocero/playlist.m3u8?
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]RC  LIVE  TV[/B]
 https://tna5.bozztv.com/radiocuarentena/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
@@ -78,6 +76,8 @@ http://animeloving.net/hls/stream.m3u8?
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
+https://cdn4.hostlagarto.com:8081/Chinolatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  ANIMACION[/B][/COLOR]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TV  RETRO[/B][/COLOR]
@@ -90,10 +90,8 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w267862643.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CHINOLA  TV[/B][/COLOR]
-https://cdn4.hostlagarto.com:8081/Chinolatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0VJa61G.png",[COLOR blue][B]CONECTA2[/B][/COLOR]
-https://edge1o.live.opencaster.com/caster/anoeBykiCgkC.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DAN  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
@@ -112,8 +110,6 @@ https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVO[/B][/COLOR]
-https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  VISION[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELE CARIBE[/B][/COLOR]
