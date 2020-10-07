@@ -4,8 +4,6 @@
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
@@ -35,7 +33,8 @@ https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]REC[/B] 
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CROM  TV[/B]
+https://cdn4.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]RC  LIVE  TV[/B]
@@ -69,7 +68,7 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B][B]ANIME  LOVING[/B][/COLOR]
-http://animeloving.net/hls/stream.m3u8?
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK[/B][/COLOR]
@@ -78,8 +77,6 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/Chinolatv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CROM  TV[/B][/COLOR]
-https://cdn4.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TV  RETRO[/B][/COLOR]
 
 
@@ -110,6 +107,8 @@ https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELECARIBE[/B][/COLOR]
+https://cm.hostlagarto.com:4445/Tvstv/TvstvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  VISION[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]VALLE  VISION[/B][/COLOR]
