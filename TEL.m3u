@@ -11,7 +11,9 @@ https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/X02NeYZ.png", [B]LA  RED[/B]
 http://cl-lared-lared-app-oiuh8d-origin-0.ned.media/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8|User-agent=iPhone
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +  DIFERIDO[/B]
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream3/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
@@ -25,19 +27,19 @@ http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png", [B]ATACAMA  TV[/B]
-https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 2[/B]
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", [B][B]AC  VISION[/B]
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]REC[/B] 
 https://master.tucableip.com/reconline/live/video.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CROM  TV[/B]
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  CLUB[/B]
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]RC  LIVE  TV[/B]
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
@@ -112,8 +114,6 @@ http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
 https://cm.hostlagarto.com:4445/Tvstv/TvstvHD.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV  VISION[/B][/COLOR]
-https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]VALLE  VISION[/B][/COLOR]
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w952916053.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
