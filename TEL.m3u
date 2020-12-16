@@ -75,7 +75,7 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B][B]RETRO  PLUS  2[/B][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1787000347.m3u8
+https://panel.streamingtv-mediacp.online:1936/876769/876769/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TV  RETRO[/B][/COLOR]
