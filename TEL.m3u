@@ -21,7 +21,7 @@ https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
 http://unlimited2-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
@@ -42,6 +42,8 @@ https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]OSORNO  TV[/B]
+https://hd.chileservidores.cl:1936/osornoemergenciastv/osornoemergenciastv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]24/7  TV[/B]
@@ -125,6 +127,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]GUSTO[/B][/COLOR]
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Do500ll.png", [COLOR gold][B]GUSTO  TV[/B][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumogusto/CDN/512x288_875600/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SBS FOOD[/B][/COLOR]
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TASTEMADE[/B][/COLOR]
