@@ -102,6 +102,10 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 http://siglo21.dnsalias.com:8080/mylive/galaxiatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GDM  TV[/B][/COLOR]
 https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GEOVISION[/B][/COLOR]
+https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]IU  TV[/B][/COLOR]
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MEGA  VISION[/B][/COLOR]
 http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w139436431.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
