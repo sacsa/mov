@@ -2,18 +2,7 @@
 
      
         <items>                
-			
-	
-	<item>
-    	<title>ID</title>
-    	<link>$doregex[url]|User-Agent=iPad</link>
-    	<thumbnail>https://i.imgur.com/ebMuFXP.png</thumbnail>
-    	<regex>
-      	<name>url</name>
-      	<expres>source:\s*['"]([^'"]+)</expres>
-      	<page>http://iptvhd.club/mitv/vip/cablehd.php?id=1512_#</page>
-    	</regex>
-  	</item> 	
+				
 	
 		
 	<item>
