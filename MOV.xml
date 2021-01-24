@@ -3,7 +3,16 @@
      
         <items>                
 				
-	
+	<item>
+<title>[COLOR skyblue] universal  prueba[/COLOR] </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>source:\s*['"]([^'"]+)</expres>
+<page>http://iptvhd.club/mitv/vip/cablehd.php?id=1720_#</page>
+<referer>http://televall.online/</referer>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
 	
 		
 	<item>
