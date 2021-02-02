@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/txTIVp8.png", [B]MEGA[/B]
-
+http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
