@@ -73,7 +73,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gKRY21D.png", [COLOR lime][B]TELERED[/B][/COLOR]
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lyt2Zok.png", [COLOR lime][B]ACS NETWORK[/B][/COLOR]
-https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B][B]RETRO  PLUS  2[/B][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
@@ -96,20 +96,28 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GLOBAL  TV[/B][/COLOR]
+https://ss6.domint.net:3016/gtv_str/globalhd/chunklist_w961868780.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GUACARA[/B][/COLOR]
 https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]IU  TV[/B][/COLOR]
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/proxy/kTT7DpGjDAnXu8ocvAi90dRlHFynJlatvQc_WkDjEIv6XweCDh_ndTN7Pu2S_Y6PB_ivaptaBOdq6njr8Sv-VG0mVIuiWktLG2hl1voDwBPQg6eT3UqxfMQoPAtXhqo", [COLOR blue][B]MEGA  TV[/B][/COLOR]
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MEGA  VISION[/B][/COLOR]
 http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w139436431.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]PHTV [/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]PHTV [/B][/COLOR]
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/201612/Ready-Logo-2016-oi2.png", [COLOR blue][B]READY TV[/B][/COLOR]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]SAJOMA  TV[/B][/COLOR]
+https://vdo2.streamgato.us:3438/live/sajomatvlive.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TENARENSES  TV[/B][/COLOR]
+https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TSD  12[/B][/COLOR]
 https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
