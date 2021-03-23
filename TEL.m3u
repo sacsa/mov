@@ -116,7 +116,7 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]SAJOMA  TV[/B][/COLOR]
 https://vdo2.streamgato.us:3438/live/sajomatvlive.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TENARENSES  TV[/B][/COLOR]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.tenarenses.com/wp-content/uploads/2017/10/12345.png", [COLOR blue][B]TENARENSES  TV[/B][/COLOR]
 https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TSD  12[/B][/COLOR]
 https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/chunks.m3u8?
