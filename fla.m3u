@@ -2,36 +2,14 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 2[/B]
-https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RC  LIVE  TV[/B]
-https://usb.bozztv.com/radiocuarentena/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]DAN  TV[/B]
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [B]ESTV[/B]
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]GDM  TV[/B]
-https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA  VISION[/B]
-http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w139436431.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [B]ORBIT[/B]
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]PUNTA  CANA  TV[/B]
-https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png", [B]READY TV[/B]
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [B]RVD[/B]
-http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TV  VISION[/B]
-https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vBGjou.png", [B]TVS[/B]
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]VALLE  VISION[/B]
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w952916053.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]WMS  HD[/B]
-http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [B]WOW TV[/B]
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV 3[/B]
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", [B][B]AC  VISION[/B]
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  CLUB[/B]
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
