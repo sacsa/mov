@@ -27,21 +27,4 @@
 	<fanart>http://i.imgur.com/LLLcz9X.jpg</fanart>
         </item>
 		
-	<item>
-    	<title>HISTORY</title>
-    	<link>$doregex[url]|User-Agent=iPad</link>
-    	<thumbnail>https://i.imgur.com/9MmBdBk.png</thumbnail>
-    	<regex>
-      	<name>url</name>
-      	<expres>source:\s*['"]([^'"]+)</expres>
-      	<page>http://mitv.televall.online/mitv/vip/cablehd.php?id=645_#</page>
-    	</regex>
-  	</item>
-		
-		
 	
-		
-		
-
-
-		
