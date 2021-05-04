@@ -48,9 +48,9 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1587179077.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]LIM  TV[/B]
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]ZP[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w788712011.m3u8? 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]TV  POP[/B]
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL[/B]
 http://iptvhd.club:8081/televall2021/529_.m3u8?token=r5FblvoMiSBYfs17UKu9Tg&expires=1620156699
@@ -85,10 +85,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ETC[/B][/COLOR]
-https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/etctv/livestream2/chunks.m3u8?nimblesessionid=29250438&
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ANIME  ZONE  TV[/B][/COLOR]
 http://azxtv.com/hls/stream.m3u8?
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ETC[/B][/COLOR
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
