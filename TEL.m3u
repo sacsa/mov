@@ -62,7 +62,8 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3
 https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]BUTACA  TV[/B]
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
- 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aZb96Gc.png", [B]LIFE  TV[/B]
+http://media.profesionalhosting.com:1935/8201/8201/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
@@ -92,8 +93,8 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1776937086.m3u8
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ETC[/B][/COLOR]
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220658
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ANIME  ZONE  TV[/B][/COLOR]
 http://azxtv.com/hls/stream.m3u8?
 
