@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", [B][B]AC  VISION[/B]
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]REC[/B] 
+https://master.tucableip.com/reconline/live/video.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  CLUB[/B]
+https://stmv.panel.grupolimalive.com/cinperu/cinperu/chunklist_w2109435928.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
+https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w2077899610.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]LATINOS  UP![/B]
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1587179077.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]LIM  TV[/B]
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w788712011.m3u8? 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN TV[/B]
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN COMEDIA[/B]
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN DRAMA[/B]
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]VERDI TV CINE[/B]
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]FEEL GOOD[/B]
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME[/B]
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]BUTACA  TV[/B]
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]LIFE  TV[/B]
+http://109.232.71.249/fibwiLIVE_movil/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
