@@ -157,23 +157,21 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FOOD TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]FOOD TV[/B]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Do500ll.png", [COLOR gold][B]GUSTO  TV[/B][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumogusto/CDN/512x288_875600/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FOOD TV[/B]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]Tastemade[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]Tastemade[/B][/COLOR]
 https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]Tastemade[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]Tastemade[/B][/COLOR]
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]Tastemade (Brazil)[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]Tastemade (Brazil)[/B][/COLOR]
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]Tastemade (India)[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]Tastemade (India)[/B][/COLOR]
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TasteMade (Mexico)[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TasteMade (Mexico)[/B][/COLOR]
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 
