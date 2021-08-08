@@ -49,6 +49,15 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w788712011.m3u8? 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TU CINE[/B]
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]CINE REAL[/B]
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]HORRORFY[/B]
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TOP CINE[/B]
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN TV[/B]
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN COMEDIA[/B]
