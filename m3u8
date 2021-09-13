@@ -125,6 +125,8 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220658
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", [COLOR lime][B]ANIME  ZONE  TV[/B][/COLOR]
 http://azxtv.com/hls/stream.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXDY15q.png", [COLOR lime][B]Kanade TV[/B][/COLOR]
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347377023
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
