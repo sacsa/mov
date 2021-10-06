@@ -36,8 +36,6 @@ https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  CLUB[/B]
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/chunklist_w2109435928.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]EVASTREAM[/B]
-https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w2077899610.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B][B]LATINOS  UP![/B]
