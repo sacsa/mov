@@ -128,6 +128,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]AKITV[/B][/COLOR]
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ALEGRE TV[/B][/COLOR]
+https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5c3fb01839654.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w2130260259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0VJa61G.png",[COLOR blue][B]CONECTA2[/B][/COLOR]
@@ -142,10 +144,14 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 https://ss6.domint.net:3016/gtv_str/globalhd/chunklist_w961868780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]IU  TV[/B][/COLOR]
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MEGA TV[/B][/COLOR]
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]PHTV [/B][/COLOR]
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]PREGO TV[/B][/COLOR]
+https://cdn1.streamgato.us:1936/pregotv/pregotv/chunklist_w124950027.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/201612/Ready-Logo-2016-oi2.png", [COLOR blue][B]READY TV[/B][/COLOR]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
