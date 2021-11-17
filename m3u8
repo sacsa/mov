@@ -2,11 +2,11 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", [B]MEGA[/B]
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341232461
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/391809484
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/puJ88Pk.png", [B]LA  RED[/B]
@@ -18,21 +18,19 @@ https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
-https://v2.tustreaming.cl/miradiotv/tracks-v1a1/dvr-2021/10/18/22/59/54-06006.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
-https://unlimited1-cl-movistar.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8?
+http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png", [B]ATACAMA  TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", [B][B]AC  VISION[/B]
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  CLUB[/B]
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/chunklist_w2109435928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
@@ -51,24 +49,13 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TOP CINE[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN TV[/B]
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN COMEDIA[/B]
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN DRAMA[/B]
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]VERDI TV CINE[/B]
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FEEL GOOD[/B]
-https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O513Q3w.png", [B]RUN TIME[/B]
 https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]BUTACA  TV[/B]
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png", [B]Pluto TV Cine Clásico[/B]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png", [B]BBC Drama[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
