@@ -33,6 +33,9 @@ http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mty0mgJ.jpg", [B]Moovimex[/B]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
@@ -52,13 +55,15 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3692.m3u8
+http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/104137.m3u8
+http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
+http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3691.m3u8
+http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/37753.m3u8
+http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
 
 
 
@@ -143,9 +148,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ALEGRE TV[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg", [COLOR blue][B]AME47[/B][/COLOR]
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 https://5c3fb01839654.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w2130260259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0VJa61G.png",[COLOR blue][B]CONECTA2[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png", [COLOR blue][B]CINEMA PLUS[/B][/COLOR]
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DAN  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
@@ -157,6 +165,8 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 https://ss6.domint.net:3016/gtv_str/globalhd/chunklist_w961868780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]IU  TV[/B][/COLOR]
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320", [COLOR blue][B]KBO[/B][/COLOR]
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MEGA TV[/B][/COLOR]
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
@@ -227,28 +237,13 @@ http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/cHYkvkxg/egmchannel.png" group-title="CHILE", EGM CHANNEL
 https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE", CINEMA PLUS
-https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
- #EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
-http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
-http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
-http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
-http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
-http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="CINE", Moovimex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg" group-title="CINE", AME47
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="CINE", KBO
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320" group-title="CINE", Cable Netword TV
-https://tv.siete.us/cntv/index.m3u8
-#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX ASIA
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+
+
+
+
+
+
+
