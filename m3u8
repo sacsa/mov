@@ -224,20 +224,29 @@ https://unlimited1-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [COLOR orangered][B]COOPERATIVA[/B][/COLOR]
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", CINE LIFE
-https://magselect-stirr.amagi.tv/playlist720p.m3u8
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="CINE Y SERIES", THE WALKING DEAD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="CINE Y SERIES", CSI EN ESPAÑOL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
-#EXTINF:-801 tvg-logo="https://i.postimg.cc/FsQdJYCv/flixtube.png" group-title="CINE Y SERIES", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
-#EXTINF:-78 tvg-logo="https://i.postimg.cc/HnFrSxdw/wmshd.png" group-title="CINE Y SERIES",, WMS HD
-http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/vm80zdmQ/thrillers.png" group-title="NOVELAS Y TALKSHOWS", NOVELAS THRILLER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/cHYkvkxg/egmchannel.png" group-title="CHILE", EGM CHANNEL
+https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE", CINEMA PLUS
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
+http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
+http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
 
-            
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
+http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
+http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="CINE", Moovimex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg" group-title="CINE", AME47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="CINE", KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320" group-title="CINE", Cable Netword TV
+https://tv.siete.us/cntv/index.m3u8
