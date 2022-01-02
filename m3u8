@@ -15,7 +15,7 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +  DIFERIDO[/B]
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV 3[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV[/B]
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 
@@ -31,14 +31,10 @@ http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  CLUB[/B]
-https://stmv.panel.grupolimalive.com/cinperu/cinperu/chunklist_w2109435928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]LIM  TV[/B]
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w788712011.m3u8? 
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TU CINE[/B]
@@ -53,8 +49,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/660106027677966336/a8kwEIdi_400x400.jpg", [B]EBO TV[/B]
-http://stmv1.questreaming.com/ebotv/ebotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
@@ -140,8 +134,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", [COLOR lime][B]Pluto TV Anime[/B][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png", [COLOR lime][B]Pluto TV Anime Héroes[/B][/COLOR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -171,16 +163,10 @@ https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]PHTV [/B][/COLOR]
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]PREGO TV[/B][/COLOR]
-https://cdn1.streamgato.us:1936/pregotv/pregotv/chunklist_w124950027.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/201612/Ready-Logo-2016-oi2.png", [COLOR blue][B]READY TV[/B][/COLOR]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tenarenses.com/wp-content/uploads/2017/10/12345.png", [COLOR blue][B]TENARENSES  TV[/B][/COLOR]
-https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TSD  12[/B][/COLOR]
-https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
 https://cm.hostlagarto.com:4445/Tvstv/TvstvHD.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
