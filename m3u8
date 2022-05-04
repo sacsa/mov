@@ -229,7 +229,8 @@ http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [COLOR orangered][B]COOPERATIVA[/B][/COLOR]
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA[/B][/COLOR]
+http://streaming.comunicacioneschile.net:9924/stream?type=http&nocache=4
 
 
 
