@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", [B]MEGA[/B]
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
@@ -13,8 +13,7 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +  DIFERIDO[/B]
-https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV[/B]
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
@@ -27,29 +26,17 @@ https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunk
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://diarioelficticio.files.wordpress.com/2012/07/logo-atv.png", [B]ATACAMA  TV[/B
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FRECUENCIA TV[/B]
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", [B]TVMAS CHILE[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]VIWIX  TV[/B]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mty0mgJ.jpg", [B]Moovimex[/B]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", [B]ZP[/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pY2IQU1.png", [B]TV  POP[/B]
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
-http://154.62.74.28:1935/live/divinity/chunklist_w1536414987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0Asjy1P.png", [B]NOVA[/B]
-http://154.62.74.28:1935/live/novanntv/chunklist_w287682151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]PARAMOUNT[/B]
-http://154.62.74.11:1935/live/smil:paramount.smil/chunklist_w4183246.m3u
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [RAKUTEN[/B]
+https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TU CINE[/B]
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]CINE REAL[/B]
@@ -62,6 +49,10 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", [B]EVASTREAM[/B]
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 74[/B]
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
@@ -152,8 +143,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]ALEGRE TV[/B][/COLOR]
-https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg", [COLOR blue][B]AME47[/B][/COLOR]
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
@@ -168,9 +157,11 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GLOBAL  TV[/B][/COLOR]
-https://ss6.domint.net:3016/gtv_str/globalhd/chunklist_w961868780.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320", [COLOR blue][B]KBO[/B][/COLOR]
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", [COLOR blue][B]MEGA CINE[/B][/COLOR]
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]MEGA TV[/B][/COLOR]
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
@@ -183,10 +174,12 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 https://cdn2.streamgato.us/redtvrd/redtvrd/chunklist_w1948332422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMAX[/B][/COLOR]
+https://cdn2.streamgato.us/telemax/telemax/chunklist_w2121085034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
 https://cm.hostlagarto.com:4445/Tvstv/TvstvHD.myStream/chunks.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]WMS  HD[/B][/COLOR]
-
+#EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="http://www.vallevision.com.do/images/vallevision.png",[COLOR blue][B]VALLEVISION[/B][/COLOR]
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
