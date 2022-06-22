@@ -34,6 +34,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA[/B]
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [RAKUTEN[/B]
