@@ -18,7 +18,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV[/B]
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
-https://v2.tustreaming.cl/miradiotv/rewind-999999.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
@@ -147,11 +147,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg", [COLOR blue][B]AME47[/B][/COLOR]
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png", [COLOR blue][B]CINEMA PLUS[/B][/COLOR]
-https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DAN  TV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
