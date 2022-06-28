@@ -2,11 +2,10 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", [B]MEGA[/B]
-
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9deelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
 
@@ -57,7 +56,7 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", [B]RETRO  PLUS[/B]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w129068693.m3u8?
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", [B]EVARETRO[/B]
-https://stmv2.voxtvhd.com.br/evaretro/evaretro/chunklist_w483061441.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 74[/B]
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
