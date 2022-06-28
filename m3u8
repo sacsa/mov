@@ -39,6 +39,8 @@ http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN[/B]
 https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN action[/B]
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TU CINE[/B]
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]CINE REAL[/B]
