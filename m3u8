@@ -37,9 +37,9 @@ http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]CINES VERDI TV[/B]
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-3.wuaki.tv/system/artworks/150/original/peliculas-top-rakuten-tv-1621956596.png", [B]RAKUTEN PELICULAS TOP[/B]
 https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RAKUTEN action[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288.png", [B]RAKUTEN ACTION[/B]
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TU CINE[/B]
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
