@@ -17,7 +17,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OG4jcmd.png",[B]UCV[/B]
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
-https://tls-cl.cdnz.cl/miradio/live/chunklist.m3u8
+https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
@@ -33,7 +33,7 @@ http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA[/B]
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/ESBC2700011AZ_20220713T010440.png", [B]CINES VERDI TV[/B]
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg", [B]RAKUTEN BBC DRAMA[/B]
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.wuaki.tv/system/artworks/266/original/thriller-rakuten-tv-1635839766.jpeg", [B]RAKUTEN THRILLERS[/B]
