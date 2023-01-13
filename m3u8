@@ -23,15 +23,15 @@ https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
-http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PALC9Kh.png", [B]UTV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mty0mgJ.jpg", [B]Moovimex[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
-http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA[/B]
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX TERROR[/B]
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX ESTRENOS[/B]
@@ -170,10 +170,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EzfdJg3.png", [COLOR blue][B]DELTA  TV[/B][/COLOR]
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]DTV[/B][/COLOR]
+https://emisoras.hn:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/g2WcsnY.png", [COLOR blue][B]ESTV[/B][/COLOR]
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]GLOBAL  TV[/B][/COLOR]
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320", [COLOR blue][B]KBO[/B][/COLOR]
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", [COLOR blue][B]MEGA CINE[/B][/COLOR]
@@ -185,7 +185,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/201612/Ready-Logo-2016-oi2.png", [COLOR blue][B]READY TV[/B][/COLOR]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]RED  TV[/B][/COLOR]
-https://cdn2.streamgato.us/redtvrd/redtvrd/chunklist_w1948332422.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
 http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMAX[/B][/COLOR]
