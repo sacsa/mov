@@ -18,8 +18,20 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Jtntng.png", [B]FM  HOT[/B]
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  POP[/B]
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RLO  TV[/B]
+https://593b04c4c5670.streamlock.net/8034/8034/chunklist_w542531024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", [B]CARACOLA  TV[/B]
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MONI  TV[/B]
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1689906265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  PRIME[/B]
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ENFOQUE  DIGITAL[/B]
+https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w467025536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]LA  POPULAR[/B]
+https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w64514907.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
