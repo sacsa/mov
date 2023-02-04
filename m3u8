@@ -269,6 +269,8 @@ https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA[/B][/COLOR]
 http://streaming.comunicacioneschile.net:9924/stream?type=http&nocache=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA TV[/B][/COLOR]
+https://v2.tustreaming.cl:/radioamericatv/index.m3u8
 
 
 
