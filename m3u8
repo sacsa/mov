@@ -165,9 +165,11 @@ http://azxtv.com/hls/stream.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXDY15q.png", [COLOR lime][B]Kanade TV[/B][/COLOR]
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  FANPOP[/B][/COLOR]
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  ANIMATE[/B][/COLOR]
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  RETRO[/B][/COLOR]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=8690748
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]BOOMERANG[/B][/COLOR]
 http://161.97.152.4:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]VARIED  TV[/B][/COLOR]
