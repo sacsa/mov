@@ -154,6 +154,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://51.222.85.85:81/hls/loco/index.m3u8?
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ANIMESTATION[/B][/COLOR]
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000005-7f1028005d/700/logo%20HD-81.png?ph=d0cdb7b2de", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
@@ -168,6 +170,12 @@ https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]BOOMERANG[/B][/COLOR]
 http://161.97.152.4:81/hls/boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]VARIED  TV[/B][/COLOR]
+https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1343299761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ACS  NETWORK  TV[/B][/COLOR]
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png", [COLOR lime][B]Pluto Tv Anime Clásico[/B][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png", [COLOR lime][B]Pluto TV Anime[/B][/COLOR]
