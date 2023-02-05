@@ -44,16 +44,35 @@ https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w64514907.
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SICARDI  TV[/B]
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]COSTA TV[/B]
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME THRILLER Y TERROR[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CRIMEN[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINE Y SERIES[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ACCION[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME COMEDIA[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ROMANCE[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CLASICOS[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME SERIES[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX TERROR[/B]
-https://s2.tvdatta.com:3849/hybrid/play.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX ESTRENOS[/B]
-https://s2.tvdatta.com:3172/hybrid/play.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX ACCION[/B]
-https://s2.tvdatta.com:3457/hybrid/play.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX SERIES[/B]
-https://s2.tvdatta.com:3402/hybrid/play.m3u8?
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/ESBC2700011AZ_20220713T010440.png", [B]CINES VERDI TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg", [B]RAKUTEN BBC DRAMA[/B]
