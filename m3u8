@@ -236,7 +236,7 @@ https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/201612/Ready-Logo-2016-oi2.png", [COLOR blue][B]READY TV[/B][/COLOR]
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]RESPLANDOR TV[/B][/COLOR]
 https://ss2.domint.net:3100/rtv_str/rvision/chunklist_w1269845579.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
@@ -248,7 +248,7 @@ https://cm.hostlagarto.com:4445/Tvstv/TvstvHD.myStream/chunks.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV MONTAÑA[/B][/COLOR]
 https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w151637745.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="http://www.vallevision.com.do/images/vallevision.png",[COLOR blue][B]VALLEVISION[/B][/COLOR]
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
