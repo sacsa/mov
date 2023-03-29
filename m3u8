@@ -106,15 +106,17 @@ https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
-http://lobo-tv.live:25461/UzielLCH/123456789/10420
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181534
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
-http://lobo-tv.live:25461/UzielLCH/123456789/197235
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181553
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
-http://lobo-tv.live:25461/UzielLCH/123456789/16080
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181552
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://lobo-tv.live:25461/UzielLCH/123456789/10428
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181532
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
-http://lobo-tv.live:25461/UzielLCH/123456789/75651
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173540
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181549
 
 
 
@@ -276,6 +278,10 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TasteMade (Mexico)[/B][/COLOR]
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]El Gourmet[/B][/COLOR]
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]Food Network[/B][/COLOR]
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181547
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
