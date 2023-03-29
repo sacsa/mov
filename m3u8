@@ -176,9 +176,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8?
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ANIMESTATION[/B][/COLOR]
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000005-7f1028005d/700/logo%20HD-81.png?ph=d0cdb7b2de", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
-https://ed20ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", [COLOR lime][B]ANIME  ZONE  TV[/B][/COLOR]
 http://azxtv.com/hls/stream.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXDY15q.png", [COLOR lime][B]Kanade TV[/B][/COLOR]
