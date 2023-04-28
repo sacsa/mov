@@ -19,7 +19,7 @@ https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
-https://63da5f7cbffac.streamlock.net/8034/8034/playlist.m3u8
+https://stmv2.zcasthn.com.br/cattotv/cattotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", [B]CARACOLA  TV[/B]
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MONI  TV[/B]
@@ -28,8 +28,18 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ENFOQUE  DIGITAL[/B]
 https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w467025536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]LA  POPULAR[/B]
-https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w64514907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", [B]ORIGEN  TV[/B]
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SUPER  TV[/B]
+https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", [B]RETRO  PLUS[/B]
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w129068693.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", [B]EVASTREAM[/B]
+
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", [B]EVARETRO[/B]
+https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
@@ -38,14 +48,12 @@ https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w64514907.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mty0mgJ.jpg", [B]Moovimex[/B]
 
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SICARDI  TV[/B]
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]COSTA TV[/B]
-https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME THRILLER Y TERROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CRIMEN[/B]
@@ -91,15 +99,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O513Q3w.png", [B]RUN TIME[/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", [B]EVASTREAM[/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", [B]RETRO  PLUS[/B]
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w129068693.m3u8?
-#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", [B]EVARETRO[/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 74[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
