@@ -42,6 +42,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", [B]EVARETRO[/B]
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TVS RETRO[/B]
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  MOVIE[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVxrFsd.png", [B]CONTIVISION[/B]
