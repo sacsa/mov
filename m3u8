@@ -36,6 +36,8 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  CINEMA[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  TV[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", [B]RETRO  PLUS[/B]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w129068693.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", [B]EVASTREAM[/B]
