@@ -121,7 +121,7 @@ http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181553
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181552
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-https://dnsvod.com:2053/RE4h3r3Dcp/217yGz2avC/181532
+http://45.169.163.235:8000/play/a00h
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
 https://dnsvod.com:2053/RE4h3r3Dcp/217yGz2avC/173540
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
@@ -184,7 +184,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://51.222.85.85:81/hls/loco/index.m3u8?
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ANIMESTATION[/B][/COLOR]
-https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000005-7f1028005d/700/logo%20HD-81.png?ph=d0cdb7b2de", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
@@ -192,13 +192,13 @@ https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", [COLOR lime][B]ANIME  ZONE  TV[/B][/COLOR]
 http://azxtv.com/hls/stream.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXDY15q.png", [COLOR lime][B]Kanade TV[/B][/COLOR]
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  FANPOP[/B][/COLOR]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  ANIMATE[/B][/COLOR]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  RETRO[/B][/COLOR]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=8690748
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]BOOMERANG[/B][/COLOR]
 http://161.97.152.4:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]VARIED  TV[/B][/COLOR]
