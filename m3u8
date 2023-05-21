@@ -119,15 +119,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181534
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
-http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181553
+http://179.63.4.142:8000/play/a00w/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181552
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://187.102.208.33:8000/play/a033/index.m3u8
+http://179.63.4.142:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
-http://45.169.163.235:8000/play/a01q
+http://179.63.4.142:8000/play/a03a/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
-http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181549
+http://187.102.208.33:8000/play/a06q/index.m3u8
 
 
 
