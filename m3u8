@@ -175,7 +175,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png", [B]Western[/B] 
 https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1557a8b5-f5ed-11ed-815a-3eba5629fdcd1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png", [B]El Detective Endeavour[/B] 
-https://stitcher.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1557a8b5-f5ed-11ed-815a-3eba5629fdcd1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png", [B]Constance Meyer: Jueza en prácticas[/B]  
 https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a7cfcac5-9d94-11ec-9c4b-0242ac110003
 
