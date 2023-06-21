@@ -4,11 +4,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", [B]MEGA[/B]
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-http://190.110.110.18:9980/play/a03h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B]
-http://190.110.110.18:9980/play/a03j/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B]
-http://190.110.110.18:9980/play/a03k/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/puJ88Pk.png", [B]LA  RED[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
@@ -18,6 +18,14 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12069
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HORROR [/B]
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HORROR N[/B]
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/76239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11982
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
 https://stmv2.zcasthn.com.br/cattotv/cattotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", [B]CARACOLA  TV[/B]
