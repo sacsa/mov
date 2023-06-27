@@ -18,6 +18,8 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR  TV[/B]
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12069
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HORROR [/B]
