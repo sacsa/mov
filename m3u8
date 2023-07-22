@@ -21,11 +21,10 @@ https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12069
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HORROR [/B]
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38700
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HORROR N[/B]
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/76239
+https://v3.playerlatino.live/stream/m3u8/704|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ZOMBIES [/B]
+https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11982
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
