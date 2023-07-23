@@ -136,7 +136,7 @@ http://45.5.117.182:8000/play/a0fb/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
 http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://45.5.117.182:8000/play/a0jy/index.m3u8
+http://45.5.119.146:4000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
 http://45.5.117.182:8000/play/a0j2/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
