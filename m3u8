@@ -130,7 +130,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
-http://45.5.117.182:8000/play/a0iw/index.m3u8
+http://45.5.119.146:4000/play/a03v/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
@@ -138,7 +138,7 @@ http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 http://45.5.119.146:4000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
-http://45.5.117.182:8000/play/a0j2/index.m3u8
+http://45.5.119.146:4000/play/a050/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
 http://45.169.163.235:8000/play/a012
 
