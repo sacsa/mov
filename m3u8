@@ -111,8 +111,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg", [B]RAKUTEN BBC DRAMA[/B]
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg", [B]RAKUTEN DRAMA[/B]
+https://43acc28426e84e7b8a691e3503112bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2498&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=00c52d0e-4d2d-4bd3-8d0e-496e634a2a66&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=429
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.wuaki.tv/system/artworks/266/original/thriller-rakuten-tv-1635839766.jpeg", [B]RAKUTEN THRILLERS[/B]
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-3.wuaki.tv/system/artworks/150/original/peliculas-top-rakuten-tv-1621956596.png", [B]RAKUTEN PELICULAS TOP[/B]
 https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288.png", [B]RAKUTEN ACTION[/B]
