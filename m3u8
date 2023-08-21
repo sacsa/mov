@@ -27,7 +27,7 @@ https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11982
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINCO TV[/B]
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
@@ -37,7 +37,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MONI  TV[/B]
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  PRIME[/B]
-https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
+https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ENFOQUE  DIGITAL[/B]
 https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w467025536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", [B]ORIGEN  TV[/B]
@@ -48,6 +48,15 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]X LEVEL TV[/B]
 https://tv.portalexpress.es:3220/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/d94a5f7f1913eea53167784065b56aee.png", [B]PARENTESIS TV[/B]
+https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/11978fb15e78b24dc2c7cd78342f3c9f.png", [B]MILODON TV[/B]
+https://oracle.streaminghd.cl:443/milodontvenvivo/milodontvenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png", [B]VEO TV[/B]
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
+https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  CINEMA[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  TV[/B]
