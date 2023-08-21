@@ -24,7 +24,8 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 https://v3.playerlatino.live/stream/m3u8/704|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ZOMBIES [/B]
 https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ESPANTO[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11982
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
@@ -43,6 +44,8 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]X LEVEL TV[/B]
+https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  CINEMA[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  TV[/B]
