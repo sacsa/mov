@@ -28,6 +28,9 @@ https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 34[/B]
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINCO TV[/B]
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
@@ -98,6 +101,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CRIMEN[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CRIMEN 2[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINE Y SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ACCION[/B]
