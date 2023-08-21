@@ -21,7 +21,7 @@ https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
-https://v3.playerlatino.live/stream/m3u8/693|user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/704|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ZOMBIES [/B]
 https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
 
