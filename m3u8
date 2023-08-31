@@ -353,7 +353,7 @@ http://stream5.eltelon.com/san-bartolome.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [COLOR orangered][B]BIO  BIO[/B][/COLOR]
 http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [COLOR orangered][B]BIO  BIO  TV[/B][/COLOR]
-https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?
+https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [COLOR orangered][B]COOPERATIVA[/B][/COLOR]
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA[/B][/COLOR]
