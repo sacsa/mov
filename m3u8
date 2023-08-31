@@ -39,12 +39,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://stmv2.zcasthn.com.br/cattotv/cattotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", [B]CARACOLA  TV[/B]
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MONI  TV[/B]
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  PRIME[/B]
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ENFOQUE  DIGITAL[/B]
-https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w467025536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SUPER  TV[/B]
@@ -59,9 +55,18 @@ https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8
 https://oracle.streaminghd.cl:443/milodontvenvivo/milodontvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png", [B]VEO TV[/B]
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
 https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA CINE[/B]
+https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1203052974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MULTIVISION[/B]
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE ACCION[/B]
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE SUSPENSO[/B]
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  CINEMA[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  TV[/B]
@@ -81,7 +86,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RETRO  PLAY[/B]
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]EUROPA  EUROPA[/B]
-http://45.5.119.146:4000/play/a01y/index.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=1118854147&_cdn_timestamp=1693540280&_cdn_token=260b02ef5e8cd816b76074f137dd1aa1fe5cb4fa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]AXN[/B]
 http://45.5.117.182:8000/play/a0ji/index.m3u8
 
@@ -166,7 +171,7 @@ http://45.5.117.182:8000/play/a0fb/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
 http://45.5.117.182:8000/play/a0ge/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://45.5.119.146:4000/play/a04h/index.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1118823579&_cdn_timestamp=1693539786&_cdn_token=d52d790e17d58282324442de05c1586ce3f26149
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
 http://45.5.119.146:4000/play/a050/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
