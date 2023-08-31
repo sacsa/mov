@@ -130,6 +130,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX SERIES[/B]
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE EUROPA[/B]
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/ESBC2700011AZ_20220713T010440.png", [B]CINES VERDI TV[/B]
 https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg", [B]RAKUTEN BBC DRAMA[/B]
