@@ -75,7 +75,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANELA  TV 2[/B]
 https://ov.ottera.tv/channels/cnm_ctm_ro/master550000.m3u8;session=cnm_ctm_ro
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]INSPIRACION Y FE[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]INSPIRACION  Y  FE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", [B]RETRO  PLUS[/B]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w129068693.m3u8?
@@ -167,17 +167,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]FIBWI[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kwp9c1s.png", [B]DISCOVERY  H&H[/B]
-http://45.5.119.146:4000/play/a03v/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]HISTORIA[/B]
-http://45.5.117.182:8000/play/a0fb/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
-http://45.5.117.182:8000/play/a0ge/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1118823579&_cdn_timestamp=1693539786&_cdn_token=d52d790e17d58282324442de05c1586ce3f26149
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
-http://45.5.119.146:4000/play/a050/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
-http://45.169.163.235:8000/play/a012
+
 
 
 
