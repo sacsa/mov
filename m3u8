@@ -36,7 +36,7 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINCO TV[/B]
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", [B]RLO  TV[/B]
-https://stmv2.zcasthn.com.br/cattotv/cattotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", [B]CARACOLA  TV[/B]
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  PRIME[/B]
@@ -52,13 +52,13 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]X LEVEL TV[/B]
 https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/d94a5f7f1913eea53167784065b56aee.png", [B]PARENTESIS TV[/B]
-https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/11978fb15e78b24dc2c7cd78342f3c9f.png", [B]MILODON TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png", [B]VEO TV[/B]
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
-https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
 https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA CINE[/B]
@@ -78,19 +78,17 @@ https://ov.ottera.tv/channels/cnm_ctm_ro/master550000.m3u8;session=cnm_ctm_ro
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]INSPIRACION  Y  FE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", [B]RETRO  PLUS[/B]
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w129068693.m3u8?
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w126257270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", [B]EVASTREAM[/B]
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", [B]EVARETRO[/B]
-https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TVS RETRO[/B]
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RETRO  PLAY[/B]
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]EUROPA  EUROPA[/B]
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=1118854147&_cdn_timestamp=1693540280&_cdn_token=260b02ef5e8cd816b76074f137dd1aa1fe5cb4fa
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]AXN[/B]
-http://45.5.117.182:8000/play/a0ji/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV[/B]
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
@@ -173,7 +171,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1118823579&_cdn_timestamp=1693539786&_cdn_token=d52d790e17d58282324442de05c1586ce3f26149
+
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [B]HGTV[/B]
@@ -226,7 +224,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png", [B]Constance Meyer: Jueza en prácticas[/B]  
 https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a7cfcac5-9d94-11ec-9c4b-0242ac110003
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png", [B]Poirot & Miss Marple[/B]
+https://stitcher.pluto.tv/stitch/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=009ffa1f-63be-11ee-851a-eaaba16a74401
 
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
