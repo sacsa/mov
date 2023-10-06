@@ -23,11 +23,13 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA  CINE  TERROR[/B]
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
-https://v3.playerlatino.live/stream/m3u8/704|user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/979|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]ZOMBIES [/B]
-https://v3.playerlatino.live/stream/m3u8/688|user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/984|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
 
 
