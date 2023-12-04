@@ -42,12 +42,6 @@ https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/114925.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1, GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1,Vix
-https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 34[/B]
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
@@ -77,8 +71,12 @@ https://tv.portalexpress.es:3220/stream/play.m3u8
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN PLUS[/B]
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
-https://live.seo.tv.bo/live/4SEO.m3u8
+https://live.seo.tv.bo/live/SEO_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV SERIES[/B]
+https://live.seo.tv.bo/live/SEO_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA CINE[/B]
 https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1203052974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MULTIVISION[/B]
