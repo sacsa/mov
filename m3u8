@@ -26,6 +26,8 @@ https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
@@ -128,8 +130,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ACCION[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME COMEDIA[/B]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ROMANCE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CLASICOS[/B]
@@ -257,12 +257,12 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  RETRO[/B][/COLOR]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTA  TV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]VARIED  TV[/B][/COLOR]
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1343299761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ACS  NETWORK  TV[/B][/COLOR]
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]MIKAMI LA CAZAFANTASMAS[/B][/COLOR]
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12046.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png", [COLOR lime][B]Pluto Tv Anime Clásico[/B][/COLOR]
