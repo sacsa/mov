@@ -36,12 +36,8 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRz
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36355.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME 2[/B]
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36359.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
-http://190.149.66.90:4000/play/a03b/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://45.71.252.67:8000/play/a0gh/index.m3u8
+http://45.5.118.154:16000/play/a0nx/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-name="Pluto TV Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Navidad" tvg-chno="620", Pluto TV Navidad
@@ -129,11 +125,6 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]NOVA[/B]
-http://77.228.160.100:61800/play/a00d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]PARAMOUNT  NETWORK[/B]
-http://77.228.160.100:61800/play/a01g
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
