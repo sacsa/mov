@@ -18,6 +18,8 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]LA  POPULAR[/B]
+https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w1761304919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA  CINE  TERROR[/B]
@@ -32,6 +34,16 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRz
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36355.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME 2[/B]
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36359.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
+http://190.149.66.90:4000/play/a03b/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
+http://45.71.252.67:8000/play/a0gh/index.m3u8
+
+
 #EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-name="Pluto TV Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Navidad" tvg-chno="620", Pluto TV Navidad
 https://stitcher.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=264b3443-9223-11ee-8ffb-aa3c3a5aa4061
 #EXTINF:-1 tvg-id="5dd6ed41526c77000941411c" tvg-name="Pluto TV Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png" group-title="Felices Fiestas" tvg-chno="95", Pluto TV Cine Navidad
@@ -41,8 +53,10 @@ https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="24/7", SKY Premiere 1 | FELIZ NAVIDAD HD
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/114925.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg", [B]FMH[/B]
+http://191.97.60.193:10000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png", [B]STUDIO  TV[/B]
+https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 34[/B]
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINCO TV[/B]
@@ -101,9 +115,7 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w200
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TVS RETRO[/B]
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]EUROPA  EUROPA[/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]AXN[/B]
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8ObK7Zx.png", [B]MAXIMA  TV[/B]
@@ -117,6 +129,11 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]NOVA[/B]
+http://77.228.160.100:61800/play/a00d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]PARAMOUNT  NETWORK[/B]
+http://77.228.160.100:61800/play/a01g
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -149,6 +166,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX SERIES[/B]
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]EUROPA  EUROPA[/B]
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE EUROPA[/B]
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/ESBC2700011AZ_20220713T010440.png", [B]CINES VERDI TV[/B]
@@ -184,10 +204,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", [B]H2[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-
 #EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="https://i.imgur.com/aBf4RHS.png", [B]UNIVERSAL  CHANNEL[/B]
-
+http://45.71.252.67:8000/play/a0gt/index.m3u8
 
 
 
@@ -373,7 +391,7 @@ http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA[/B][/COLOR]
 http://streaming.comunicacioneschile.net:9924/stream?type=http&nocache=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA TV[/B][/COLOR]
-https://v2.tustreaming.cl:/radioamericatv/index.m3u8
+
 
 
 
