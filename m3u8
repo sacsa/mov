@@ -26,7 +26,7 @@ https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA  CINE  TERROR[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2vtqxhZ.png", [B]XTREMA  CINE  TERROR[/B]
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
