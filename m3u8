@@ -144,7 +144,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ROMANCE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CLASICOS[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KtGobzJ.png", [B]RUN TIME CLASICOS[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
