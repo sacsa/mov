@@ -30,6 +30,11 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x25HRbX.png", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SANGRE FRÍA[/B]
+https://stream.ads.ottera.tv/cl/240214cn666gv4lg92fmt40n90/1280x720_3071200_0_f.m3u8?i=728_6130
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
