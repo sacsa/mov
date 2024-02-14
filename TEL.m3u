@@ -146,7 +146,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jU6LyWE.png", [B]RUN TIME SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUNTIME PORT[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i5hG9Rx.png", [B]RUNTIME PORT[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX TERROR[/B]
@@ -286,8 +286,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]VARIED  TV[/B][/COLOR]
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1343299761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]MIKAMI LA CAZAFANTASMAS[/B][/COLOR]
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12046.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png", [COLOR lime][B]Pluto Tv Anime Clásico[/B][/COLOR]
