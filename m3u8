@@ -23,6 +23,8 @@ https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w176130491
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [B]BIO  BIO  TV[/B]
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy8f9oJ.png", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
@@ -30,27 +32,20 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x25HRbX.png", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
-https://stream.ads.ottera.tv/cl/240214cn666gv4lg92fmt40n90/1280x720_3071200_0_f.m3u8?i=728_6130
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png", [B]CINE  HORROR[/B]
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-64e6e2f04a5e9b4cedc6d52b/variant.m3u8?url=cf6e6f336aa63add48b8854ed1ad0b75-a3b906150cef8815029a7e3c952dd7c4d648294315f09c1d779b4b7c82c53bd6e7cd4a7c1dc6b5eab499bd87a288c52ec0089a47afd2924d05f58daf4cc27c10303265a28eeea3ccf517930dc80d2a4d8144b45a18571b6b640438249f63bd189c23f27582405e2bfe2407c63c8fa70549ea19cc5d8d269fc8e9cf6a06a95d511ffd1ecd25d1946d2123ae2dd5dfe631fb908af48c89ea049ffaec186de286930187074615120fc0def1c34b91095c57ceb17735e6557e7ee4781de41fdb8bfdf4a6d4a5e01baee30bef31d751a7c4ef06e6b964b4245bc5817d7e85c0e530a82a582b90740c82d1c52bbb842559568a1be9e36da547f2eb3eb07095763dbf6a00476503dbf5b0199548f1632eb8528f6e12df7cd0a0317141dc47c2e4ea7ad62e31409431b7fa234cc564a57e304174f414647febb4bda743a9830a0e90f115c493f6083086e231c5b48f0f781666fdbf825d2b6b03695fb9b526100ae1c2a7d387d3ef6b9da7f65b587c84a4a18ecdce4c0792a75a0f2892503aa3590315db1a2ef9d9ce5901ff9bb9459155912590e37dfdd71d2b5b63bfd64baec15d251fedeefbe493df666520dfe5ba3990d23992ff6656ca6d6e5b7d4437169ebcfd768c683214dfb3cdd3df3cfac84eaa6c9422ab0eacb01ae4268fd64388a3eb0c0a9ae789e23d535c7862fbcff2fa171cd8d6526e7fe7dc40de049832bcdcc1f5dd405ffae6186ee6a54807dd55c06e48e9484b12364f5841c9ee29a14e614c243728da742c27eceaa0da3dc8804053beeb930c24e5daeb4197e5a3fac61753c013a2e3a3260e7507a9a6dd6f0503bb25f83ffc43b0919f531e3ce2bed8c418f17f96bcdfd7735452661a0d3dbc09e3d977f00e4fa42b1351a96fc9b7dfe8780767a58b356d662434ca0920a8f04f44292fac2637f82adf6e8849c50214e8ab2aeb5d3a350bb4f0b072576d541f83e7bd6aa9ce7b0d30ed98447798bd0233a7a42b0245b76f08f2cf6767ebec3e23aefaaadd39d0b6111fb545e87d9e59c7a270227c119a45f251cceb559c55c946010ea0f99dbc5b5296e50629303af4c8107fdc0b951b045aadcc31fd9aa6dc51f610bfbadede5648ded8d293aa595f2d63151188ac0b052de3f0dbb8ce17c1be4bd41b7cd929f8fe6f657c17c63f6fd46b866f5e5f6a0ce658a8b7936e772e638697bc63bbfa40c078a713b7dd37decd4333a4e02cb087c7aa06bceeb602f026144a106045050cdc11fa7768b329a0af1ad4e27056e70691a067a58cd8761a6618e3457f5a6ccd3422e68593e8a3f6a4eea791c4f63699579029d4aad50c712afb36b557ddede6b56b66fc93a924aa7118b343b9a224410e2b25e17843b4877955b84aabdfab0a5a6f6eb50615aba31cc5da2c1e9f3de8acd3c06eb7ea1be5123e7511acf168c71e165bd992e0cb8661e83412d94e266b1b3f1cd57730e000c3f1abc9a4fc3a09546024cd7cbc2e67ceba74601f1b807ae19b9c555346001c0f8f5027734b6b0e34f2c9f96d48f131cf21e0727e7be0b6d1e7609818abfff75b44faa8b6977c7794dea4d8680ee079a03014417f111de3a62c7e71b88ebaecbe15aa53c2a180c59cc931aca6b9b95545947ab0b7dd497d4965b51bf7cb1912ed4622e34a9c5d47c4d118a29e9ef1f2c056f753b082e098620a3476b608c65013e2b29a8907ac8d4520afc7f56226b9b7dbd4390220b7e9cfb5ee7db26df5e4889f248c1744807731e47ca183d78c2157e05896f21ccc920c77c57d73f26c2788e884af8d7ee8f4b1fd10985e5615b8ad5fb77c3872fe155b4c8242527d3f13e80add0b66a4303be65ad3d04b556843eb2c88f7de65dca702584d20f0966c38751eea4152a3f53419ab825fb437c10edf84f040551780e4b916cf8ba536e0cdfe0fb4dcbc6c2c7098ee13951d30caabb3d96c070c991d08436cc76cab91615f08265475d5504e4e6a66b18a7829300ab7a6c155eb2f772126e1b3e18780b548e1cc3bb12a07c58fdc67f61a8af59d084ceeb64a69ed28a6fbda4617d8cc951f2d39e35d1ddea8e177e9c066923f155422a4b4e5126dc9fc05c55125ca61ac5da7e680f156c6b00533e29eddddadece10ad3cab7&x-plex-token=LHvm-rzgzKHKuHVY5AyK&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1707613811
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 http://45.5.118.154:16000/play/a0nx/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
+https://stream.ads.ottera.tv/cl/240214cn666gv4lg92fmt40n90/1280x720_3071200_0_f.m3u8?i=728_6130
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg", [B]FMH[/B]
 http://191.97.60.193:10000/play/a02a/index.m3u8
