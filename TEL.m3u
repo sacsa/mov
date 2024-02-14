@@ -23,6 +23,8 @@ https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w176130491
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [B]BIO  BIO  TV[/B]
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy8f9oJ.png", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
@@ -30,23 +32,18 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x25HRbX.png", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
-https://stream.ads.ottera.tv/cl/240214cn666gv4lg92fmt40n90/1280x720_3071200_0_f.m3u8?i=728_6130
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 http://45.5.118.154:16000/play/a0nx/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
+https://stream.ads.ottera.tv/cl/240214cn666gv4lg92fmt40n90/1280x720_3071200_0_f.m3u8?i=728_6130
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg", [B]FMH[/B]
 http://191.97.60.193:10000/play/a02a/index.m3u8
@@ -135,19 +132,19 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S7b7w09.png", [B]RUN TIME THRILLER Y TERROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CRIMEN[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTqghfg.png", [B]RUN TIME CRIMEN[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CRIMEN 2[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTqghfg.png", [B]RUN TIME CRIMEN 2[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINE Y SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ACCION[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KF7deyR.png", [B]RUN TIME ACCION[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ROMANCE[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2tcP6aj.png", [B]RUN TIME ROMANCE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KtGobzJ.png", [B]RUN TIME CLASICOS[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME SERIES[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jU6LyWE.png", [B]RUN TIME SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUNTIME PORT[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
