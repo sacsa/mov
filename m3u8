@@ -24,7 +24,7 @@ https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w176130491
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR  TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy8f9oJ.png", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2vtqxhZ.png", [B]XTREMA  CINE  TERROR[/B]
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
