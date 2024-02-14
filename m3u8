@@ -140,13 +140,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME CINE Y SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ACCION[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KF7deyR.png", [B]RUN TIME ACCION[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME ROMANCE[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2tcP6aj.png", [B]RUN TIME ROMANCE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KtGobzJ.png", [B]RUN TIME CLASICOS[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUN TIME SERIES[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jU6LyWE.png", [B]RUN TIME SERIES[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]RUNTIME PORT[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
