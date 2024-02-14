@@ -18,7 +18,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 https://unlimited1-cl-claro.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", [B]MI  RADIO[/B]
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]LA  POPULAR[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GUJ60Vh.png", [B]LA  POPULAR[/B]
 https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w1761304919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [B]BIO  BIO  TV[/B]
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
@@ -87,7 +87,7 @@ https://live.seo.tv.bo/live/SEO_4.m3u8
 https://live.seo.tv.bo/live/SEO_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA CINE[/B]
 https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1203052974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MULTIVISION[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE ACCION[/B]
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
@@ -160,7 +160,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", [B]VIWIX SERIES[/B]
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]EUROPA  EUROPA[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0JoV7vS.png", [B]EUROPA  EUROPA[/B]
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE EUROPA[/B]
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
