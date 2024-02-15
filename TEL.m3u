@@ -74,7 +74,7 @@ https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png", [B]VEO TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
-https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN PLUS[/B]
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
