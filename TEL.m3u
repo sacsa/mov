@@ -61,8 +61,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SUPER  TV[/B]
-https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]+  CINE[/B]
@@ -74,17 +72,15 @@ https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/11978fb15e78b24dc2c7cd78342f3c9f.png", [B]MILODON TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png", [B]VEO TV[/B]
-https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN PLUS[/B]
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
-https://live.seo.tv.bo/live/SEO_4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV SERIES[/B]
-https://live.seo.tv.bo/live/SEO_9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]MEGA CINE[/B]
-https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1203052974.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGHnCnl.png", [B]XTREMA CINE ACCION[/B]
@@ -326,13 +322,13 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]RESPLANDOR TV[/B][/COLOR]
 https://ss2.domint.net:3100/rtv_str/rvision/chunklist_w1269845579.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5MXi2.png", [COLOR blue][B]RVD[/B][/COLOR]
-http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMAX[/B][/COLOR]
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w2121085034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
-https://cm.hostlagarto.com:4445/Tvstv/TvstvHD.myStream/chunks.m3u8?
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV MONTAÑA[/B][/COLOR]
-https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w151637745.m3u8
+
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="http://www.vallevision.com.do/images/vallevision.png",[COLOR blue][B]VALLEVISION[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
