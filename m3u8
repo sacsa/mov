@@ -29,7 +29,7 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy8f9oJ.png", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2vtqxhZ.png", [B]XTREMA  CINE  TERROR[/B]
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8?
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w373884968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x25HRbX.png", [B]RUN TIME CINESPANTO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
@@ -76,19 +76,21 @@ https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png", [B]VEO TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", [B]CHILE VISUAL[/B]
-
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w799535559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]24/7[/B]
+https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w960830448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]PERU VISUAL[/B]
+https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist_w329032471.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]GOLDEN PLUS[/B]
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV SERIES[/B]
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGHnCnl.png", [B]XTREMA CINE ACCION[/B]
-
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w1363197523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/orXcwAz.png", [B]XTREMA CINE SUSPENSO[/B]
-
+https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1132943460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]XTREMA CINE DRAMA[/B]
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1504972089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-cinema-16x9_1.png", [B]CANELA  CINEMA[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg", [B]CANELA  TV[/B]
