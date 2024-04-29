@@ -167,7 +167,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0JoV7vS.png", [B]EUROPA  EUROPA[/B]
-http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159176|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oByzBO0.png", [B]XTREMA CINE EUROPA[/B]
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/ESBC2700011AZ_20220713T010440.png", [B]CINES VERDI TV[/B]
