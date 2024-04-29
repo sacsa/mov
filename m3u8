@@ -67,8 +67,6 @@ https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]+  CINE[/B]
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]X LEVEL TV[/B]
-https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]NEXOVISION[/B]
 https://stmv5.voxtvhd.com.br/nexovision/nexovision/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/d94a5f7f1913eea53167784065b56aee.png", [B]PARENTESIS TV[/B]
@@ -110,7 +108,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w125486884.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TVS RETRO[/B]
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX TV LOGO PNG.png", [B]RETROX TV[/B]
-https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8?rand=0.20182362329287384
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.m3u.cl/logo/1339_Senal_21.png", [B]SEÑAL 21[/B]
 https://premium.tvcontrolcp.com:19360/8050/8050.m3u8?
 
@@ -219,11 +217,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png", [B]Pluto TV Cine Clásico[/B]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", [B]Pluto TV Cine Clásico  2[/B]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png", [B]BBC Drama[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -308,11 +301,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg", [COLOR blue][B]AME47[/B][/COLOR]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]CANAL 25[/B][/COLOR]
-https://ss3.domint.net:3150/c25_str/canal25/chunklist_w293253969.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ARtttdH.png", [COLOR blue][B]CENTRAL  TV[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png", [COLOR blue][B]CINEMA PLUS[/B][/COLOR]
