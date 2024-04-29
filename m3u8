@@ -41,16 +41,13 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRz
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
-
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159267|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 http://45.5.118.154:16000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
-https://stream.ads.ottera.tv/cl/240214cn666gv4lg92fmt40n90/1280x720_3071200_0_f.m3u8?i=728_6130
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg", [B]FMH[/B]
-http://191.97.60.193:10000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png", [B]STUDIO  TV[/B]
-https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 34[/B]
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINCO TV[/B]
@@ -60,7 +57,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", [B]CARACOLA  TV[/B]
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  PRIME[/B]
-https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
