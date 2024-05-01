@@ -34,8 +34,6 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w373884968.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png", [B]CINE  HORROR[/B]
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
