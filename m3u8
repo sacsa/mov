@@ -24,7 +24,7 @@ https://tv.streaming-chile.com:8081/lapopulartv/tracks-v1a1/mono.m3u8
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/11982.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy8f9oJ.png", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
@@ -34,14 +34,20 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w373884968.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR[/B]
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/12069.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TERROR 24/7[/B]
+http://pe.shortgod.com/awester/tv6.php?id=196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV TERROR[/B]
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159267|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
 http://45.5.118.154:16000/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159267|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg", [B]TRUE CRIME[/B]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
 
 
@@ -183,8 +189,6 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]CINE REAL[/B]
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]HORRORFY[/B]
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TOP CINE[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61bf055c59234dcf9591c1c8cb3657b4.webp", [B]CINE  ROMANTICO[/B]
