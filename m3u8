@@ -266,12 +266,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304f530440dc90007f514
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
 http://51.222.85.85:81/hls/loco/index.m3u8?
-#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ANIMESTATION[/B][/COLOR]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", [COLOR lime][B]CHINOLA  TV[/B][/COLOR]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000005-7f1028005d/700/logo%20HD-81.png?ph=d0cdb7b2de", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aiCirDm.png", [COLOR lime][B]MAX ANIME[/B][/COLOR]
+https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6jovojb.png", [COLOR lime][B]PANDAMAX[/B][/COLOR]
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", [COLOR lime][B]ANIME  ZONE  TV[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXDY15q.png", [COLOR lime][B]Kanade TV[/B][/COLOR]
@@ -282,10 +280,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  RETRO[/B][/COLOR]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000005-7f1028005d/700/logo%20HD-81.png?ph=d0cdb7b2de", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]VARIED  TV[/B][/COLOR]
-https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1343299761.m3u8
 
 
 
