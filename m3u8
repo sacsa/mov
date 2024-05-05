@@ -188,11 +188,11 @@ https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/
 https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288.png", [B]RAKUTEN ACTION[/B]
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TU CINE[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV  ESTELAR[/B]
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]CINE REAL[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV  DRAMA[/B]
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png", [B]TOP CINE[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV  ACCION[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61bf055c59234dcf9591c1c8cb3657b4.webp", [B]CINE  ROMANTICO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
