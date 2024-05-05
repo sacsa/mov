@@ -90,8 +90,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGHnCnl.png", [B]XTREMA CINE ACCION[/B]
-https://stmv6.voxtvhd.com.br/cineaccion/cinea
-ccion/chunklist_w1363197523.m3u8
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w1363197523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/orXcwAz.png", [B]XTREMA CINE SUSPENSO[/B]
 https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1132943460.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9nD5rJr.png", [B]XTREMA CINE DRAMA[/B]
