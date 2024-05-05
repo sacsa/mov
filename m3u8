@@ -65,7 +65,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TV  PRIME[/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a260c7d6bedb511c0170f0ea04f3807a.png", [B]ORIGEN  TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uQSC6yu.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
@@ -194,7 +194,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zdwj0Bo.png", [B]FREE TV  ACCION[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61bf055c59234dcf9591c1c8cb3657b4.webp", [B]CINE  ROMANTICO[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EwxxRJE.png", [B]CINE  ROMANTICO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 
@@ -219,7 +219,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png", [B]BBC Drama[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ancUgf3.png", [B]BBC Drama[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png", [B]Pluto TV Cine Estelar[/B]
