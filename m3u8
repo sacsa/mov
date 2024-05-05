@@ -26,6 +26,7 @@ https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]HOUSE[/B]
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy8f9oJ.png", [B]TERROR  TV[/B]
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2vtqxhZ.png", [B]XTREMA  CINE  TERROR[/B]
@@ -188,11 +189,11 @@ https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/
 https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288.png", [B]RAKUTEN ACTION[/B]
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV  ESTELAR[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yr20CcQ.png", [B]FREE TV  ESTELAR[/B]
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV  DRAMA[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJksRCp.png", [B]FREE TV  DRAMA[/B]
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]FREE TV  ACCION[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zdwj0Bo.png", [B]FREE TV  ACCION[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61bf055c59234dcf9591c1c8cb3657b4.webp", [B]CINE  ROMANTICO[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
