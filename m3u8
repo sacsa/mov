@@ -134,9 +134,9 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6z09N5E.png", [B]RUN TIME[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
@@ -172,7 +172,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159176|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oByzBO0.png", [B]XTREMA CINE EUROPA[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7PgPImN.png", [B]CINES VERDI TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7PgPImN.png", [B]CINES VERDI TV[/B]
 https://daiconnect.com/live/hls/tvup/tvfy-verdi/bf9c6501109a65d50a0f164db0a272e4/.m3u8?ApPW=1626&ApPH=655&USrGDPRC=CP8mHYAP8mHYABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMR
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg", [B]RAKUTEN BBC DRAMA[/B]
@@ -198,25 +198,25 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]LIFE  TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]LIFE  TV[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [B]FDF[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [B]FDF[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b632pIw.png", [B]TELECINCO[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b632pIw.png", [B]TELECINCO[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [B]BEMAD[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [B]BEMAD[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7kKQdIY.png", [B]DISTRITO  TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7kKQdIY.png", [B]DISTRITO  TV[/B]
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ancUgf3.png", [B]BBC Drama[/B]
@@ -323,9 +323,6 @@ https://ss2.domint.net:3100/rtv_str/rvision/chunklist_w1269845579.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMAX[/B][/COLOR]
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w2121085034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TVS[/B][/COLOR]
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TV MONTAÑA[/B][/COLOR]
 
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="http://www.vallevision.com.do/images/vallevision.png",[COLOR blue][B]VALLEVISION[/B][/COLOR]
 
