@@ -67,7 +67,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uQSC6yu.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", [B]PLANETATV MOVIES[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/avJGQHz.png", [B]PLANETATV MOVIES[/B]
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Kr7J3K.png", [B]+  CINE[/B]
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
@@ -83,7 +83,7 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8?
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w799535559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oexnotp.png", [B]24/7[/B]
 https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w960830448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]PERU VISUAL[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gTBXDej.png", [B]PERU VISUAL[/B]
 https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist_w329032471.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UjspGar.png", [B]GOLDEN PLUS[/B]
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -239,9 +239,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AkQPBAV.png", [B]Pluto TV Thrillers[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png", [B]Pluto TV Cine Terror Port[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DoycoeH.png", [B]Pluto TV Cine Terror Port[/B]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png", [B]Pluto TV Cine Terror It[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FmZNR0B.png", [B]Pluto TV Cine Terror It[/B]
 https://stitcher.pluto.tv/stitch/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bf82b346-a143-11ee-bcb2-12369778f263
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CKfaSFR.png", [B]Pluto TV Cine Terror Eng[/B]
 https://stitcher.pluto.tv/stitch/hls/channel/612cda102f5f18000705e0bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ce4b2597-a143-11ee-9396-568b5baa46a2
@@ -283,7 +283,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR lime][B]ENERGEEK  RETRO[/B][/COLOR]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000005-7f1028005d/700/logo%20HD-81.png?ph=d0cdb7b2de", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K2NRNiw.png", [COLOR lime][B]TALTAL  TV[/B][/COLOR]
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 
@@ -326,7 +326,7 @@ https://cdn2.streamgato.us/telemax/telemax/chunklist_w2121085034.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES 2" tvg-logo="http://www.vallevision.com.do/images/vallevision.png",[COLOR blue][B]VALLEVISION[/B][/COLOR]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CyiiXhJ.png", [COLOR blue][B]WOW TV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9KrWmZL.png", [COLOR blue][B]WOW TV[/B][/COLOR]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 
