@@ -226,9 +226,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/ESAJ3800001KT_20210209T093445.png", [B]Pluto TV Cine Estelar[/B]
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png", [B]Pluto TV Cine Drama[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pmrsXc1.png", [B]Pluto TV Cine Drama[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png", [B]Pluto TV Cine Drama[/B] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RFL9EgX.png", [B]Pluto TV Cine Drama[/B] 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png", [B]Pluto TV Cine Drama[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -365,17 +365,17 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUjYhA6.png", [COLOR orangered][B]FM  DOS[/B][/COLOR] 
-https://22113.live.streamtheworld.com/FMDOSAAC.aac
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FCuukS6.png", [COLOR orangered][B]ROMANTICA[/B][/COLOR]
-http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXHqekn.png", [COLOR orangered][B]PUDAHUEL[/B][/COLOR]
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7vMLhfU.png", [COLOR orangered][B]IMAGINA[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NPXOnsQ.png", [COLOR orangered][B]EL  CONQUISTADOR[/B][/COLOR]
-http://195.154.167.62:9314/;
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X1NMKA9.png", [COLOR orangered][B]SAN  BARTOLOME[/B][/COLOR]
-http://stream5.eltelon.com/san-bartolome.aac
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [COLOR orangered][B]BIO  BIO[/B][/COLOR]
 http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [COLOR orangered][B]COOPERATIVA[/B][/COLOR]
