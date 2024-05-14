@@ -145,26 +145,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304f530440dc90007f514
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [COLOR blue][B]DW[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AGadXCc.png", [B]DW[/B]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", [COLOR blue][B]MEGA CINE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", [B]MEGA CINE[/B]
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [COLOR blue][B]ORBIT[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [B]ORBIT[/B]
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR blue][B]TELEMAX[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TELEMAX[/B]
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w2121085034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9KrWmZL.png", [COLOR blue][B]WOW TV[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9KrWmZL.png", [B]WOW TV[/B]
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-
-
-
-
-
-
-
-
 
 
 
@@ -177,19 +168,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png", [B]TV RECETAS[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TASTEMADE MEXICO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TASTEMADE MEXICO[/B]
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]TASTEMADE INGLES[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TASTEMADE INGLES[/B]
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lXHqekn.png", [COLOR orangered][B]PUDAHUEL[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="https://i.imgur.com/lXHqekn.png", [B]PUDAHUEL[/B]
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eVqDqXr.png", [COLOR orangered][B]BIO  BIO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="https://i.imgur.com/eVqDqXr.png", [B]BIO  BIO[/B]
 http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [COLOR orangered][B]COOPERATIVA[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [B]COOPERATIVA[/B]
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [COLOR orangered][B]RADIO AMERICA[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="", [B]RADIO AMERICA[/B]
 http://streaming.comunicacioneschile.net:9924/stream?type=http&nocache=4
