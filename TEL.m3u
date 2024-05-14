@@ -44,7 +44,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1t4qIYG.png", [B]CANELA  TV[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PwT6A0Q.png", [B]CANELA  TV 2[/B]
-https://ov.ottera.tv/channels/cnm_ctm_ro/master550000.m3u8;session=cnm_ctm_ro
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2fnAKYc.png", [B]INSPIRACION  Y  FE[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5c18zIq.png", [B]RETRO  PLUS[/B]
