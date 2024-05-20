@@ -28,9 +28,12 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ymnNhvG.png", [B]CHILE VISUAL[/B]
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w799535559.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ymnNhvG.png", [B]CHILE VISUAL RETRO[/B]
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UjspGar.png", [B]GOLDEN PLUS[/B]
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png", [B]SONY[/B]
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGHnCnl.png", [B]XTREMA CINE ACCION[/B]
