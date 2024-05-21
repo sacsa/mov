@@ -86,7 +86,9 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oexnotp.png", [B]24/7[/B]
 https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w960830448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gTBXDej.png", [B]PERU VISUAL[/B]
-https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist_w329032471.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
+https://seo.tv.bo/tv/ATV4_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UjspGar.png", [B]GOLDEN PLUS[/B]
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png", [B]SONY[/B]
