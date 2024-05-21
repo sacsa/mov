@@ -68,7 +68,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uQSC6yu.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/avJGQHz.png", [B]PLANETATV MOVIES[/B]
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Kr7J3K.png", [B]+  CINE[/B]
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
 
@@ -123,7 +123,7 @@ https://premium.tvcontrolcp.com:19360/8050/8050.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PGDIKLa.png", [B]CINERAMA[/B]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1915651858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ld9dQxV.png", [B]GRINGO[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ld9dQxV.png", [B]GRJNGO[/B]
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
 
@@ -269,6 +269,32 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b9f16b8fee4000832d4
 https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a7cfcac5-9d94-11ec-9c4b-0242ac110003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gdfujVV.png", [B]Poirot & Miss Marple[/B]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/65786a1ccbd0d60008f7e2a9/colorLogoPNG.png", [B]BLUE BLOODS[/B] 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65786a1ccbd0d60008f7e2a9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG.png", [B]LLAMA A LA COMADRONA[/B] 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65dded6966eec80008947157/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png", [B]Pluto TV Series Criminales[/B] 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png", [B]NCIS[/B] 
+https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba5db7bc-00c5-11ef-a67d-aaa8de3f56c3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png", [B]CSI: MIAMI[/B] 
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba5db7bc-00c5-11ef-a67d-aaa8de3f56c3
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B][/B] 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B][/B] 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B][/B] 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B][/B] 
 
 
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DRDppOi.png", [COLOR lime][B]LOCOMOTION[/B][/COLOR]
