@@ -125,6 +125,14 @@ https://premium.tvcontrolcp.com:19360/8050/8050.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PGDIKLa.png", [B]CINERAMA[/B]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1915651858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", GAM TV 
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", GARABITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", MARKA TV
+https://rdn.essastream.com:3909/live/markatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", VIVO TV
+https://clientes.videostreaming.ar:19360/vivotv/vivotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ld9dQxV.png", [B]GRJNGO[/B]
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
