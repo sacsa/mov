@@ -23,29 +23,27 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w373884968.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zXNQIel.png", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4i5v7d6.png", [B]TERROR 24/7[/B]
-http://pe.shortgod.com/awester/tv6.php?id=196
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tf7tPQl.png", [B]FREE TV TERROR[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6iZ9RAT.png", [B]CINE FRIKI[/B]
 https://d2jqgm8hyia1n3.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CANAL 34[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", [B]CANAL 34[/B]
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINCO TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5hY7JxM.png", [B]CINCO TV[/B]
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uQSC6yu.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/avJGQHz.png", [B]PLANETATV MOVIES[/B]
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Kr7J3K.png", [B]+  CINE[/B]
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ymnNhvG.png", [B]CHILE VISUAL[/B]
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w799535559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ymnNhvG.png", [B]CHILE VISUAL RETRO[/B]
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UjspGar.png", [B]GOLDEN PLUS[/B]
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png", [B]SONY[/B]
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8?rand=0.15285368835185653
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGHnCnl.png", [B]XTREMA CINE ACCION[/B]
@@ -56,12 +54,7 @@ https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1132943460.m3u
 https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1504972089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqhWOL8.png", [B]CANELA  CINEMA[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1t4qIYG.png", [B]CANELA  TV[/B]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PwT6A0Q.png", [B]CANELA  TV 2[/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2fnAKYc.png", [B]INSPIRACION  Y  FE[/B]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5c18zIq.png", [B]RETRO  PLUS[/B]
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w125486884.m3u8
 
@@ -99,10 +92,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0JoV7vS.png", [B]EUROPA  EUROPA[/B]
-http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7PgPImN.png", [B]CINES VERDI TV[/B]
-https://daiconnect.com/live/hls/tvup/tvfy-verdi/bf9c6501109a65d50a0f164db0a272e4/.m3u8?ApPW=1626&ApPH=655&USrGDPRC=CP8mHYAP8mHYABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMR
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K70xF2a.png", [B]RAKUTEN BBC DRAMA[/B]
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8
@@ -123,8 +112,6 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zdwj0Bo.png", [B]FREE TV  ACCION[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EwxxRJE.png", [B]CINE  ROMANTICO[/B]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 
 
@@ -160,21 +147,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304f530440dc90007f514
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", [B]MEGA CINE[/B]
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vwNpI4L.png", [B]ORBIT[/B]
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w957845602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]TELEMAX[/B]
-https://cdn2.streamgato.us/telemax/telemax/chunklist_w2121085034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9KrWmZL.png", [B]WOW TV[/B]
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="https://i.imgur.com/eVqDqXr.png", [B]BIO  BIO[/B]
-http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="https://i.imgur.com/Ewk7oT9.png", [B]COOPERATIVA[/B]
-http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-name="Radios" tvg-logo="", [B]RADIO AMERICA[/B]
-http://streaming.comunicacioneschile.net:9924/stream?type=http&nocache=4
