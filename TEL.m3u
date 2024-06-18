@@ -15,6 +15,11 @@ https://tv.streaming-chile.com:8081/lapopulartv/tracks-v1a1/mono.m3u8
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", prueba 1
+https://archive.org/download/aBd00912/bBd00913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", prueba 2
+https://archive.org/download/aBd00912/aBd00912.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5hY7JxM.png", CINCO TV
