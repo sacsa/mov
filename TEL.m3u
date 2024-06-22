@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", 13
-https://sktv-forwarders.7m.pl/get.php?x=Canal13
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", TV +
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EqVwT5F.png", MI  RADIO
@@ -15,10 +15,11 @@ https://tv.streaming-chile.com:8081/lapopulartv/tracks-v1a1/mono.m3u8
 https://jireh-1-hls-video-cl-claro.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b13196538403364efe44ecd56d&ndvc=0&sid=ba5t1l1xb4160518373564efe45505a64
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", prueba 1
-https://archive.org/download/aBd00912/bBd00913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", prueba 2
-https://archive.org/download/aBd00912/aBd00912.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ld9dQxV.png", GRINGO
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7Q9tyeS.png", WESTERN 
+https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1557a8b5-f5ed-11ed-815a-3eba5629fdcd1
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
@@ -46,13 +47,13 @@ https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w1504972089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqhWOL8.png", CANELA  CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1t4qIYG.png", CANELA  TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PwT6A0Q.png", CANELA  TV  2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2fnAKYc.png", INSPIRACION  Y  FE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5c18zIq.png", RETRO  PLUS
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w125486884.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EuUjHPk.png", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -62,18 +63,13 @@ https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8?rand=0.20182
 https://premium.tvcontrolcp.com:19360/8050/8050.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PGDIKLa.png", CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1915651858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ld9dQxV.png", GRINGO
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7Q9tyeS.png", WESTERN 
-https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1557a8b5-f5ed-11ed-815a-3eba5629fdcd1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-history.png", HISTORY
 http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/346
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png", HISTORY  2
 http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/177628
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png", HISTORIA 
 http://781194322483339761.of51.xyz:80/live/ja810198/NT3W3crnGm/339761.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/30HzeQe.png", [B]CINE[/B]
-https://tvdatta.com:3602/stream/play.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
