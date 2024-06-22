@@ -29,7 +29,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uQSC6yu.png", ORIGEN  TV
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", MOVIE  ZONE
-https://ssh101-fl.bozztv.com/ssh101/moviezoneiptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Kr7J3K.png", +  CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ymnNhvG.png", CHILE VISUAL
