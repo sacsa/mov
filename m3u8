@@ -1,10 +1,10 @@
               #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", [B]MEGA[/B]
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", [B]TVN[/B]
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", MEGA
+http://200.59.188.3:8000/play/a089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", TVN
+http://200.59.188.3:8000/play/a00v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kiElqTa.png", [B]CHV[/B] 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", [B]13[/B] 
@@ -36,19 +36,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zXNQIel.png", [B]CANELA  HORROR[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4i5v7d6.png", [B]TERROR 24/7[/B]
-http://pe.shortgod.com/awester/tv6.php?id=196
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tf7tPQl.png", [B]FREE TV TERROR[/B]
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6iZ9RAT.png", [B]CINE FRIKI[/B]
-https://d2jqgm8hyia1n3.cloudfront.net/index.m3u8
+
 
 
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ebMuFXP.png", [B]ID[/B]
-http://zeuspro.xyz:8080/adrianogambini1/tNQtNdDN6U/26898
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]UNIVERSAL CRIME[/B]
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159267|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://200.59.188.3:8000/play/a018
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lqmQwHC.png", [B]TRUE CRIME[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
@@ -67,15 +65,14 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uQSC6yu.png", [B]ORIGEN  TV[/B]
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54Ol4-ZQUzF18OomjJZNI_fdLje9tkdS_fQ&s", TICK  TV
+https://ssh101-fl.bozztv.com/ssh101/ticktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/avJGQHz.png", [B]PLANETATV MOVIES[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Kr7J3K.png", [B]+  CINE[/B]
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/30HzeQe.png", [B]CINE[/B]
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]CINE  2[/B]
-http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/26908
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/d94a5f7f1913eea53167784065b56aee.png", [B]PARENTESIS TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/11978fb15e78b24dc2c7cd78342f3c9f.png", [B]MILODON TV[/B]
@@ -91,9 +88,9 @@ https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w960830448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gTBXDej.png", [B]PERU VISUAL[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", [B]SEO TV PELICULAS[/B]
-https://seo.tv.bo/tv/ATV4_HD.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UjspGar.png", [B]GOLDEN PLUS[/B]
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png", [B]SONY[/B]
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tch9RSK.png", [B]MULTIVISION[/B]
@@ -128,14 +125,16 @@ https://premium.tvcontrolcp.com:19360/8050/8050.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PGDIKLa.png", [B]CINERAMA[/B]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1915651858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", GAM TV 
-https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", GARABITO TV
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", MARKA TV
-https://rdn.essastream.com:3909/live/markatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ld9dQxV.png", [B]GRJNGO[/B]
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CmLSkn9.png", CINE
+http://45.4.85.214:58001/play/a03o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-history.png", HISTORY
+http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png", HISTORY  2
+http://200.59.188.3:8000/play/a033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9MmBdBk.png", HISTORIA 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aBf4RHS.png", UNIVERSAL
+http://45.4.85.214:58001/play/a03l
 
 
 
@@ -151,7 +150,7 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", [B]FRECUENCIA MUSICAL TV[/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIMcILSCoglF5vWRsjN7EtNAzcfa6MONLQw&s", [B]FRECUENCIA MUSICAL TV[/B]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6z09N5E.png", [B]RUN TIME[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
@@ -189,7 +188,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159176|user-agent=BrzLRzQgfTrvXYG
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7PgPImN.png", [B]CINES VERDI TV[/B]
 https://daiconnect.com/live/hls/tvup/tvfy-verdi/bf9c6501109a65d50a0f164db0a272e4/.m3u8?ApPW=1626&ApPH=655&USrGDPRC=CP8mHYAP8mHYABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMR
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1361963964469493760/KjCFXNWp_400x400.jpg", [B]FEEL  GOOD[/B]
+http://200.59.188.3:8000/play/a0fv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K70xF2a.png", [B]RAKUTEN BBC DRAMA[/B]
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MP5nhXq.png", [B]RAKUTEN DRAMA[/B]
