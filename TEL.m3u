@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", MEGA
 http://200.59.188.3:8000/play/a089
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", TVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lkAAary.png", TVN
 http://200.59.188.3:8000/play/a00v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", 13
 
