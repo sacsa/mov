@@ -66,6 +66,8 @@ https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8?rand=0.20182
 https://premium.tvcontrolcp.com:19360/8050/8050.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PGDIKLa.png", CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1915651858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CmLSkn9.png", CINE
+http://45.4.85.214:58001/play/a03o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-history.png", HISTORY
 http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/346
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png", HISTORY  2
