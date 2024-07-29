@@ -2,7 +2,9 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", MEGA
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+http://200.59.188.3:8000/play/a089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", TVN
+http://200.59.188.3:8000/play/a00v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A9rJ5rq.png", 13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", TV +
