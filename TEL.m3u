@@ -85,7 +85,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6z09N5E.png", RUN TIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S7b7w09.png", RUN TIME  THRILLER Y TERROR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTqghfg.png", RUN TIME  CRIMEN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTqghfg.png", RUN TIME  CRIMEN  2
@@ -93,13 +93,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yQLRL9G.png", RUN TIME  CINE Y SERIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KF7deyR.png", RUN TIME  ACCION
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2tcP6aj.png", RUN TIME  ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KtGobzJ.png", RUN TIME  CLASICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jU6LyWE.png", RUN TIME  SERIES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K70xF2a.png", RAKUTEN  BBC DRAMA
