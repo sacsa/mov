@@ -1,4 +1,4 @@
-              #EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a6m1yWP.png", MEGA
@@ -50,7 +50,9 @@ http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lqmQwHC.png", [B]TRUE CRIME[/B]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]SANGRE FRÍA[/B]
-
+http://795527025411870220.ofkd0722.xyz:80/live/fe94126/K56Rdq8U8J5q/870220.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q9qf447.png", [B]CRIMEN ID[/B]
+http://795527025411386495.ofkd0722.xyz:80/live/fe94126/K56Rdq8U8J5q/386495.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZS6FfUW.png", [B]CANAL 34[/B]
@@ -216,12 +218,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqLQPmU.png", [B]LIFE  TV[/B]
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7CNArTW.png", [B]ATRESERIES[/B]
+http://795527025411383250.ofkd0722.xyz:80/live/fe94126/K56Rdq8U8J5q/383250.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OtqCBJX.png", [B]CUATRO[/B]
-
+http://795527025411321198.ofkd0722.xyz:80/live/fe94126/K56Rdq8U8J5q/321198.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4OWVNf.png", [B]ENERGY[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/icQ1FQz.png", [B]DIVINITY[/B]
-
+http://795527025411861583.ofkd0722.xyz:80/live/fe94126/K56Rdq8U8J5q/861583.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ueVTlLV.png", [B]FDF[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b632pIw.png", [B]TELECINCO[/B]
@@ -229,7 +233,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jbO2OqE.png", [B]BEMAD[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbX9FkJ.png", [B]PARAMOUNT[/B]
-
+http://795527025411859819.ofkd0722.xyz:80/live/fe94126/K56Rdq8U8J5q/859819.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7kKQdIY.png", [B]DISTRITO  TV[/B]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PqsZbbC.png", [B]COCINA  TV[/B]
