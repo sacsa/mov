@@ -87,7 +87,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u
 #EXTINF:-1 tvg-id="6304f530440dc90007f514d3" tvg-name="Poirot & Miss Marple" tvg-logo="https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="313", Poirot & Miss Marple
 https://stitcher.pluto.tv/stitch/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f70b5bbd-616c-11ef-8932-3ac84e606bf1
 
-#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Documental + Lifestyle" tvg-chno="450", Pluto TV Cocina
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Cocina" tvg-chno="450", Pluto TV Cocina
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f70b5bbd-616c-11ef-8932-3ac84e606bf1
 
 #EXTINF:-1 tvg-id="65786a1ccbd0d60008f7e2a9" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/65786a1ccbd0d60008f7e2a9/colorLogoPNG.png" group-title="Series" tvg-chno="97", Blue Bloods
@@ -96,13 +96,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/65786a1ccbd0d60008f7e2a9/master.m3u
 #EXTINF:-1 tvg-id="65dded6966eec80008947157" tvg-name="Call the Midwife" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG.png" group-title="Series" tvg-chno="102", Call the Midwife
 https://stitcher.pluto.tv/stitch/hls/channel/65dded6966eec80008947157/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f70b5bbd-616c-11ef-8932-3ac84e606bf1
 
-#EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documental + Lifestyle" tvg-chno="451", Pluto TV Historia
+#EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documental" tvg-chno="451", Pluto TV Historia
 https://stitcher.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f70b5bbd-616c-11ef-8932-3ac84e606bf1
 
-#EXTINF:-1 tvg-id="64db2e0835425100080f2f5a" tvg-name="Pluto TV Diseño" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="Documental + Lifestyle" tvg-chno="452", Pluto TV Diseño
+#EXTINF:-1 tvg-id="64db2e0835425100080f2f5a" tvg-name="Pluto TV Diseño" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="Documental" tvg-chno="452", Pluto TV Diseño
 https://stitcher.pluto.tv/stitch/hls/channel/64db2e0835425100080f2f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f70b5bbd-616c-11ef-8932-3ac84e606bf1
 
-#EXTINF:-1 tvg-id="65786abdb3801200084c593a" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Documental + Lifestyle" tvg-chno="453", Homeful
+#EXTINF:-1 tvg-id="65786abdb3801200084c593a" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Documental" tvg-chno="453", Homeful
 https://stitcher.pluto.tv/stitch/hls/channel/65786abdb3801200084c593a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f70b5bbd-616c-11ef-8932-3ac84e606bf1
 
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-name="Pluto TV Viajes" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Documental + Lifestyle" tvg-chno="454", Pluto TV Viajes
@@ -152,10 +152,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u
 #EXTINF:-1 tvg-id="655f636d954b020008c93299" tvg-name="Pluto TV Series de Drama" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG.png" group-title="Series" tvg-chno="160", Pluto TV Series de Drama
 https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="63a084934734f30007457b2c" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="560", Smithsonian Channel Pluto TV
+#EXTINF:-1 tvg-id="63a084934734f30007457b2c" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="Documental" tvg-chno="560", Smithsonian Channel Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="563", Pluto TV Historia
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Documental" tvg-chno="563", Pluto TV Historia
 https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
 
@@ -168,34 +168,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Investigación" tvg-chno="593", Archivos Forenses
 https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="63ceb6ff60bc8f00088dc625" tvg-name="Teatrix" tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1036", Teatrix
-https://stitcher.pluto.tv/stitch/hls/channel/63ceb6ff60bc8f00088dc625/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
-
-#EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-name="Telefe Hits" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1065", Telefe Hits
-https://stitcher.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
-
-#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1099", Azteca UNO -1 hora
-https://stitcher.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
-
-#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="Azteca Internacional" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1103", Azteca Internacional
-https://stitcher.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
-
-#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" tvg-name="Imagen TV+" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1113", Imagen TV+
-https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
-
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" tvg-name="Canal 6 CdMX" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1118", Canal 6 CdMX
-https://stitcher.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
-
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1179", Pluto TV Hogar
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Cocina" tvg-chno="1179", Pluto TV Hogar
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1199", Pluto TV Cocina
+#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cocina" tvg-chno="1199", Pluto TV Cocina
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-name="Pluto TV Recetas" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1204", Pluto TV Recetas
+#EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-name="Pluto TV Recetas" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Cocina" tvg-chno="1204", Pluto TV Recetas
 https://stitcher.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1209", Tastemade
+#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Cocina" tvg-chno="1209", Tastemade
 https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
 #EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series" tvg-chno="104", CSI: Miami
@@ -253,7 +235,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="todo-cine" tvg-name="todo-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg" group-title="En Vivo" , Todo Cine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="En Vivo" , Tastemade en Español
+#EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="Cocina" , Tastemade en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=934dcb59096063d5468f2c7b078556cd
 #EXTINF:-1 tvg-id="canela-familia" tvg-name="canela-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-canelafamilia-16x9-jainer.jpg" group-title="Kids" , Canela Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
