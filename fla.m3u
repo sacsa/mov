@@ -159,13 +159,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
 
-#EXTINF:-1 tvg-id="6109a9f5531b840007a4a187" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Investigación" tvg-chno="583", Cazador de Homicidas
+#EXTINF:-1 tvg-id="6109a9f5531b840007a4a187" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="583", Cazador de Homicidas
 https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Investigación" tvg-chno="588", Los archivos del FBI
+#EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="588", Los archivos del FBI
 https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
-#EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Investigación" tvg-chno="593", Archivos Forenses
+#EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="593", Archivos Forenses
 https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1f4d6964-616d-11ef-92e8-3ef8f05b0327
 
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Cocina" tvg-chno="1179", Pluto TV Hogar
@@ -237,12 +237,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="Cocina" , Tastemade en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=934dcb59096063d5468f2c7b078556cd
-#EXTINF:-1 tvg-id="canela-familia" tvg-name="canela-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-canelafamilia-16x9-jainer.jpg" group-title="Kids" , Canela Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-#EXTINF:-1 tvg-id="cine-en-familia" tvg-name="cine-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/copia_de_linear-cine_en_familia-kids-16x9-albert.jpg" group-title="Kids" , Cine en Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
-#EXTINF:-1 tvg-id="zona-de-accion" tvg-name="zona-de-accion" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9-albert.jpg" group-title="Kids" , Zona de Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
 
 
@@ -283,9 +277,9 @@ https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBD3900002EV" tvg-name="ESBD3900002EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3900002EV_20240611T061857SQUARE.png" group-title="Drama" , Todo Crimen
 https://d1htv2e9yxvqgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-acdwnb8vzvd8t/out/v1/339ff90dbfd94a82a90c74a4100d9069/TODO_CRIMEN_ES_HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20221026T004516SQUARE.png_20221026004516.png" group-title="Drama" , Los Asesinatos de Midsomer
+#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20221026T004516SQUARE.png_20221026004516.png" group-title="Crimen y Misterio" , Los Asesinatos de Midsomer
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8
-#EXTINF:-1 tvg-id="ESBC2700010F6" tvg-name="ESBC2700010F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="Drama" , Crimen - Rakuten TV
+#EXTINF:-1 tvg-id="ESBC2700010F6" tvg-name="ESBC2700010F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="Crimen y Misterio" , Crimen - Rakuten TV
 https://135e6879da0440a6bb38a78a62dea563.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Crimen/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBA1400003LA" tvg-name="ESBA1400003LA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20230614T005905SQUARE.png_20230614005905.png" group-title="Drama" , BBC Drama
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
